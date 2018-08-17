@@ -16,5 +16,5 @@ Pending: This project is licensed under the MIT License - see the [LICENSE.md](L
 
 ## Acknowledgments / Contributions
 
-* Some of this data was generated from swatches provided by Anne Sullivan of [play-crafts.com](http://www.play-crafts.com/blog/tools/)
-* The original Kona swatches was created by [Alyssa of Pile O' Fabric](https://pileofabric.com/blogs/modern-quilting/15173769-kona-illustrator-swatches-install-tutorial)
+* The original Kona swatch set was created by [Alyssa of Pile O' Fabric](https://pileofabric.com/blogs/modern-quilting/15173769-kona-illustrator-swatches-install-tutorial)
+* Anne Sullivan of [play-crafts.com](http://www.play-crafts.com/blog/tools/) added to the Kona swatch set, and provided additional data from which this data set was created.
