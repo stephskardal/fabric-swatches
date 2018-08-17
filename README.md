@@ -8,7 +8,7 @@ You may use this data as you'd like, per the MIT License.
 
 ## Contributing
 
-If you would like to modify or contribute, please feel free to reach out to me at [stephskardal@gmail.com](mailto:stephskardal@gmail.com)
+If you would like to modify or contribute, please feel free to reach out to me at [stephskardal@gmail.com](mailto:stephskardal@gmail.com), or submit a pull request through github and I will review it.
 
 ## License
 
