@@ -6,6 +6,10 @@ This is a collection of fabric solids (name and hex) from major fabric distribut
 
 You may use this data as you'd like, per the pending MIT License.
 
+## Contributing
+
+If you would like to modify or contribute, please feel free to reach out to me at [stephskardal@gmail.com](mailto:stephskardal@gmail.com)
+
 ## License
 
 Pending: This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
