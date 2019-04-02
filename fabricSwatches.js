@@ -1164,7 +1164,7 @@ var fabricSwatches = {
       'AMB-44 light eggplant': '#b667a9',
       'AMB-42 pink': '#fec4dd',
       'AMB-31 royal blue': '#1313cb',
-      'AMB-3 black': '#000000  black',
+      'AMB-3 black': '#000000',
       'AMB-33 aqua': '#63f6fe',
       'AMB-5 light gray': '#a7a9a4',
       'AMB-21 green': '#008c2c',
