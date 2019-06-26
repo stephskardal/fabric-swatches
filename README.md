@@ -1,6 +1,6 @@
 # Solid Fabric Swatches
 
-This is a collection of fabric solids (name and hex) from major fabric distributors. Note that these swatches are generated from publicly available swatches and there may be discrepancies in actual fabric color.
+This is a collection of solids (name and hex) from major sewing related distributors (fabric, thread). Note that these swatches are generated from publicly available swatches and there may be discrepancies in actual fabric color.
 
 ## Use
 
