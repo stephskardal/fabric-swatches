@@ -6,6 +6,10 @@ This is a collection of solids (name and hex) from major sewing related distribu
 
 You may use this data as you'd like, per the MIT License.
 
+## Example
+
+[See the color collections](https://www.stephskardalquilts.com/solids-library-now-on-github/) in this visualization that allows you to sort the colors.
+
 ## Contributing
 
 If you would like to modify or contribute, please feel free to reach out to me at [stephskardal@gmail.com](mailto:stephskardal@gmail.com), or submit a pull request through github and I will review it.
