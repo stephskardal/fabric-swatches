@@ -24,3 +24,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Anne Sullivan of [play-crafts.com](http://www.play-crafts.com/blog/tools/) added to the Kona swatch set, and provided additional data from which this data set was created.
 * Upon creation of this code, I (Steph) regenerated and re-sorted the Kona swatches, but much of Anne's data remains.
 * Paintbrush Studios were contributed from Laura and Gar of [PreQuilt](https://app.prequilt.com/).
+* Link update from [Bryan Nehl](https://github.com/k0emt)
+* Kona swatch updates from [Ben Millett](https://benmillett.us/)
