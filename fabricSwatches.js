@@ -1967,7 +1967,7 @@ var fabricSwatches = {
       'Pear': '#a5c770',
       'Periwinkle': '#8181c1',
       'Pickle': '#71975a',
-      'PinkLemonade': '#ffb0af',
+      'Pink Lemonade': '#ffb0af',
       'Pistachio': '#a9daaa',
       'Plum': '#6c3974',
       'Pool': '#51b4d5',
