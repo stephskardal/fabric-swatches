@@ -511,7 +511,7 @@ var fabricSwatches = {
       'caviar': '#1d1d1d'
     }
   },
-  freeSpirit: { //TODO: Fix names - ack
+  freeSpirit: {
     label: 'Free Spirit Solids',
     swatches: {
       'sorbet': '#d1c7e0',
