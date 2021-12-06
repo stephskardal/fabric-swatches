@@ -1151,7 +1151,8 @@ var fabricSwatches = {
      'pink flamingo (coty 2017)': '#fb8083',
      'tiger lily (coty 2018)': '#e84925',
      'splash (coty 2019)': '#0fdada',
-     'enchanted (coty 2020)': '#017b66'
+     'enchanted (coty 2020)': '#017b66',
+     'horizon (coty 2021)': '#4bd4f8'
     }
   },
   modaBella: {
