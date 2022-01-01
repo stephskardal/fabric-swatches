@@ -50,6 +50,7 @@ module Procreate
       def export(name, colors, options = {})
         wrapper = Wrapper.new(name, colors)
 
+        p "Creating for: #{options}"
         Exporter.call(wrapper, options)
       end
 
