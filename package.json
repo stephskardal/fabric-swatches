@@ -2,8 +2,9 @@
   "private": true,
   "license": "MIT",
   "scripts": {
+    "generate": "node scripts/gen-data.js; yarn run prettier -w outputs"
   },
-"type": "module",
+  "type": "module",
   "dependencies": {
     "@types/chroma-js": "^2.1.4",
     "chroma": "^0.0.1",

@@ -14,7 +14,7 @@ const generate = async () => {
           label: swatch,
           hex: hex,
           rgb: color.rgb(),
-          hsv: hsv
+          hsl: hsv // tricky
         }
       }
     )
