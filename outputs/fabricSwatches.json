@@ -4157,364 +4157,976 @@
     "label": "Pure Elements AGF Studio",
     "swatches": [
       {
-        "label": "creme de la creme",
-        "hex": "#f3dec1",
-        "rgb": [243, 222, 193],
-        "hsl": [34.8, 0.68, 0.85, 1]
+        "label": "PE-400 Cabernet",
+        "hex": "#2E1727",
+        "rgb": [46, 23, 39],
+        "hsl": [318.26, 0.33, 0.14, 1]
       },
       {
-        "label": "peach sherbet",
-        "hex": "#fcc8a0",
-        "rgb": [252, 200, 160],
-        "hsl": [26.09, 0.94, 0.81, 1]
+        "label": "PE-401 Verve Violet",
+        "hex": "#924A78",
+        "rgb": [146, 74, 120],
+        "hsl": [321.67, 0.33, 0.43, 1]
       },
       {
-        "label": "crystal pink",
-        "hex": "#f7c7c7",
-        "rgb": [247, 199, 199],
-        "hsl": [0, 0.75, 0.87, 1]
+        "label": "PE-402 Cozumel Blue",
+        "hex": "#00ABA2",
+        "rgb": [0, 171, 162],
+        "hsl": [176.84, 1, 0.34, 1]
       },
       {
-        "label": "quartz pink",
-        "hex": "#f0aeb0",
-        "rgb": [240, 174, 176],
-        "hsl": [358.18, 0.69, 0.81, 1]
+        "label": "PE-403 Fresh Water",
+        "hex": "#A0D1CE",
+        "rgb": [160, 209, 206],
+        "hsl": [176.33, 0.35, 0.72, 1]
       },
       {
-        "label": "coral reef",
-        "hex": "#ef5b57",
-        "rgb": [239, 91, 87],
-        "hsl": [1.58, 0.83, 0.64, 1]
+        "label": "PE-404 Fuschia",
+        "hex": "#EF619D",
+        "rgb": [239, 97, 157],
+        "hsl": [334.65, 0.82, 0.66, 1]
       },
       {
-        "label": "grapefruit",
-        "hex": "#f59887",
-        "rgb": [245, 152, 135],
-        "hsl": [9.27, 0.85, 0.75, 1]
+        "label": "PE-405 Cherry Lipgloss",
+        "hex": "#CC3B5C",
+        "rgb": [204, 59, 92],
+        "hsl": [346.34, 0.59, 0.52, 1]
       },
       {
-        "label": "festival fuschia",
-        "hex": "#f075ae",
-        "rgb": [240, 117, 174],
-        "hsl": [332.2, 0.8, 0.7, 1]
+        "label": "PE-406 Burnt Orange",
+        "hex": "#DA7837",
+        "rgb": [218, 120, 55],
+        "hsl": [23.93, 0.69, 0.54, 1]
       },
       {
-        "label": "raspberry rose",
-        "hex": "#d73075",
-        "rgb": [215, 48, 117],
-        "hsl": [335.21, 0.68, 0.52, 1]
+        "label": "PE-407 Empire Yellow",
+        "hex": "#D4B739",
+        "rgb": [212, 183, 57],
+        "hsl": [48.77, 0.64, 0.53, 1]
       },
       {
-        "label": "cherry lipgloss",
-        "hex": "#dc3d65",
-        "rgb": [220, 61, 101],
-        "hsl": [344.91, 0.69, 0.55, 1]
+        "label": "PE-408 White Linen",
+        "hex": "#F1F0DB",
+        "rgb": [241, 240, 219],
+        "hsl": [57.27, 0.44, 0.9, 1]
       },
       {
-        "label": "spiceberry",
-        "hex": "#972e4c",
-        "rgb": [151, 46, 76],
-        "hsl": [342.86, 0.53, 0.39, 1]
+        "label": "PE-409 Light Citron",
+        "hex": "#E2E78D",
+        "rgb": [226, 231, 141],
+        "hsl": [63.33, 0.65, 0.73, 1]
       },
       {
-        "label": "london red",
-        "hex": "#d62126",
-        "rgb": [214, 33, 38],
-        "hsl": [358.34, 0.73, 0.48, 1]
+        "label": "PE-410 Ash",
+        "hex": "#9A9C99",
+        "rgb": [154, 156, 153],
+        "hsl": [100, 0.01, 0.61, 1]
       },
       {
-        "label": "tigerlily",
-        "hex": "#e35c3c",
-        "rgb": [227, 92, 60],
-        "hsl": [11.5, 0.75, 0.56, 1]
+        "label": "PE-411 Quartz Pink",
+        "hex": "#F1AFB1",
+        "rgb": [241, 175, 177],
+        "hsl": [358.18, 0.7, 0.82, 1]
       },
       {
-        "label": "burnt orange",
-        "hex": "#ee7637",
-        "rgb": [238, 118, 55],
-        "hsl": [20.66, 0.84, 0.57, 1]
-      },
-      {
-        "label": "mandarin",
-        "hex": "#f69745",
-        "rgb": [246, 151, 69],
-        "hsl": [27.8, 0.91, 0.62, 1]
-      },
-      {
-        "label": "apricot crepe",
-        "hex": "#f6a685",
-        "rgb": [246, 166, 133],
-        "hsl": [17.52, 0.86, 0.74, 1]
-      },
-      {
-        "label": "sandstone",
-        "hex": "#dacdbc",
-        "rgb": [218, 205, 188],
-        "hsl": [34, 0.29, 0.8, 1]
-      },
-      {
-        "label": "honey",
-        "hex": "#d4a04d",
-        "rgb": [212, 160, 77],
-        "hsl": [36.89, 0.61, 0.57, 1]
-      },
-      {
-        "label": "banana cream",
-        "hex": "#ffcc56",
-        "rgb": [255, 204, 86],
-        "hsl": [41.89, 1, 0.67, 1]
-      },
-      {
-        "label": "empire yellow",
-        "hex": "#d7bf27",
-        "rgb": [215, 191, 39],
-        "hsl": [51.82, 0.69, 0.5, 1]
-      },
-      {
-        "label": "canary",
-        "hex": "#fcdd2d",
-        "rgb": [252, 221, 45],
-        "hsl": [51.01, 0.97, 0.58, 1]
-      },
-      {
-        "label": "dark citron",
-        "hex": "#9ea74a",
-        "rgb": [158, 167, 74],
-        "hsl": [65.81, 0.39, 0.47, 1]
-      },
-      {
-        "label": "appletini",
-        "hex": "#b7ba69",
-        "rgb": [183, 186, 105],
-        "hsl": [62.22, 0.37, 0.57, 1]
-      },
-      {
-        "label": "lemonade",
-        "hex": "#d3d95f",
-        "rgb": [211, 217, 95],
-        "hsl": [62.95, 0.62, 0.61, 1]
-      },
-      {
-        "label": "honeydew",
-        "hex": "#e8d88a",
-        "rgb": [232, 216, 138],
-        "hsl": [49.79, 0.67, 0.73, 1]
-      },
-      {
-        "label": "sweet mint",
-        "hex": "#d1e4c8",
-        "rgb": [209, 228, 200],
-        "hsl": [100.71, 0.34, 0.84, 1]
-      },
-      {
-        "label": "patina green",
-        "hex": "#88a382",
-        "rgb": [136, 163, 130],
-        "hsl": [109.09, 0.15, 0.57, 1]
-      },
-      {
-        "label": "pistachio creme",
-        "hex": "#abd49c",
-        "rgb": [171, 212, 156],
-        "hsl": [103.93, 0.39, 0.72, 1]
-      },
-      {
-        "label": "light citron",
-        "hex": "#d9e488",
-        "rgb": [217, 228, 136],
-        "hsl": [67.17, 0.63, 0.71, 1]
-      },
-      {
-        "label": "white linen",
-        "hex": "#f1f3db",
-        "rgb": [241, 243, 219],
-        "hsl": [65, 0.5, 0.91, 1]
-      },
-      {
-        "label": "tile blue",
-        "hex": "#077c8e",
-        "rgb": [7, 124, 142],
-        "hsl": [188, 0.91, 0.29, 1]
-      },
-      {
-        "label": "cozumel blue",
-        "hex": "#00acb8",
-        "rgb": [0, 172, 184],
-        "hsl": [183.91, 1, 0.36, 1]
-      },
-      {
-        "label": "emerald",
-        "hex": "#04a584",
-        "rgb": [4, 165, 132],
-        "hsl": [167.7, 0.95, 0.33, 1]
-      },
-      {
-        "label": "mirage blue",
-        "hex": "#6dbfb9",
-        "rgb": [109, 191, 185],
-        "hsl": [175.61, 0.39, 0.59, 1]
-      },
-      {
-        "label": "fresh water",
-        "hex": "#a1d9d6",
-        "rgb": [161, 217, 214],
-        "hsl": [176.79, 0.42, 0.74, 1]
-      },
-      {
-        "label": "tender green",
-        "hex": "#c1d7c0",
+        "label": "PE-412 Tender Green",
+        "hex": "#C1D7C0",
         "rgb": [193, 215, 192],
         "hsl": [117.39, 0.22, 0.8, 1]
       },
       {
-        "label": "tranquil waters",
-        "hex": "#a3cfdc",
+        "label": "PE-413 Caviar",
+        "hex": "#1D1D1F",
+        "rgb": [29, 29, 31],
+        "hsl": [240, 0.03, 0.12, 1]
+      },
+      {
+        "label": "PE-414 Dark Citron",
+        "hex": "#9DA649",
+        "rgb": [157, 166, 73],
+        "hsl": [65.81, 0.39, 0.47, 1]
+      },
+      {
+        "label": "PE-415 Parisian Blue",
+        "hex": "#517CA9",
+        "rgb": [81, 124, 169],
+        "hsl": [210.68, 0.35, 0.49, 1]
+      },
+      {
+        "label": "PE-416 Lemonade",
+        "hex": "#D3D95F",
+        "rgb": [211, 217, 95],
+        "hsl": [62.95, 0.62, 0.61, 1]
+      },
+      {
+        "label": "PE-417 Emerald",
+        "hex": "#04A585",
+        "rgb": [4, 165, 133],
+        "hsl": [168.07, 0.95, 0.33, 1]
+      },
+      {
+        "label": "PE-418 Tile Blue",
+        "hex": "#057C90",
+        "rgb": [5, 124, 144],
+        "hsl": [188.63, 0.93, 0.29, 1]
+      },
+      {
+        "label": "PE-419 Light Grey",
+        "hex": "#D4D5C3",
+        "rgb": [212, 213, 195],
+        "hsl": [63.33, 0.18, 0.8, 1]
+      },
+      {
+        "label": "PE-420 Crystal Pink",
+        "hex": "#F7C7C7",
+        "rgb": [247, 199, 199],
+        "hsl": [0, 0.75, 0.87, 1]
+      },
+      {
+        "label": "PE-421 Honey",
+        "hex": "#D4A04D",
+        "rgb": [212, 160, 77],
+        "hsl": [36.89, 0.61, 0.57, 1]
+      },
+      {
+        "label": "PE-422 Chocolate",
+        "hex": "#683E28",
+        "rgb": [104, 62, 40],
+        "hsl": [20.63, 0.44, 0.28, 1]
+      },
+      {
+        "label": "PE-423 Appletini",
+        "hex": "#B7BA6B",
+        "rgb": [183, 186, 107],
+        "hsl": [62.28, 0.36, 0.57, 1]
+      },
+      {
+        "label": "PE-424 Mirage Blue",
+        "hex": "#6DBFBB",
+        "rgb": [109, 191, 187],
+        "hsl": [177.07, 0.39, 0.59, 1]
+      },
+      {
+        "label": "PE-425 Mauvelous",
+        "hex": "#C7A4AB",
+        "rgb": [199, 164, 171],
+        "hsl": [348, 0.24, 0.71, 1]
+      },
+      {
+        "label": "PE-426 Apricot Crepe",
+        "hex": "#F5A685",
+        "rgb": [245, 166, 133],
+        "hsl": [17.68, 0.85, 0.74, 1]
+      },
+      {
+        "label": "PE-427 Spiceberry",
+        "hex": "#982D4B",
+        "rgb": [152, 45, 75],
+        "hsl": [343.18, 0.54, 0.39, 1]
+      },
+      {
+        "label": "PE-428 Nocturnal",
+        "hex": "#18202D",
+        "rgb": [24, 32, 45],
+        "hsl": [217.14, 0.3, 0.14, 1]
+      },
+      {
+        "label": "PE-429 Coffee Bean",
+        "hex": "#4E3F3A",
+        "rgb": [78, 63, 58],
+        "hsl": [15, 0.15, 0.27, 1]
+      },
+      {
+        "label": "PE-430 Moonstone",
+        "hex": "#545351",
+        "rgb": [84, 83, 81],
+        "hsl": [40, 0.02, 0.32, 1]
+      },
+      {
+        "label": "PE-431 Mystic Grey",
+        "hex": "#C0BEBF",
+        "rgb": [192, 190, 191],
+        "hsl": [330, 0.02, 0.75, 1]
+      },
+      {
+        "label": "PE-432 Sandstone",
+        "hex": "#D9CCBC",
+        "rgb": [217, 204, 188],
+        "hsl": [33.1, 0.28, 0.79, 1]
+      },
+      {
+        "label": "PE-433 Snow",
+        "hex": "#FFFFFF",
+        "rgb": [255, 255, 255],
+        "hsl": [null, 0, 1, 1]
+      },
+      {
+        "label": "PE-434 Tranquil Waters",
+        "hex": "#A3CFDC",
         "rgb": [163, 207, 220],
         "hsl": [193.68, 0.45, 0.75, 1]
       },
       {
-        "label": "ocean waves",
-        "hex": "#659ca3",
-        "rgb": [101, 156, 163],
-        "hsl": [186.77, 0.25, 0.52, 1]
+        "label": "PE-435 Banana Cream",
+        "hex": "#FFCC56",
+        "rgb": [255, 204, 86],
+        "hsl": [41.89, 1, 0.67, 1]
       },
       {
-        "label": "icy mint",
-        "hex": "#c9e7dd",
-        "rgb": [201, 231, 221],
-        "hsl": [160, 0.38, 0.85, 1]
+        "label": "PE-436 Creme de la Creme",
+        "hex": "#F2E7D3",
+        "rgb": [242, 231, 211],
+        "hsl": [38.71, 0.54, 0.89, 1]
       },
       {
-        "label": "spruce",
-        "hex": "#5d7a78",
-        "rgb": [93, 122, 120],
-        "hsl": [175.86, 0.13, 0.42, 1]
+        "label": "PE-437 London Red",
+        "hex": "#D72227",
+        "rgb": [215, 34, 39],
+        "hsl": [358.34, 0.73, 0.49, 1]
       },
       {
-        "label": "zambia stone",
-        "hex": "#386e6e",
-        "rgb": [56, 110, 110],
-        "hsl": [180, 0.33, 0.33, 1]
+        "label": "PE-438 Coral Reef",
+        "hex": "#F05B57",
+        "rgb": [240, 91, 87],
+        "hsl": [1.57, 0.84, 0.64, 1]
       },
       {
-        "label": "warm wave",
-        "hex": "#91c8b5",
-        "rgb": [145, 200, 181],
-        "hsl": [159.27, 0.33, 0.68, 1]
+        "label": "PE-439 Raspberry Rose",
+        "hex": "#D73076",
+        "rgb": [215, 48, 118],
+        "hsl": [334.85, 0.68, 0.52, 1]
       },
       {
-        "label": "parisian blue",
-        "hex": "#507da7",
-        "rgb": [80, 125, 167],
-        "hsl": [208.97, 0.35, 0.48, 1]
+        "label": "PE-440 Macchiatto",
+        "hex": "#C1A689",
+        "rgb": [193, 166, 137],
+        "hsl": [31.07, 0.31, 0.65, 1]
       },
       {
-        "label": "denim blue",
-        "hex": "#516b82",
-        "rgb": [81, 107, 130],
-        "hsl": [208.16, 0.23, 0.41, 1]
+        "label": "PE-441 Blueberry Zest",
+        "hex": "#595C7B",
+        "rgb": [89, 92, 123],
+        "hsl": [234.71, 0.16, 0.42, 1]
       },
       {
-        "label": "nocturnal",
-        "hex": "#373c4f",
-        "rgb": [55, 60, 79],
-        "hsl": [227.5, 0.18, 0.26, 1]
+        "label": "PE-442 Ocean Waves",
+        "hex": "#729DA4",
+        "rgb": [114, 157, 164],
+        "hsl": [188.4, 0.22, 0.55, 1]
       },
       {
-        "label": "blueberry zest",
-        "hex": "#63678a",
-        "rgb": [99, 103, 138],
-        "hsl": [233.85, 0.16, 0.46, 1]
+        "label": "PE-443 Sweet Mint",
+        "hex": "#DBEBC7",
+        "rgb": [219, 235, 199],
+        "hsl": [86.67, 0.47, 0.85, 1]
       },
       {
-        "label": "mauvelous",
-        "hex": "#bea2b0",
-        "rgb": [190, 162, 176],
-        "hsl": [330, 0.18, 0.69, 1]
+        "label": "PE-444 Peach Sherbet",
+        "hex": "#FDCBA6",
+        "rgb": [253, 203, 166],
+        "hsl": [25.52, 0.96, 0.82, 1]
       },
       {
-        "label": "verve violet",
-        "hex": "#a3517f",
-        "rgb": [163, 81, 127],
-        "hsl": [326.34, 0.34, 0.48, 1]
+        "label": "PE-445 Mink",
+        "hex": "#94836F",
+        "rgb": [148, 131, 111],
+        "hsl": [32.43, 0.15, 0.51, 1]
       },
       {
-        "label": "purple pansy",
+        "label": "PE-446 Honeydew",
+        "hex": "#F4E588",
+        "rgb": [244, 229, 136],
+        "hsl": [51.67, 0.83, 0.75, 1]
+      },
+      {
+        "label": "PE-447 Patina Green",
+        "hex": "#8F9965",
+        "rgb": [143, 153, 101],
+        "hsl": [71.54, 0.2, 0.5, 1]
+      },
+      {
+        "label": "PE-448 Canary",
+        "hex": "#FBD12F",
+        "rgb": [251, 209, 47],
+        "hsl": [47.65, 0.96, 0.58, 1]
+      },
+      {
+        "label": "PE-449 Mandarin",
+        "hex": "#F5A455",
+        "rgb": [245, 164, 85],
+        "hsl": [29.63, 0.89, 0.65, 1]
+      },
+      {
+        "label": "PE-450 Grapefruit",
+        "hex": "#F79A88",
+        "rgb": [247, 154, 136],
+        "hsl": [9.73, 0.87, 0.75, 1]
+      },
+      {
+        "label": "PE-451 Icy Mint",
+        "hex": "#CFE9DE",
+        "rgb": [207, 233, 222],
+        "hsl": [154.62, 0.37, 0.86, 1]
+      },
+      {
+        "label": "PE-452 Spruce",
+        "hex": "#5F7C78",
+        "rgb": [95, 124, 120],
+        "hsl": [171.72, 0.13, 0.43, 1]
+      },
+      {
+        "label": "PE-453 Purple Pansy",
         "hex": "#745090",
         "rgb": [116, 80, 144],
         "hsl": [273.75, 0.29, 0.44, 1]
       },
       {
-        "label": "cabernet",
-        "hex": "#3c1a32",
-        "rgb": [60, 26, 50],
-        "hsl": [317.65, 0.4, 0.17, 1]
+        "label": "PE-454 Mediterraneo",
+        "hex": "#3E525D",
+        "rgb": [62, 82, 93],
+        "hsl": [201.29, 0.2, 0.3, 1]
       },
       {
-        "label": "macchiatto",
-        "hex": "#c1a689",
-        "rgb": [193, 166, 137],
-        "hsl": [31.07, 0.31, 0.65, 1]
+        "label": "PE-455 Royal Cobalt",
+        "hex": "#434A98",
+        "rgb": [67, 74, 152],
+        "hsl": [235.06, 0.39, 0.43, 1]
       },
       {
-        "label": "mink",
-        "hex": "#93806f",
-        "rgb": [147, 128, 111],
-        "hsl": [28.33, 0.14, 0.51, 1]
+        "label": "PE-456 Aurora Red",
+        "hex": "#AD422E",
+        "rgb": [173, 66, 46],
+        "hsl": [9.45, 0.58, 0.43, 1]
       },
       {
-        "label": "sienna brick",
-        "hex": "#b87151",
-        "rgb": [184, 113, 81],
-        "hsl": [18.64, 0.42, 0.52, 1]
+        "label": "PE-457 Dried Carrot",
+        "hex": "#DC7844",
+        "rgb": [220, 120, 68],
+        "hsl": [20.53, 0.68, 0.56, 1]
       },
       {
-        "label": "chocolate",
-        "hex": "#8e5739",
-        "rgb": [142, 87, 57],
-        "hsl": [21.18, 0.43, 0.39, 1]
+        "label": "PE-458 Toasty Walnut",
+        "hex": "#CB9A71",
+        "rgb": [203, 154, 113],
+        "hsl": [27.33, 0.46, 0.62, 1]
       },
       {
-        "label": "coffee bean",
-        "hex": "#4f403b",
-        "rgb": [79, 64, 59],
-        "hsl": [15, 0.14, 0.27, 1]
+        "label": "PE-459 Turmeric",
+        "hex": "#D49A2E",
+        "rgb": [212, 154, 46],
+        "hsl": [39.04, 0.66, 0.51, 1]
       },
       {
-        "label": "mistic grey",
-        "hex": "#bebebe",
-        "rgb": [190, 190, 190],
-        "hsl": [null, 0, 0.75, 1]
+        "label": "PE-460 Sienna Brick",
+        "hex": "#AD6444",
+        "rgb": [173, 100, 68],
+        "hsl": [18.29, 0.44, 0.47, 1]
       },
       {
-        "label": "snow",
-        "hex": "#fffbfa",
-        "rgb": [255, 251, 250],
-        "hsl": [12, 1, 0.99, 1]
+        "label": "PE-461 Tigerlily",
+        "hex": "#DE5F3C",
+        "rgb": [222, 95, 60],
+        "hsl": [12.96, 0.71, 0.55, 1]
       },
       {
-        "label": "light grey",
-        "hex": "#d4d5c5",
-        "rgb": [212, 213, 197],
-        "hsl": [63.75, 0.16, 0.8, 1]
+        "label": "PE-462 Pistachio Creme",
+        "hex": "#A8C885",
+        "rgb": [168, 200, 133],
+        "hsl": [88.66, 0.38, 0.65, 1]
       },
       {
-        "label": "ash",
-        "hex": "#9a9c99",
-        "rgb": [154, 156, 153],
-        "hsl": [100, 0.01, 0.61, 1]
+        "label": "PE-463 Zambia Stone",
+        "hex": "#385C58",
+        "rgb": [56, 92, 88],
+        "hsl": [173.33, 0.24, 0.29, 1]
       },
       {
-        "label": "moonstone",
-        "hex": "#656565",
-        "rgb": [101, 101, 101],
-        "hsl": [null, 0, 0.4, 1]
+        "label": "PE-464 Warm Wave",
+        "hex": "#88B8A0",
+        "rgb": [136, 184, 160],
+        "hsl": [150, 0.25, 0.63, 1]
       },
       {
-        "label": "caviar",
-        "hex": "#1d1d1d",
-        "rgb": [29, 29, 29],
-        "hsl": [null, 0, 0.11, 1]
+        "label": "PE-465 Denim Blue",
+        "hex": "#53677D",
+        "rgb": [83, 103, 125],
+        "hsl": [211.43, 0.2, 0.41, 1]
+      },
+      {
+        "label": "PE-466 Hunter Fields",
+        "hex": "#384635",
+        "rgb": [56, 70, 53],
+        "hsl": [109.41, 0.14, 0.24, 1]
+      },
+      {
+        "label": "PE-467 Night Sea",
+        "hex": "#303749",
+        "rgb": [48, 55, 73],
+        "hsl": [223.2, 0.21, 0.24, 1]
+      },
+      {
+        "label": "PE-468 Dried Moss",
+        "hex": "#6A6142",
+        "rgb": [106, 97, 66],
+        "hsl": [46.5, 0.23, 0.34, 1]
+      },
+      {
+        "label": "PE-469 Smooth Pebble",
+        "hex": "#70685B",
+        "rgb": [112, 104, 91],
+        "hsl": [37.14, 0.1, 0.4, 1]
+      },
+      {
+        "label": "PE-470 Lavander Water",
+        "hex": "#DAD3DB",
+        "rgb": [218, 211, 219],
+        "hsl": [292.5, 0.1, 0.84, 1]
+      },
+      {
+        "label": "PE-471 Sweet Macademia",
+        "hex": "#F3D7CC",
+        "rgb": [243, 215, 204],
+        "hsl": [16.92, 0.62, 0.88, 1]
+      },
+      {
+        "label": "PE-472 Cinnamon",
+        "hex": "#BF8071",
+        "rgb": [191, 128, 113],
+        "hsl": [11.54, 0.38, 0.6, 1]
+      },
+      {
+        "label": "PE-473 Flamingo",
+        "hex": "#DA465C",
+        "rgb": [218, 70, 92],
+        "hsl": [351.08, 0.67, 0.56, 1]
+      },
+      {
+        "label": "PE-474 Sweet Pink",
+        "hex": "#DF80A0",
+        "rgb": [223, 128, 160],
+        "hsl": [339.79, 0.6, 0.69, 1]
+      },
+      {
+        "label": "PE-475 Very Berry",
+        "hex": "#A13A72",
+        "rgb": [161, 58, 114],
+        "hsl": [327.38, 0.47, 0.43, 1]
+      },
+      {
+        "label": "PE-476 Purple Wine",
+        "hex": "#612A54",
+        "rgb": [97, 42, 84],
+        "hsl": [314.18, 0.4, 0.27, 1]
+      },
+      {
+        "label": "PE-477 Aero Blue",
+        "hex": "#6E91B9",
+        "rgb": [110, 145, 185],
+        "hsl": [212, 0.35, 0.58, 1]
+      },
+      {
+        "label": "PE-478 Jade Cream",
+        "hex": "#6AA577",
+        "rgb": [106, 165, 119],
+        "hsl": [133.22, 0.25, 0.53, 1]
+      },
+      {
+        "label": "PE-479 Gentle Feather",
+        "hex": "#C9C1B4",
+        "rgb": [201, 193, 180],
+        "hsl": [37.14, 0.16, 0.75, 1]
+      },
+      {
+        "label": "PE-480 Steel",
+        "hex": "#696460",
+        "rgb": [105, 100, 96],
+        "hsl": [26.67, 0.04, 0.39, 1]
+      },
+      {
+        "label": "PE-481 Magnetism",
+        "hex": "#404040",
+        "rgb": [64, 64, 64],
+        "hsl": [null, 0, 0.25, 1]
+      },
+      {
+        "label": "PE-482 Forest Night",
+        "hex": "#3C3D2F",
+        "rgb": [60, 61, 47],
+        "hsl": [64.29, 0.13, 0.21, 1]
+      },
+      {
+        "label": "PE-483 Aurus",
+        "hex": "#9B8134",
+        "rgb": [155, 129, 52],
+        "hsl": [44.85, 0.5, 0.41, 1]
+      },
+      {
+        "label": "PE-484 Lemon Tart",
+        "hex": "#C19B30",
+        "rgb": [193, 155, 48],
+        "hsl": [44.28, 0.6, 0.47, 1]
+      },
+      {
+        "label": "PE-485 Raw Gold",
+        "hex": "#A36B30",
+        "rgb": [163, 107, 48],
+        "hsl": [30.78, 0.55, 0.41, 1]
+      },
+      {
+        "label": "PE-486 Vanilla Custard",
+        "hex": "#D6C097",
+        "rgb": [214, 192, 151],
+        "hsl": [39.05, 0.43, 0.72, 1]
+      },
+      {
+        "label": "PE-487 Cotton Candy",
+        "hex": "#EDCAC8",
+        "rgb": [237, 202, 200],
+        "hsl": [3.24, 0.51, 0.86, 1]
+      },
+      {
+        "label": "PE-488 Blossomed",
+        "hex": "#D99588",
+        "rgb": [217, 149, 136],
+        "hsl": [9.63, 0.52, 0.69, 1]
+      },
+      {
+        "label": "PE-489 Miami Sunset",
+        "hex": "#CB746A",
+        "rgb": [203, 116, 106],
+        "hsl": [6.19, 0.48, 0.61, 1]
+      },
+      {
+        "label": "PE-490 Ruby",
+        "hex": "#AB242B",
+        "rgb": [171, 36, 43],
+        "hsl": [356.89, 0.65, 0.41, 1]
+      },
+      {
+        "label": "PE-491 Candied Cherry",
+        "hex": "#5D1E27",
+        "rgb": [93, 30, 39],
+        "hsl": [351.43, 0.51, 0.24, 1]
+      },
+      {
+        "label": "PE-492 Weathered Brick",
+        "hex": "#7F3848",
+        "rgb": [127, 56, 72],
+        "hsl": [346.48, 0.39, 0.36, 1]
+      },
+      {
+        "label": "PE-493 Plum Preserve",
+        "hex": "#532238",
+        "rgb": [83, 34, 56],
+        "hsl": [333.06, 0.42, 0.23, 1]
+      },
+      {
+        "label": "PE-494 Dried Roses",
+        "hex": "#86455D",
+        "rgb": [134, 69, 93],
+        "hsl": [337.85, 0.32, 0.4, 1]
+      },
+      {
+        "label": "PE-495 Field of Lavender",
+        "hex": "#BCA9BC",
+        "rgb": [188, 169, 188],
+        "hsl": [300, 0.12, 0.7, 1]
+      },
+      {
+        "label": "PE-496 Crystalline",
+        "hex": "#BDD1D0",
+        "rgb": [189, 209, 208],
+        "hsl": [177, 0.18, 0.78, 1]
+      },
+      {
+        "label": "PE-497 Maldives",
+        "hex": "#168990",
+        "rgb": [22, 137, 144],
+        "hsl": [183.44, 0.73, 0.33, 1]
+      },
+      {
+        "label": "PE-498 Heart of The Ocean",
+        "hex": "#27314A",
+        "rgb": [39, 49, 74],
+        "hsl": [222.86, 0.31, 0.22, 1]
+      },
+      {
+        "label": "PE-499 Deep Black - Double Dip Dyed",
+        "hex": "#050608",
+        "rgb": [5, 6, 8],
+        "hsl": [220, 0.23, 0.03, 1]
+      },
+      {
+        "label": "PE-500 Ocean Fog",
+        "hex": "#96A5A0",
+        "rgb": [150, 165, 160],
+        "hsl": [160, 0.08, 0.62, 1]
+      },
+      {
+        "label": "PE-501 Northern Waters",
+        "hex": "#576565",
+        "rgb": [87, 101, 101],
+        "hsl": [180, 0.07, 0.37, 1]
+      },
+      {
+        "label": "PE-502 Fresh Sage",
+        "hex": "#969B7B",
+        "rgb": [150, 155, 123],
+        "hsl": [69.37, 0.14, 0.55, 1]
+      },
+      {
+        "label": "PE-503 Eucalyptus",
+        "hex": "#3F573D",
+        "rgb": [63, 87, 61],
+        "hsl": [115.38, 0.18, 0.29, 1]
+      },
+      {
+        "label": "PE-504 Golden Bronze",
+        "hex": "#5D4D2B",
+        "rgb": [93, 77, 43],
+        "hsl": [40.8, 0.37, 0.27, 1]
+      },
+      {
+        "label": "PE-505 Blushing",
+        "hex": "#E0AFA0",
+        "rgb": [224, 175, 160],
+        "hsl": [14.06, 0.51, 0.75, 1]
+      },
+      {
+        "label": "PE-506 Sugar Plum",
+        "hex": "#C292A1",
+        "rgb": [194, 146, 161],
+        "hsl": [341.25, 0.28, 0.67, 1]
+      },
+      {
+        "label": "PE-507 Potter’s Clay",
+        "hex": "#9B8882",
+        "rgb": [155, 136, 130],
+        "hsl": [14.4, 0.11, 0.56, 1]
+      },
+      {
+        "label": "PE-508 Terracotta Tile",
+        "hex": "#B86247",
+        "rgb": [184, 98, 71],
+        "hsl": [14.34, 0.44, 0.5, 1]
+      },
+      {
+        "label": "PE-509 Georgia Peach",
+        "hex": "#EDB987",
+        "rgb": [237, 185, 135],
+        "hsl": [29.41, 0.74, 0.73, 1]
+      },
+      {
+        "label": "PE-510 Sweet Fig",
+        "hex": "#A97F8B",
+        "rgb": [169, 127, 139],
+        "hsl": [342.86, 0.2, 0.58, 1]
+      },
+      {
+        "label": "PE-511 Dragon Fruit",
+        "hex": "#9B2849",
+        "rgb": [155, 40, 73],
+        "hsl": [342.78, 0.59, 0.38, 1]
+      },
+      {
+        "label": "PE-512 Apple Cider",
+        "hex": "#A75629",
+        "rgb": [167, 86, 41],
+        "hsl": [21.43, 0.61, 0.41, 1]
+      },
+      {
+        "label": "PE-513 Gingerbread",
+        "hex": "#8D5A2F",
+        "rgb": [141, 90, 47],
+        "hsl": [27.45, 0.5, 0.37, 1]
+      },
+      {
+        "label": "PE-514 Summer Sun",
+        "hex": "#EF9F30",
+        "rgb": [239, 159, 48],
+        "hsl": [34.87, 0.86, 0.56, 1]
+      },
+      {
+        "label": "PE-515 Olive Oil",
+        "hex": "#C6B13A",
+        "rgb": [198, 177, 58],
+        "hsl": [51, 0.55, 0.5, 1]
+      },
+      {
+        "label": "PE-516 Garden Fern",
+        "hex": "#645B30",
+        "rgb": [100, 91, 48],
+        "hsl": [49.62, 0.35, 0.29, 1]
+      },
+      {
+        "label": "PE-517 Evergreen",
+        "hex": "#1F3B3C",
+        "rgb": [31, 59, 60],
+        "hsl": [182.07, 0.32, 0.18, 1]
+      },
+      {
+        "label": "PE-518 Swimming Pool",
+        "hex": "#678B8B",
+        "rgb": [103, 139, 139],
+        "hsl": [180, 0.15, 0.47, 1]
+      },
+      {
+        "label": "PE-519 Pacific",
+        "hex": "#B2C2B7",
+        "rgb": [178, 194, 183],
+        "hsl": [138.75, 0.12, 0.73, 1]
+      },
+      {
+        "label": "PE-520 Sweet Tangerine",
+        "hex": "#F48F25",
+        "rgb": [244, 143, 37],
+        "hsl": [30.72, 0.9, 0.55, 1]
+      },
+      {
+        "label": "PE-521 Desert Dunes",
+        "hex": "#934133",
+        "rgb": [147, 65, 51],
+        "hsl": [8.75, 0.48, 0.39, 1]
+      },
+      {
+        "label": "PE-522 Ethereal Pink",
+        "hex": "#F6E5DE",
+        "rgb": [246, 229, 222],
+        "hsl": [17.5, 0.57, 0.92, 1]
+      },
+      {
+        "label": "PE-523 Latte",
+        "hex": "#D6C8AD",
+        "rgb": [214, 200, 173],
+        "hsl": [39.51, 0.33, 0.76, 1]
+      },
+      {
+        "label": "PE-524 Vintage Walnut",
+        "hex": "#53432C",
+        "rgb": [83, 67, 44],
+        "hsl": [35.38, 0.31, 0.25, 1]
+      },
+      {
+        "label": "PE-525 English Toffee",
+        "hex": "#725334",
+        "rgb": [114, 83, 52],
+        "hsl": [30, 0.37, 0.33, 1]
+      },
+      {
+        "label": "PE-526 Secret Lagoon",
+        "hex": "#006F5F",
+        "rgb": [0, 111, 95],
+        "hsl": [171.35, 1, 0.22, 1]
+      },
+      {
+        "label": "PE-527 Peacock",
+        "hex": "#145541",
+        "rgb": [20, 85, 65],
+        "hsl": [161.54, 0.62, 0.21, 1]
+      },
+      {
+        "label": "PE-528 Celestial",
+        "hex": "#E7E6E4",
+        "rgb": [231, 230, 228],
+        "hsl": [40, 0.06, 0.9, 1]
+      },
+      {
+        "label": "PE-529 Periwinkle",
+        "hex": "#D0D8E5",
+        "rgb": [208, 216, 229],
+        "hsl": [217.14, 0.29, 0.86, 1]
+      },
+      {
+        "label": "PE-530 Atmospheric",
+        "hex": "#939FB7",
+        "rgb": [147, 159, 183],
+        "hsl": [220, 0.2, 0.65, 1]
+      },
+      {
+        "label": "PE-531 Hydrangea",
+        "hex": "#7079B2",
+        "rgb": [112, 121, 178],
+        "hsl": [231.82, 0.3, 0.57, 1]
+      },
+      {
+        "label": "PE-532 Amethyst",
+        "hex": "#6A6198",
+        "rgb": [106, 97, 152],
+        "hsl": [249.82, 0.22, 0.49, 1]
+      },
+      {
+        "label": "PE-533 Wisteria",
+        "hex": "#A691BA",
+        "rgb": [166, 145, 186],
+        "hsl": [270.73, 0.23, 0.65, 1]
+      },
+      {
+        "label": "PE-534 Bewitched",
+        "hex": "#7C5C67",
+        "rgb": [124, 92, 103],
+        "hsl": [339.38, 0.15, 0.42, 1]
+      },
+      {
+        "label": "PE-535 Rock Candy (Avl May 2022)",
+        "hex": "#D788B8",
+        "rgb": [215, 136, 184],
+        "hsl": [323.54, 0.5, 0.69, 1]
+      },
+      {
+        "label": "PE-536 Cactus Flower",
+        "hex": "#F26180",
+        "rgb": [242, 97, 128],
+        "hsl": [347.17, 0.85, 0.66, 1]
+      },
+      {
+        "label": "PE-537 Undeniably Red",
+        "hex": "#CD1E3B",
+        "rgb": [205, 30, 59],
+        "hsl": [350.06, 0.74, 0.46, 1]
+      },
+      {
+        "label": "PE-538 Autumnal",
+        "hex": "#D45A35",
+        "rgb": [212, 90, 53],
+        "hsl": [13.96, 0.65, 0.52, 1]
+      },
+      {
+        "label": "PE-539 Marmalade",
+        "hex": "#F68E5B",
+        "rgb": [246, 142, 91],
+        "hsl": [19.74, 0.9, 0.66, 1]
+      },
+      {
+        "label": "PE-540 Coconut Milk",
+        "hex": "#F0E6DA",
+        "rgb": [240, 230, 218],
+        "hsl": [32.73, 0.42, 0.9, 1]
+      },
+      {
+        "label": "PE-541 Sprout",
+        "hex": "#D3DDC4",
+        "rgb": [211, 221, 196],
+        "hsl": [84, 0.27, 0.82, 1]
+      },
+      {
+        "label": "PE-542 Asparagus",
+        "hex": "#879F6B",
+        "rgb": [135, 159, 107],
+        "hsl": [87.69, 0.21, 0.52, 1]
+      },
+      {
+        "label": "PE-543 Fresh Aloe",
+        "hex": "#A8C595",
+        "rgb": [168, 197, 149],
+        "hsl": [96.25, 0.29, 0.68, 1]
+      },
+      {
+        "label": "PE-544 Rosemary",
+        "hex": "#778876",
+        "rgb": [119, 136, 118],
+        "hsl": [116.67, 0.07, 0.5, 1]
+      },
+      {
+        "label": "PE-545 Morning Frost",
+        "hex": "#99C5C4",
+        "rgb": [153, 197, 196],
+        "hsl": [178.64, 0.28, 0.69, 1]
+      },
+      {
+        "label": "PE-546 Vaporous",
+        "hex": "#C5C6C8",
+        "rgb": [197, 198, 200],
+        "hsl": [220, 0.03, 0.78, 1]
+      },
+      {
+        "label": "PE-547 Nebula",
+        "hex": "#ACADAF",
+        "rgb": [172, 173, 175],
+        "hsl": [220, 0.02, 0.68, 1]
+      },
+      {
+        "label": "PE-548 Galactic Grey",
+        "hex": "#78787A",
+        "rgb": [120, 120, 122],
+        "hsl": [240, 0.01, 0.47, 1]
+      },
+      {
+        "label": "PE-549 Mushroom",
+        "hex": "#AB9E96",
+        "rgb": [171, 158, 150],
+        "hsl": [22.86, 0.11, 0.63, 1]
+      },
+      {
+        "label": "PE-550 Lava Rock",
+        "hex": "#343331",
+        "rgb": [52, 51, 49],
+        "hsl": [40, 0.03, 0.2, 1]
+      },
+      {
+        "label": "PE-551 Teak",
+        "hex": "#6E462D",
+        "rgb": [110, 70, 45],
+        "hsl": [23.08, 0.42, 0.3, 1]
+      },
+      {
+        "label": "PE-552 Pampas",
+        "hex": "#A68653",
+        "rgb": [166, 134, 83],
+        "hsl": [36.87, 0.33, 0.49, 1]
+      },
+      {
+        "label": "PE-553 Pineapple",
+        "hex": "#FCB63D",
+        "rgb": [252, 182, 61],
+        "hsl": [38.01, 0.97, 0.61, 1]
+      },
+      {
+        "label": "PE-554 Parrot",
+        "hex": "#9EA13A",
+        "rgb": [158, 161, 58],
+        "hsl": [61.75, 0.47, 0.43, 1]
+      },
+      {
+        "label": "PE-555 Meditation",
+        "hex": "#A5BE94",
+        "rgb": [165, 190, 148],
+        "hsl": [95.71, 0.24, 0.66, 1]
+      },
+      {
+        "label": "PE-556 Balsam Fir",
+        "hex": "#4F645D",
+        "rgb": [79, 100, 93],
+        "hsl": [160, 0.12, 0.35, 1]
+      },
+      {
+        "label": "PE-557 Slate",
+        "hex": "#414850",
+        "rgb": [65, 72, 80],
+        "hsl": [212, 0.1, 0.28, 1]
+      },
+      {
+        "label": "PE-558 Bougainvillea",
+        "hex": "#974D70",
+        "rgb": [151, 77, 112],
+        "hsl": [331.62, 0.32, 0.45, 1]
+      },
+      {
+        "label": "PE-559 Cosmos",
+        "hex": "#D496BB",
+        "rgb": [212, 150, 187],
+        "hsl": [324.19, 0.42, 0.71, 1]
+      },
+      {
+        "label": "PE-560 Sedona",
+        "hex": "#B75457",
+        "rgb": [183, 84, 87],
+        "hsl": [358.18, 0.41, 0.52, 1]
+      },
+      {
+        "label": "PE-561 Hibiscus",
+        "hex": "#E23C48",
+        "rgb": [226, 60, 72],
+        "hsl": [355.66, 0.74, 0.56, 1]
       }
     ]
   },
