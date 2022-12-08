@@ -1,6 +1,6 @@
 export const fabricSwatches = {
   spoonflower: {
-    label: 'Petal Signature Cotton Solids',
+    label: 'Spoonflower Petal Signature Cotton Solids',
     swatches: {
       White: '#FFFFFF',
       Natural: '#FEFDF4',
