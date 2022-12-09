@@ -20,6 +20,7 @@ const generate = async () => {
     )
     newSwatches[key] = {
       label: fabricSwatches[key].label,
+      swatchLabel: fabricSwatches[key].swatchLabel,
       swatches: newSwatchSet
     }
   })

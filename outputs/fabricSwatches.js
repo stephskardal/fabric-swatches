@@ -1,6 +1,15 @@
 export const fabricSwatches = {
+  wonderfil: {
+    label: 'Wonderfil',
+    swatchLabel: 'Konfetti Cotton - 50wt, 3-ply Egyptian Cotton',
+    swatches: {
+      'KT302 Christmas Red': 'b61f2a',
+      'KT606 Peacock Blue': '10a3d0'
+    }
+  },
   spoonflower: {
-    label: 'Spoonflower Petal Signature Cotton Solids',
+    label: 'Spoonflower',
+    swatchLabel: 'Petal Signature Cotton Solids',
     swatches: {
       White: '#FFFFFF',
       Natural: '#FEFDF4',
@@ -55,7 +64,8 @@ export const fabricSwatches = {
     }
   },
   northcott: {
-    label: 'Northcott ColorWorks Premium Solids',
+    label: 'Northcott',
+    swatchLabel: 'ColorWorks Premium Solids',
     swatches: {
       'SNOW 9000-10': '#FFFDFA',
       'EGGSHELL 9000-11': '#FFFEF2',
@@ -221,6 +231,7 @@ export const fabricSwatches = {
   },
   aurifilThread: {
     label: 'Aurifil Thread',
+    swatchLabel: '50wt Cotton',
     swatches: {
       'Red Plum 1100': '#9C0057',
       'Burgundy 1103': '#912C45',
@@ -495,7 +506,8 @@ export const fabricSwatches = {
     }
   },
   paintBrushStudio: {
-    label: 'paintbrush studio fabrics',
+    label: 'Paintbrush Studio Fabrics',
+    swatchLabel: "Painter's Palette Solids",
     swatches: {
       '000 White': '#F9F9F9',
       '001-Midnight': '#313842',
@@ -709,7 +721,8 @@ export const fabricSwatches = {
     }
   },
   artGallery: {
-    label: 'Pure Elements AGF Studio',
+    label: 'Art Gallery Fabrics',
+    swatchLabel: 'PURE Solids',
     swatches: {
       'PE-400 Cabernet': '#2E1727',
       'PE-401 Verve Violet': '#924A78',
@@ -876,7 +889,8 @@ export const fabricSwatches = {
     }
   },
   freeSpirit: {
-    label: 'Free Spirit Solids',
+    label: 'Free Spirit',
+    swatchLabel: 'Designer Essential Solids',
     swatches: {
       sorbet: '#d1c7e0',
       orchid: '#baa4cb',
@@ -1024,7 +1038,8 @@ export const fabricSwatches = {
     }
   },
   rileyBlake: {
-    label: 'Riley Blake Designs Confetti Cottons',
+    label: 'Riley Blake Designs',
+    swatchLabel: 'Confetti Cottons',
     swatches: {
       purple: '#813f7f',
       eggplant: '#592567',
@@ -1144,7 +1159,8 @@ export const fabricSwatches = {
     }
   },
   kona: {
-    label: 'Robert Kaufman Kona Cotton',
+    label: 'Robert Kaufman',
+    swatchLabel: 'Kona Cotton',
     swatches: {
       crush: '#e7334c',
       'baby pink': '#fdc3cf',
@@ -1521,7 +1537,8 @@ export const fabricSwatches = {
     }
   },
   modaBella: {
-    label: 'Moda Bella Solids',
+    label: 'Moda Fabrics',
+    swatchLabel: 'Bella Solids',
     swatches: {
       'White Bleached 9900-98': '#f9fff7',
       'Bleached White PFD 9900-97': '#ffffff',
@@ -1763,7 +1780,8 @@ export const fabricSwatches = {
     }
   },
   americanMade: {
-    label: 'Clothworks American Made Brand Cotton Solids',
+    label: 'Clothworks',
+    swatchLabel: 'American Made Brand Cotton Solids',
     swatches: {
       'AMB-78 dark fuchsia': '#a80079',
       'AMB-27 purple': '#887fd8',
@@ -1856,7 +1874,8 @@ export const fabricSwatches = {
     }
   },
   michaelMiller: {
-    label: 'Michael Miller Cotton Couture',
+    label: 'Michael Miller Fabrics',
+    swatchLabel: 'Cotton Couture',
     swatches: {
       brightwhite: '#FEFEFD',
       hyacinth: '#5D5195',
@@ -2037,7 +2056,8 @@ export const fabricSwatches = {
     }
   },
   rjrCottonSupreme: {
-    label: 'RJR Studio Cotton Supremes',
+    label: 'RJR Fabrics',
+    swatchLabel: 'Cotton Supreme Solids',
     swatches: {
       "robin's egg": '#53BDB9',
       'orange crush': '#EE2F0D',
@@ -2258,7 +2278,8 @@ export const fabricSwatches = {
     }
   },
   andoverCenturySolids: {
-    label: 'Andover Century Solids',
+    label: 'Andover Fabrics',
+    swatchLabel: 'Century Solids',
     swatches: {
       Almond: '#eeddb2',
       Aqua: '#90e2d4',
@@ -2364,6 +2385,7 @@ export const fabricSwatches = {
   },
   pantone: {
     label: 'Pantone',
+    swatchLabel: '',
     swatches: {
       '18-1750 Viva Magenta': '#BB2649',
       '17-3938 Very Peri': '#6667AB',
