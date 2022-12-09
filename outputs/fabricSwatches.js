@@ -3,8 +3,8 @@ export const fabricSwatches = {
     label: 'Wonderfil',
     swatchLabel: 'Konfetti Cotton - 50wt, 3-ply Egyptian Cotton',
     swatches: {
-      'KT302 Christmas Red': 'b61f2a',
-      'KT606 Peacock Blue': '10a3d0'
+      'KT302 Christmas Red': '#b61f2a',
+      'KT606 Peacock Blue': '#10a3d0'
     }
   },
   spoonflower: {

@@ -5,13 +5,13 @@
     "swatches": [
       {
         "label": "KT302 Christmas Red",
-        "hex": "b61f2a",
+        "hex": "#b61f2a",
         "rgb": [182, 31, 42],
         "hsl": [355.63, 0.71, 0.42, 1]
       },
       {
         "label": "KT606 Peacock Blue",
-        "hex": "10a3d0",
+        "hex": "#10a3d0",
         "rgb": [16, 163, 208],
         "hsl": [194.06, 0.86, 0.44, 1]
       }
