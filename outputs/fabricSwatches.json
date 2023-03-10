@@ -10834,1915 +10834,1915 @@
     "swatchLabel": "Bella Solids",
     "swatches": [
       {
-        "label": "Black - 9900 99",
+        "label": "Black - 9900-99",
         "hex": "#151a1e",
         "rgb": [21, 26, 30],
         "hsl": [206.67, 0.18, 0.1, 1]
       },
       {
-        "label": "Snow - 9900 11",
+        "label": "Snow - 9900-11",
         "hex": "#e0ddca",
         "rgb": [224, 221, 202],
         "hsl": [51.82, 0.26, 0.84, 1]
       },
       {
-        "label": "Natural - 9900 12",
+        "label": "Natural - 9900-12",
         "hex": "#ded0b3",
         "rgb": [222, 208, 179],
         "hsl": [40.47, 0.39, 0.79, 1]
       },
       {
-        "label": "Tan - 9900 13",
+        "label": "Tan - 9900-13",
         "hex": "#b99f7c",
         "rgb": [185, 159, 124],
         "hsl": [34.43, 0.3, 0.61, 1]
       },
       {
-        "label": "Christmas Green - 9900 14",
+        "label": "Christmas Green - 9900-14",
         "hex": "#10382f",
         "rgb": [16, 56, 47],
         "hsl": [166.5, 0.56, 0.14, 1]
       },
       {
-        "label": "Hunter - 9900 15",
+        "label": "Hunter - 9900-15",
         "hex": "#233328",
         "rgb": [35, 51, 40],
         "hsl": [138.75, 0.19, 0.17, 1]
       },
       {
-        "label": "Christmas Red - 9900 16",
+        "label": "Christmas Red - 9900-16",
         "hex": "#a10625",
         "rgb": [161, 6, 37],
         "hsl": [348, 0.93, 0.33, 1]
       },
       {
-        "label": "Country Red - 9900 17",
+        "label": "Country Red - 9900-17",
         "hex": "#87011a",
         "rgb": [135, 1, 26],
         "hsl": [348.81, 0.99, 0.27, 1]
       },
       {
-        "label": "Burgundy - 9900 18",
+        "label": "Burgundy - 9900-18",
         "hex": "#5f1c25",
         "rgb": [95, 28, 37],
         "hsl": [351.94, 0.54, 0.24, 1]
       },
       {
-        "label": "Royal - 9900 19",
+        "label": "Royal - 9900-19",
         "hex": "#112d5f",
         "rgb": [17, 45, 95],
         "hsl": [218.46, 0.7, 0.22, 1]
       },
       {
-        "label": "Navy - 9900 20",
+        "label": "Navy - 9900-20",
         "hex": "#212d3d",
         "rgb": [33, 45, 61],
         "hsl": [214.29, 0.3, 0.18, 1]
       },
       {
-        "label": "Purple - 9900 21",
+        "label": "Purple - 9900-21",
         "hex": "#3e255f",
         "rgb": [62, 37, 95],
         "hsl": [265.86, 0.44, 0.26, 1]
       },
       {
-        "label": "Yellow - 9900 24",
+        "label": "Yellow - 9900-24",
         "hex": "#efba30",
         "rgb": [239, 186, 48],
         "hsl": [43.35, 0.86, 0.56, 1]
       },
       {
-        "label": "Pale Pink - 9900 26",
+        "label": "Pale Pink - 9900-26",
         "hex": "#f0dcd1",
         "rgb": [240, 220, 209],
         "hsl": [21.29, 0.51, 0.88, 1]
       },
       {
-        "label": "Butter - 9900 28",
+        "label": "Butter - 9900-28",
         "hex": "#ebdba8",
         "rgb": [235, 219, 168],
         "hsl": [45.67, 0.63, 0.79, 1]
       },
       {
-        "label": "White Bleached - 9900 98",
+        "label": "White Bleached - 9900-98",
         "hex": "#e9e9e9",
         "rgb": [233, 233, 233],
         "hsl": [null, 0, 0.91, 1]
       },
       {
-        "label": "Baby Pink - 9900 30",
+        "label": "Baby Pink - 9900-30",
         "hex": "#e6cac7",
         "rgb": [230, 202, 199],
         "hsl": [5.81, 0.38, 0.84, 1]
       },
       {
-        "label": "Baby Yellow - 9900 31",
+        "label": "Baby Yellow - 9900-31",
         "hex": "#f0dc95",
         "rgb": [240, 220, 149],
         "hsl": [46.81, 0.75, 0.76, 1]
       },
       {
-        "label": "Baby Blue - 9900 32",
+        "label": "Baby Blue - 9900-32",
         "hex": "#89a7d9",
         "rgb": [137, 167, 217],
         "hsl": [217.5, 0.51, 0.69, 1]
       },
       {
-        "label": "Lavender - 9900 33",
+        "label": "Lavender - 9900-33",
         "hex": "#b1b3dc",
         "rgb": [177, 179, 220],
         "hsl": [237.21, 0.38, 0.78, 1]
       },
       {
-        "label": "Aqua - 9900 34",
+        "label": "Aqua - 9900-34",
         "hex": "#83cdc0",
         "rgb": [131, 205, 192],
         "hsl": [169.46, 0.43, 0.66, 1]
       },
       {
-        "label": "Sage - 9900 35",
+        "label": "Sage - 9900-35",
         "hex": "#8e8f65",
         "rgb": [142, 143, 101],
         "hsl": [61.43, 0.17, 0.48, 1]
       },
       {
-        "label": "Butterscotch - 9900 36",
+        "label": "Butterscotch - 9900-36",
         "hex": "#eac486",
         "rgb": [234, 196, 134],
         "hsl": [37.2, 0.7, 0.72, 1]
       },
       {
-        "label": "Mist - 9900 37",
+        "label": "Mist - 9900-37",
         "hex": "#95bac2",
         "rgb": [149, 186, 194],
         "hsl": [190.67, 0.27, 0.67, 1]
       },
       {
-        "label": "Dusty Jade - 9900 38",
+        "label": "Dusty Jade - 9900-38",
         "hex": "#678f87",
         "rgb": [103, 143, 135],
         "hsl": [168, 0.16, 0.48, 1]
       },
       {
-        "label": "Parchment - 9900 39",
+        "label": "Parchment - 9900-39",
         "hex": "#d3b181",
         "rgb": [211, 177, 129],
         "hsl": [35.12, 0.48, 0.67, 1]
       },
       {
-        "label": "Paper Bag - 9900 40",
+        "label": "Paper Bag - 9900-40",
         "hex": "#8b6943",
         "rgb": [139, 105, 67],
         "hsl": [31.67, 0.35, 0.4, 1]
       },
       {
-        "label": "Chocolate - 9900 41",
+        "label": "Chocolate - 9900-41",
         "hex": "#51352a",
         "rgb": [81, 53, 42],
         "hsl": [16.92, 0.32, 0.24, 1]
       },
       {
-        "label": "Tomato Soup - 9900 42",
+        "label": "Tomato Soup - 9900-42",
         "hex": "#952c30",
         "rgb": [149, 44, 48],
         "hsl": [357.71, 0.54, 0.38, 1]
       },
       {
-        "label": "Pine - 9900 43",
+        "label": "Pine - 9900-43",
         "hex": "#2c3726",
         "rgb": [44, 55, 38],
         "hsl": [98.82, 0.18, 0.18, 1]
       },
       {
-        "label": "Peacoat - 9900 44",
+        "label": "Peacoat - 9900-44",
         "hex": "#17242d",
         "rgb": [23, 36, 45],
         "hsl": [204.55, 0.32, 0.13, 1]
       },
       {
-        "label": "Scarlet - 9900 47",
+        "label": "Scarlet - 9900-47",
         "hex": "#bd132d",
         "rgb": [189, 19, 45],
         "hsl": [350.82, 0.82, 0.41, 1]
       },
       {
-        "label": "Admiral Blue - 9900 48",
+        "label": "Admiral Blue - 9900-48",
         "hex": "#243b65",
         "rgb": [36, 59, 101],
         "hsl": [218.77, 0.47, 0.27, 1]
       },
       {
-        "label": "French Blue - 9900 49",
+        "label": "French Blue - 9900-49",
         "hex": "#4b759d",
         "rgb": [75, 117, 157],
         "hsl": [209.27, 0.35, 0.45, 1]
       },
       {
-        "label": "Buttercup - 9900 51",
+        "label": "Buttercup - 9900-51",
         "hex": "#e9b641",
         "rgb": [233, 182, 65],
         "hsl": [41.79, 0.79, 0.58, 1]
       },
       {
-        "label": "Ivory - 9900 60",
+        "label": "Ivory - 9900-60",
         "hex": "#e7e4d1",
         "rgb": [231, 228, 209],
         "hsl": [51.82, 0.31, 0.86, 1]
       },
       {
-        "label": "Pink - 9900 61",
+        "label": "Pink - 9900-61",
         "hex": "#e8828d",
         "rgb": [232, 130, 141],
         "hsl": [353.53, 0.69, 0.71, 1]
       },
       {
-        "label": "Rose - 9900 62",
+        "label": "Rose - 9900-62",
         "hex": "#db5b74",
         "rgb": [219, 91, 116],
         "hsl": [348.28, 0.64, 0.61, 1]
       },
       {
-        "label": "Light Blue - 9900 63",
+        "label": "Light Blue - 9900-63",
         "hex": "#a8bcdd",
         "rgb": [168, 188, 221],
         "hsl": [217.36, 0.44, 0.76, 1]
       },
       {
-        "label": "Blue - 9900 64",
+        "label": "Blue - 9900-64",
         "hex": "#5a83bb",
         "rgb": [90, 131, 187],
         "hsl": [214.64, 0.42, 0.54, 1]
       },
       {
-        "label": "Green - 9900 65",
+        "label": "Green - 9900-65",
         "hex": "#65c0a1",
         "rgb": [101, 192, 161],
         "hsl": [159.56, 0.42, 0.57, 1]
       },
       {
-        "label": "Lilac - 9900 66",
+        "label": "Lilac - 9900-66",
         "hex": "#a187b4",
         "rgb": [161, 135, 180],
         "hsl": [274.67, 0.23, 0.62, 1]
       },
       {
-        "label": "Fig Tree Cream - 9900 67",
+        "label": "Fig Tree Cream - 9900-67",
         "hex": "#e3d6b3",
         "rgb": [227, 214, 179],
         "hsl": [43.75, 0.46, 0.8, 1]
       },
       {
-        "label": "Fig Tree Wheat - 9900 68",
+        "label": "Fig Tree Wheat - 9900-68",
         "hex": "#a57a45",
         "rgb": [165, 122, 69],
         "hsl": [33.13, 0.41, 0.46, 1]
       },
       {
-        "label": "Fig Tree Olive - 9900 69",
+        "label": "Fig Tree Olive - 9900-69",
         "hex": "#86823b",
         "rgb": [134, 130, 59],
         "hsl": [56.8, 0.39, 0.38, 1]
       },
       {
-        "label": "Moda U Brown - 9900 71",
+        "label": "Moda U Brown - 9900-71",
         "hex": "#4a2e23",
         "rgb": [74, 46, 35],
         "hsl": [16.92, 0.36, 0.21, 1]
       },
       {
-        "label": "Celery - 9900 72",
+        "label": "Celery - 9900-72",
         "hex": "#bebd7c",
         "rgb": [190, 189, 124],
         "hsl": [59.09, 0.34, 0.62, 1]
       },
       {
-        "label": "Clover - 9900 73",
+        "label": "Clover - 9900-73",
         "hex": "#a9a75a",
         "rgb": [169, 167, 90],
         "hsl": [58.48, 0.31, 0.51, 1]
       },
       {
-        "label": "Green Apple - 9900 74",
+        "label": "Green Apple - 9900-74",
         "hex": "#79a871",
         "rgb": [121, 168, 113],
         "hsl": [111.27, 0.24, 0.55, 1]
       },
       {
-        "label": "Lime - 9900 75",
+        "label": "Lime - 9900-75",
         "hex": "#82b654",
         "rgb": [130, 182, 84],
         "hsl": [91.84, 0.4, 0.52, 1]
       },
       {
-        "label": "Kelly - 9900 76",
+        "label": "Kelly - 9900-76",
         "hex": "#238339",
         "rgb": [35, 131, 57],
         "hsl": [133.75, 0.58, 0.33, 1]
       },
       {
-        "label": "Dill - 9900 77",
+        "label": "Dill - 9900-77",
         "hex": "#1e5a36",
         "rgb": [30, 90, 54],
         "hsl": [144, 0.5, 0.24, 1]
       },
       {
-        "label": "Peach - 9900 78",
+        "label": "Peach - 9900-78",
         "hex": "#e6997f",
         "rgb": [230, 153, 127],
         "hsl": [15.15, 0.67, 0.7, 1]
       },
       {
-        "label": "Ochre - 9900 79",
+        "label": "Ochre - 9900-79",
         "hex": "#da6f4b",
         "rgb": [218, 111, 75],
         "hsl": [15.1, 0.66, 0.57, 1]
       },
       {
-        "label": "Orange - 9900 80",
+        "label": "Orange - 9900-80",
         "hex": "#db5204",
         "rgb": [219, 82, 4],
         "hsl": [21.77, 0.96, 0.44, 1]
       },
       {
-        "label": "Goldenrod - 9900 81",
+        "label": "Goldenrod - 9900-81",
         "hex": "#f3b057",
         "rgb": [243, 176, 87],
         "hsl": [34.23, 0.87, 0.65, 1]
       },
       {
-        "label": "Gray - 9900 83",
+        "label": "Gray - 9900-83",
         "hex": "#9c9d97",
         "rgb": [156, 157, 151],
         "hsl": [70, 0.03, 0.6, 1]
       },
       {
-        "label": "Blue Raspberry - 9900 84",
+        "label": "Blue Raspberry - 9900-84",
         "hex": "#7cafc0",
         "rgb": [124, 175, 192],
         "hsl": [195, 0.35, 0.62, 1]
       },
       {
-        "label": "Robins Egg - 9900 85",
+        "label": "Robins Egg - 9900-85",
         "hex": "#37bbc7",
         "rgb": [55, 187, 199],
         "hsl": [185, 0.57, 0.5, 1]
       },
       {
-        "label": "Caribbean - 9900 86",
+        "label": "Caribbean - 9900-86",
         "hex": "#2b8d8c",
         "rgb": [43, 141, 140],
         "hsl": [179.39, 0.53, 0.36, 1]
       },
       {
-        "label": "Teal - 9900 87",
+        "label": "Teal - 9900-87",
         "hex": "#4e8e97",
         "rgb": [78, 142, 151],
         "hsl": [187.4, 0.32, 0.45, 1]
       },
       {
-        "label": "Bubble Gum - 9900 88",
+        "label": "Bubble Gum - 9900-88",
         "hex": "#f3b9ad",
         "rgb": [243, 185, 173],
         "hsl": [10.29, 0.74, 0.82, 1]
       },
       {
-        "label": "Tea Rose - 9900 89",
+        "label": "Tea Rose - 9900-89",
         "hex": "#ea6673",
         "rgb": [234, 102, 115],
         "hsl": [354.09, 0.76, 0.66, 1]
       },
       {
-        "label": "Peony - 9900 91",
+        "label": "Peony - 9900-91",
         "hex": "#e4599d",
         "rgb": [228, 89, 157],
         "hsl": [330.65, 0.72, 0.62, 1]
       },
       {
-        "label": "Magenta - 9900 92",
+        "label": "Magenta - 9900-92",
         "hex": "#ba2f6a",
         "rgb": [186, 47, 106],
         "hsl": [334.53, 0.6, 0.46, 1]
       },
       {
-        "label": "Hyacinth - 9900 93",
+        "label": "Hyacinth - 9900-93",
         "hex": "#775f9d",
         "rgb": [119, 95, 157],
         "hsl": [263.23, 0.25, 0.49, 1]
       },
       {
-        "label": "Light Lime - 9900 100",
+        "label": "Light Lime - 9900-100",
         "hex": "#b3b667",
         "rgb": [179, 182, 103],
         "hsl": [62.28, 0.35, 0.56, 1]
       },
       {
-        "label": "Grass - 9900 101",
+        "label": "Grass - 9900-101",
         "hex": "#6d904e",
         "rgb": [109, 144, 78],
         "hsl": [91.82, 0.3, 0.44, 1]
       },
       {
-        "label": "Prairie Green - 9900 102",
+        "label": "Prairie Green - 9900-102",
         "hex": "#637a4c",
         "rgb": [99, 122, 76],
         "hsl": [90, 0.23, 0.39, 1]
       },
       {
-        "label": "Golden Wheat - 9900 103",
+        "label": "Golden Wheat - 9900-103",
         "hex": "#d58836",
         "rgb": [213, 136, 54],
         "hsl": [30.94, 0.65, 0.52, 1]
       },
       {
-        "label": "Hay - 9900 104",
+        "label": "Hay - 9900-104",
         "hex": "#9e6633",
         "rgb": [158, 102, 51],
         "hsl": [28.6, 0.51, 0.41, 1]
       },
       {
-        "label": "Rust - 9900 105",
+        "label": "Rust - 9900-105",
         "hex": "#8a3f2c",
         "rgb": [138, 63, 44],
         "hsl": [12.13, 0.52, 0.36, 1]
       },
       {
-        "label": "Earth - 9900 106",
+        "label": "Earth - 9900-106",
         "hex": "#5f3c26",
         "rgb": [95, 60, 38],
         "hsl": [23.16, 0.43, 0.26, 1]
       },
       {
-        "label": "Turquoise - 9900 107",
+        "label": "Turquoise - 9900-107",
         "hex": "#007e8c",
         "rgb": [0, 126, 140],
         "hsl": [186, 1, 0.27, 1]
       },
       {
-        "label": "Jade - 9900 108",
+        "label": "Jade - 9900-108",
         "hex": "#008476",
         "rgb": [0, 132, 118],
         "hsl": [173.64, 1, 0.26, 1]
       },
       {
-        "label": "Pond - 9900 109",
+        "label": "Pond - 9900-109",
         "hex": "#3b7576",
         "rgb": [59, 117, 118],
         "hsl": [181.02, 0.33, 0.35, 1]
       },
       {
-        "label": "Dark Teal - 9900 110",
+        "label": "Dark Teal - 9900-110",
         "hex": "#00545b",
         "rgb": [0, 84, 91],
         "hsl": [184.62, 1, 0.18, 1]
       },
       {
-        "label": "Horizon Blue - 9900 111",
+        "label": "Horizon Blue - 9900-111",
         "hex": "#005879",
         "rgb": [0, 88, 121],
         "hsl": [196.36, 1, 0.24, 1]
       },
       {
-        "label": "Blush - 9900 112",
+        "label": "Blush - 9900-112",
         "hex": "#9f434e",
         "rgb": [159, 67, 78],
         "hsl": [352.83, 0.41, 0.44, 1]
       },
       {
-        "label": "Barn Door - 9900 113",
+        "label": "Barn Door - 9900-113",
         "hex": "#731e35",
         "rgb": [115, 30, 53],
         "hsl": [343.76, 0.59, 0.28, 1]
       },
       {
-        "label": "Deep Burgundy - 9900 114",
+        "label": "Deep Burgundy - 9900-114",
         "hex": "#501c28",
         "rgb": [80, 28, 40],
         "hsl": [346.15, 0.48, 0.21, 1]
       },
       {
-        "label": "Bright Sky - 9900 115",
+        "label": "Bright Sky - 9900-115",
         "hex": "#0071bf",
         "rgb": [0, 113, 191],
         "hsl": [204.5, 1, 0.37, 1]
       },
       {
-        "label": "Dusk - 9900 116",
+        "label": "Dusk - 9900-116",
         "hex": "#274b99",
         "rgb": [39, 75, 153],
         "hsl": [221.05, 0.59, 0.38, 1]
       },
       {
-        "label": "Night Sky - 9900 117",
+        "label": "Night Sky - 9900-117",
         "hex": "#313c72",
         "rgb": [49, 60, 114],
         "hsl": [229.85, 0.4, 0.32, 1]
       },
       {
-        "label": "Washed Black - 9900 118",
+        "label": "Washed Black - 9900-118",
         "hex": "#222c35",
         "rgb": [34, 44, 53],
         "hsl": [208.42, 0.22, 0.17, 1]
       },
       {
-        "label": "Bettys Pink - 9900 120",
+        "label": "Bettys Pink - 9900-120",
         "hex": "#ef8996",
         "rgb": [239, 137, 150],
         "hsl": [352.35, 0.76, 0.74, 1]
       },
       {
-        "label": "Bettys Green - 9900 121",
+        "label": "Bettys Green - 9900-121",
         "hex": "#5daa7e",
         "rgb": [93, 170, 126],
         "hsl": [145.71, 0.31, 0.52, 1]
       },
       {
-        "label": "Bettys Blue - 9900 122",
+        "label": "Bettys Blue - 9900-122",
         "hex": "#4c6c9d",
         "rgb": [76, 108, 157],
         "hsl": [216.3, 0.35, 0.46, 1]
       },
       {
-        "label": "Bettys Red - 9900 123",
+        "label": "Bettys Red - 9900-123",
         "hex": "#be0027",
         "rgb": [190, 0, 39],
         "hsl": [347.68, 1, 0.37, 1]
       },
       {
-        "label": "Betty Orange - 9900 124",
+        "label": "Betty Orange - 9900-124",
         "hex": "#b63629",
         "rgb": [182, 54, 41],
         "hsl": [5.53, 0.63, 0.44, 1]
       },
       {
-        "label": "Bettys Brown - 9900 125",
+        "label": "Bettys Brown - 9900-125",
         "hex": "#443a30",
         "rgb": [68, 58, 48],
         "hsl": [30, 0.17, 0.23, 1]
       },
       {
-        "label": "Bettys Teal - 9900 126",
+        "label": "Bettys Teal - 9900-126",
         "hex": "#378077",
         "rgb": [55, 128, 119],
         "hsl": [172.6, 0.4, 0.36, 1]
       },
       {
-        "label": "Feather - 9900 127",
+        "label": "Feather - 9900-127",
         "hex": "#dee1d8",
         "rgb": [222, 225, 216],
         "hsl": [80, 0.13, 0.86, 1]
       },
       {
-        "label": "Stone - 9900 128",
+        "label": "Stone - 9900-128",
         "hex": "#8d857a",
         "rgb": [141, 133, 122],
         "hsl": [34.74, 0.08, 0.52, 1]
       },
       {
-        "label": "Weathered Teak - 9900 129",
+        "label": "Weathered Teak - 9900-129",
         "hex": "#675845",
         "rgb": [103, 88, 69],
         "hsl": [33.53, 0.2, 0.34, 1]
       },
       {
-        "label": "Sunshine - 9900 130",
+        "label": "Sunshine - 9900-130",
         "hex": "#f1d661",
         "rgb": [241, 214, 97],
         "hsl": [48.75, 0.84, 0.66, 1]
       },
       {
-        "label": "Lemon - 9900 131",
+        "label": "Lemon - 9900-131",
         "hex": "#f2d031",
         "rgb": [242, 208, 49],
         "hsl": [49.43, 0.88, 0.57, 1]
       },
       {
-        "label": "Breeze - 9900 132",
+        "label": "Breeze - 9900-132",
         "hex": "#b1d4c0",
         "rgb": [177, 212, 192],
         "hsl": [145.71, 0.29, 0.76, 1]
       },
       {
-        "label": "Mint - 9900 133",
+        "label": "Mint - 9900-133",
         "hex": "#96bc95",
         "rgb": [150, 188, 149],
         "hsl": [118.46, 0.23, 0.66, 1]
       },
       {
-        "label": "Pistachio - 9900 134",
+        "label": "Pistachio - 9900-134",
         "hex": "#a1ac4e",
         "rgb": [161, 172, 78],
         "hsl": [67.02, 0.38, 0.49, 1]
       },
       {
-        "label": "Marine - 9900 135",
+        "label": "Marine - 9900-135",
         "hex": "#348ea6",
         "rgb": [52, 142, 166],
         "hsl": [192.63, 0.52, 0.43, 1]
       },
       {
-        "label": "Summer Sky - 9900 136",
+        "label": "Summer Sky - 9900-136",
         "hex": "#5496c6",
         "rgb": [84, 150, 198],
         "hsl": [205.26, 0.5, 0.55, 1]
       },
       {
-        "label": "Coastal - 9900 137",
+        "label": "Coastal - 9900-137",
         "hex": "#3477a2",
         "rgb": [52, 119, 162],
         "hsl": [203.45, 0.51, 0.42, 1]
       },
       {
-        "label": "Sea - 9900 138",
+        "label": "Sea - 9900-138",
         "hex": "#2e5d89",
         "rgb": [46, 93, 137],
         "hsl": [209.01, 0.5, 0.36, 1]
       },
       {
-        "label": "Aubergine - 9900 139",
+        "label": "Aubergine - 9900-139",
         "hex": "#6c4f7d",
         "rgb": [108, 79, 125],
         "hsl": [277.83, 0.23, 0.4, 1]
       },
       {
-        "label": "Raspberry - 9900 140",
+        "label": "Raspberry - 9900-140",
         "hex": "#c21940",
         "rgb": [194, 25, 64],
         "hsl": [346.15, 0.77, 0.43, 1]
       },
       {
-        "label": "Bluebell - 9900 141",
+        "label": "Bluebell - 9900-141",
         "hex": "#71b8e2",
         "rgb": [113, 184, 226],
         "hsl": [202.3, 0.66, 0.66, 1]
       },
       {
-        "label": "Little Boy Blue - 9900 142",
+        "label": "Little Boy Blue - 9900-142",
         "hex": "#0090cf",
         "rgb": [0, 144, 207],
         "hsl": [198.26, 1, 0.41, 1]
       },
       {
-        "label": "Popsicle - 9900 143",
+        "label": "Popsicle - 9900-143",
         "hex": "#dc4161",
         "rgb": [220, 65, 97],
         "hsl": [347.61, 0.69, 0.56, 1]
       },
       {
-        "label": "Azalea - 9900 144",
+        "label": "Azalea - 9900-144",
         "hex": "#c50b48",
         "rgb": [197, 11, 72],
         "hsl": [340.32, 0.89, 0.41, 1]
       },
       {
-        "label": "Sisters Pink - 9900 145",
+        "label": "Sisters Pink - 9900-145",
         "hex": "#e8b6b7",
         "rgb": [232, 182, 183],
         "hsl": [358.8, 0.52, 0.81, 1]
       },
       {
-        "label": "Coral - 9900 147",
+        "label": "Coral - 9900-147",
         "hex": "#ec7561",
         "rgb": [236, 117, 97],
         "hsl": [8.63, 0.79, 0.65, 1]
       },
       {
-        "label": "Soft Yellow - 9900 148",
+        "label": "Soft Yellow - 9900-148",
         "hex": "#edcf86",
         "rgb": [237, 207, 134],
         "hsl": [42.52, 0.74, 0.73, 1]
       },
       {
-        "label": "Kansas Green - 9900 149",
+        "label": "Kansas Green - 9900-149",
         "hex": "#3f5137",
         "rgb": [63, 81, 55],
         "hsl": [101.54, 0.19, 0.27, 1]
       },
       {
-        "label": "Kansas Red - 9900 150",
+        "label": "Kansas Red - 9900-150",
         "hex": "#6b1b26",
         "rgb": [107, 27, 38],
         "hsl": [351.75, 0.6, 0.26, 1]
       },
       {
-        "label": "Cheddar - 9900 152",
+        "label": "Cheddar - 9900-152",
         "hex": "#e17c10",
         "rgb": [225, 124, 16],
         "hsl": [31, 0.87, 0.47, 1]
       },
       {
-        "label": "Amelia Orange - 9900 161",
+        "label": "Amelia Orange - 9900-161",
         "hex": "#f37d11",
         "rgb": [243, 125, 17],
         "hsl": [28.67, 0.9, 0.51, 1]
       },
       {
-        "label": "Amelia Apricot - 9900 162",
+        "label": "Amelia Apricot - 9900-162",
         "hex": "#ea8d3d",
         "rgb": [234, 141, 61],
         "hsl": [27.75, 0.8, 0.58, 1]
       },
       {
-        "label": "Amelia Green - 9900 163",
+        "label": "Amelia Green - 9900-163",
         "hex": "#99ca5d",
         "rgb": [153, 202, 93],
         "hsl": [86.97, 0.51, 0.58, 1]
       },
       {
-        "label": "Amelia Lavender - 9900 164",
+        "label": "Amelia Lavender - 9900-164",
         "hex": "#8c82c7",
         "rgb": [140, 130, 199],
         "hsl": [248.7, 0.38, 0.65, 1]
       },
       {
-        "label": "Amelia Purple - 9900 165",
+        "label": "Amelia Purple - 9900-165",
         "hex": "#6a53a1",
         "rgb": [106, 83, 161],
         "hsl": [257.69, 0.32, 0.48, 1]
       },
       {
-        "label": "Amelia Pink - 9900 166",
+        "label": "Amelia Pink - 9900-166",
         "hex": "#efa0c0",
         "rgb": [239, 160, 192],
         "hsl": [335.7, 0.71, 0.78, 1]
       },
       {
-        "label": "Amelia Blue - 9900 167",
+        "label": "Amelia Blue - 9900-167",
         "hex": "#0f58b7",
         "rgb": [15, 88, 183],
         "hsl": [213.93, 0.85, 0.39, 1]
       },
       {
-        "label": "Terrain Iris - 9900 168",
+        "label": "Terrain Iris - 9900-168",
         "hex": "#3b3670",
         "rgb": [59, 54, 112],
         "hsl": [245.17, 0.35, 0.33, 1]
       },
       {
-        "label": "Ruby Ice - 9900 169",
+        "label": "Ruby Ice - 9900-169",
         "hex": "#b2ddd4",
         "rgb": [178, 221, 212],
         "hsl": [167.44, 0.39, 0.78, 1]
       },
       {
-        "label": "Etchings Slate - 9900 170",
+        "label": "Etchings Slate - 9900-170",
         "hex": "#5c615d",
         "rgb": [92, 97, 93],
         "hsl": [132, 0.03, 0.37, 1]
       },
       {
-        "label": "Etchings Charcoal - 9900 171",
+        "label": "Etchings Charcoal - 9900-171",
         "hex": "#4b4e47",
         "rgb": [75, 78, 71],
         "hsl": [85.71, 0.05, 0.29, 1]
       },
       {
-        "label": "Circa Celadon - 9900 172",
+        "label": "Circa Celadon - 9900-172",
         "hex": "#869264",
         "rgb": [134, 146, 100],
         "hsl": [75.65, 0.19, 0.48, 1]
       },
       {
-        "label": "Summer House Lime - 9900 173",
+        "label": "Summer House Lime - 9900-173",
         "hex": "#98ba3f",
         "rgb": [152, 186, 63],
         "hsl": [76.59, 0.49, 0.49, 1]
       },
       {
-        "label": "American Blue - 9900 174",
+        "label": "American Blue - 9900-174",
         "hex": "#25374f",
         "rgb": [37, 55, 79],
         "hsl": [214.29, 0.36, 0.23, 1]
       },
       {
-        "label": "Terrain Cactus - 9900 175",
+        "label": "Terrain Cactus - 9900-175",
         "hex": "#5d6a35",
         "rgb": [93, 106, 53],
         "hsl": [74.72, 0.33, 0.31, 1]
       },
       {
-        "label": "Bunny Hill Blue - 9900 176",
+        "label": "Bunny Hill Blue - 9900-176",
         "hex": "#93a9b7",
         "rgb": [147, 169, 183],
         "hsl": [203.33, 0.2, 0.65, 1]
       },
       {
-        "label": "Home Town Sky - 9900 177",
+        "label": "Home Town Sky - 9900-177",
         "hex": "#9db8af",
         "rgb": [157, 184, 175],
         "hsl": [160, 0.16, 0.67, 1]
       },
       {
-        "label": "Etchings Stone - 9900 178",
+        "label": "Etchings Stone - 9900-178",
         "hex": "#c4c1b2",
         "rgb": [196, 193, 178],
         "hsl": [50, 0.13, 0.73, 1]
       },
       {
-        "label": "Together Tan - 9900 179",
+        "label": "Together Tan - 9900-179",
         "hex": "#b29a6a",
         "rgb": [178, 154, 106],
         "hsl": [40, 0.32, 0.56, 1]
       },
       {
-        "label": "Cocoa - 9900 180",
+        "label": "Cocoa - 9900-180",
         "hex": "#694f36",
         "rgb": [105, 79, 54],
         "hsl": [29.41, 0.32, 0.31, 1]
       },
       {
-        "label": "Porcelain - 9900 182",
+        "label": "Porcelain - 9900-182",
         "hex": "#deddcb",
         "rgb": [222, 221, 203],
         "hsl": [56.84, 0.22, 0.83, 1]
       },
       {
-        "label": "Silver - 9900 183",
+        "label": "Silver - 9900-183",
         "hex": "#85949b",
         "rgb": [133, 148, 155],
         "hsl": [199.09, 0.1, 0.56, 1]
       },
       {
-        "label": "Steel - 9900 184",
+        "label": "Steel - 9900-184",
         "hex": "#6b7c83",
         "rgb": [107, 124, 131],
         "hsl": [197.5, 0.1, 0.47, 1]
       },
       {
-        "label": "Leaf - 9900 192",
+        "label": "Leaf - 9900-192",
         "hex": "#748537",
         "rgb": [116, 133, 55],
         "hsl": [73.08, 0.41, 0.37, 1]
       },
       {
-        "label": "Surf - 9900 193",
+        "label": "Surf - 9900-193",
         "hex": "#6bc2de",
         "rgb": [107, 194, 222],
         "hsl": [194.61, 0.64, 0.65, 1]
       },
       {
-        "label": "Sienna - 9900 194",
+        "label": "Sienna - 9900-194",
         "hex": "#75512d",
         "rgb": [117, 81, 45],
         "hsl": [30, 0.44, 0.32, 1]
       },
       {
-        "label": "Bunny Hill Pink - 9900 195",
+        "label": "Bunny Hill Pink - 9900-195",
         "hex": "#ce9d98",
         "rgb": [206, 157, 152],
         "hsl": [5.56, 0.36, 0.7, 1]
       },
       {
-        "label": "Zen Grey - 9900 185",
+        "label": "Zen Grey - 9900-185",
         "hex": "#a9b4b6",
         "rgb": [169, 180, 182],
         "hsl": [189.23, 0.08, 0.69, 1]
       },
       {
-        "label": "Tranquil Aqua - 9900 186",
+        "label": "Tranquil Aqua - 9900-186",
         "hex": "#90c8df",
         "rgb": [144, 200, 223],
         "hsl": [197.47, 0.55, 0.72, 1]
       },
       {
-        "label": "Green Tea - 9900 187",
+        "label": "Green Tea - 9900-187",
         "hex": "#afcd85",
         "rgb": [175, 205, 133],
         "hsl": [85, 0.42, 0.66, 1]
       },
       {
-        "label": "Chartreuse - 9900 188",
+        "label": "Chartreuse - 9900-188",
         "hex": "#b5b447",
         "rgb": [181, 180, 71],
         "hsl": [59.45, 0.44, 0.49, 1]
       },
       {
-        "label": "Kiwi - 9900 189",
+        "label": "Kiwi - 9900-189",
         "hex": "#52b759",
         "rgb": [82, 183, 89],
         "hsl": [124.16, 0.41, 0.52, 1]
       },
       {
-        "label": "Fuchsia - 9900 190",
+        "label": "Fuchsia - 9900-190",
         "hex": "#dc4a89",
         "rgb": [220, 74, 137],
         "hsl": [334.11, 0.68, 0.58, 1]
       },
       {
-        "label": "Seafoam - 9900 191",
+        "label": "Seafoam - 9900-191",
         "hex": "#2caab6",
         "rgb": [44, 170, 182],
         "hsl": [185.22, 0.61, 0.44, 1]
       },
       {
-        "label": "Off White - 9900 200",
+        "label": "Off White - 9900-200",
         "hex": "#dadcd9",
         "rgb": [218, 220, 217],
         "hsl": [100, 0.04, 0.86, 1]
       },
       {
-        "label": "Sand - 9900 201",
+        "label": "Sand - 9900-201",
         "hex": "#b7aa87",
         "rgb": [183, 170, 135],
         "hsl": [43.75, 0.25, 0.62, 1]
       },
       {
-        "label": "Graphite - 9900 202",
+        "label": "Graphite - 9900-202",
         "hex": "#4d5c63",
         "rgb": [77, 92, 99],
         "hsl": [199.09, 0.13, 0.35, 1]
       },
       {
-        "label": "Plum - 9900 204",
+        "label": "Plum - 9900-204",
         "hex": "#7e4c69",
         "rgb": [126, 76, 105],
         "hsl": [325.2, 0.25, 0.4, 1]
       },
       {
-        "label": "Eggplant - 9900 205",
+        "label": "Eggplant - 9900-205",
         "hex": "#572e4c",
         "rgb": [87, 46, 76],
         "hsl": [316.1, 0.31, 0.26, 1]
       },
       {
-        "label": "Mauve - 9900 206",
+        "label": "Mauve - 9900-206",
         "hex": "#684e6b",
         "rgb": [104, 78, 107],
         "hsl": [293.79, 0.16, 0.36, 1]
       },
       {
-        "label": "Glacier - 9900 207",
+        "label": "Glacier - 9900-207",
         "hex": "#6d92ad",
         "rgb": [109, 146, 173],
         "hsl": [205.31, 0.28, 0.55, 1]
       },
       {
-        "label": "Clementine - 9900 209",
+        "label": "Clementine - 9900-209",
         "hex": "#d34b17",
         "rgb": [211, 75, 23],
         "hsl": [16.6, 0.8, 0.46, 1]
       },
       {
-        "label": "Strawberry - 9900 210",
+        "label": "Strawberry - 9900-210",
         "hex": "#c73f55",
         "rgb": [199, 63, 85],
         "hsl": [350.29, 0.55, 0.51, 1]
       },
       {
-        "label": "Citrine - 9900 211",
+        "label": "Citrine - 9900-211",
         "hex": "#d5be22",
         "rgb": [213, 190, 34],
         "hsl": [52.29, 0.72, 0.48, 1]
       },
       {
-        "label": "Petal Pink - 9900 212",
+        "label": "Petal Pink - 9900-212",
         "hex": "#cc5692",
         "rgb": [204, 86, 146],
         "hsl": [329.49, 0.54, 0.57, 1]
       },
       {
-        "label": "Mustard - 9900 213",
+        "label": "Mustard - 9900-213",
         "hex": "#ce9a24",
         "rgb": [206, 154, 36],
         "hsl": [41.65, 0.7, 0.47, 1]
       },
       {
-        "label": "Berrylicious - 9900 214",
+        "label": "Berrylicious - 9900-214",
         "hex": "#a1165a",
         "rgb": [161, 22, 90],
         "hsl": [330.65, 0.76, 0.36, 1]
       },
       {
-        "label": "Wisteria - 9900 215",
+        "label": "Wisteria - 9900-215",
         "hex": "#9290c1",
         "rgb": [146, 144, 193],
         "hsl": [242.45, 0.28, 0.66, 1]
       },
       {
-        "label": "Peacock - 9900 216",
+        "label": "Peacock - 9900-216",
         "hex": "#00b19f",
         "rgb": [0, 177, 159],
         "hsl": [173.9, 1, 0.35, 1]
       },
       {
-        "label": "Boysenberry - 9900 217",
+        "label": "Boysenberry - 9900-217",
         "hex": "#6a153e",
         "rgb": [106, 21, 62],
         "hsl": [331.06, 0.67, 0.25, 1]
       },
       {
-        "label": "Indigo - 9900 218",
+        "label": "Indigo - 9900-218",
         "hex": "#3e4c66",
         "rgb": [62, 76, 102],
         "hsl": [219, 0.24, 0.32, 1]
       },
       {
-        "label": "Platinum - 9900 219",
+        "label": "Platinum - 9900-219",
         "hex": "#8396a4",
         "rgb": [131, 150, 164],
         "hsl": [205.45, 0.15, 0.58, 1]
       },
       {
-        "label": "Sunflower - 9900 221",
+        "label": "Sunflower - 9900-221",
         "hex": "#f7d104",
         "rgb": [247, 209, 4],
         "hsl": [50.62, 0.97, 0.49, 1]
       },
       {
-        "label": "Mango - 9900 222",
+        "label": "Mango - 9900-222",
         "hex": "#da1e03",
         "rgb": [218, 30, 3],
         "hsl": [7.53, 0.97, 0.43, 1]
       },
       {
-        "label": "Shocking Pink - 9900 223",
+        "label": "Shocking Pink - 9900-223",
         "hex": "#c00e5a",
         "rgb": [192, 14, 90],
         "hsl": [334.38, 0.86, 0.4, 1]
       },
       {
-        "label": "Violet - 9900 224",
+        "label": "Violet - 9900-224",
         "hex": "#a1508a",
         "rgb": [161, 80, 138],
         "hsl": [317.04, 0.34, 0.47, 1]
       },
       {
-        "label": "Capri - 9900 225",
+        "label": "Capri - 9900-225",
         "hex": "#00b2d6",
         "rgb": [0, 178, 214],
         "hsl": [190.09, 1, 0.42, 1]
       },
       {
-        "label": "Bright Turquoise - 9900 226",
+        "label": "Bright Turquoise - 9900-226",
         "hex": "#0083b4",
         "rgb": [0, 131, 180],
         "hsl": [196.33, 1, 0.35, 1]
       },
       {
-        "label": "Cobalt - 9900 227",
+        "label": "Cobalt - 9900-227",
         "hex": "#305798",
         "rgb": [48, 87, 152],
         "hsl": [217.5, 0.52, 0.39, 1]
       },
       {
-        "label": "Fresh Grass - 9900 228",
+        "label": "Fresh Grass - 9900-228",
         "hex": "#61853b",
         "rgb": [97, 133, 59],
         "hsl": [89.19, 0.39, 0.38, 1]
       },
       {
-        "label": "Brick Red - 9900 229",
+        "label": "Brick Red - 9900-229",
         "hex": "#83222d",
         "rgb": [131, 34, 45],
         "hsl": [353.2, 0.59, 0.32, 1]
       },
       {
-        "label": "Cherry - 9900 230",
+        "label": "Cherry - 9900-230",
         "hex": "#a9132c",
         "rgb": [169, 19, 44],
         "hsl": [350, 0.8, 0.37, 1]
       },
       {
-        "label": "Longhorn - 9900 231",
+        "label": "Longhorn - 9900-231",
         "hex": "#ab3f0e",
         "rgb": [171, 63, 14],
         "hsl": [18.73, 0.85, 0.36, 1]
       },
       {
-        "label": "Saffron - 9900 232",
+        "label": "Saffron - 9900-232",
         "hex": "#d39800",
         "rgb": [211, 152, 0],
         "hsl": [43.22, 1, 0.41, 1]
       },
       {
-        "label": "Pesto - 9900 233",
+        "label": "Pesto - 9900-233",
         "hex": "#8f921d",
         "rgb": [143, 146, 29],
         "hsl": [61.54, 0.67, 0.34, 1]
       },
       {
-        "label": "Evergreen - 9900 234",
+        "label": "Evergreen - 9900-234",
         "hex": "#436322",
         "rgb": [67, 99, 34],
         "hsl": [89.54, 0.49, 0.26, 1]
       },
       {
-        "label": "Blue Chill - 9900 235",
+        "label": "Blue Chill - 9900-235",
         "hex": "#088fa5",
         "rgb": [8, 143, 165],
         "hsl": [188.41, 0.91, 0.34, 1]
       },
       {
-        "label": "Nautical Blue - 9900 236",
+        "label": "Nautical Blue - 9900-236",
         "hex": "#1a3254",
         "rgb": [26, 50, 84],
         "hsl": [215.17, 0.53, 0.22, 1]
       },
       {
-        "label": "Prune - 9900 238",
+        "label": "Prune - 9900-238",
         "hex": "#37253f",
         "rgb": [55, 37, 63],
         "hsl": [281.54, 0.26, 0.2, 1]
       },
       {
-        "label": "Pewter - 9900 239",
+        "label": "Pewter - 9900-239",
         "hex": "#73827f",
         "rgb": [115, 130, 127],
         "hsl": [168, 0.06, 0.48, 1]
       },
       {
-        "label": "Dove - 9900 240",
+        "label": "Dove - 9900-240",
         "hex": "#747361",
         "rgb": [116, 115, 97],
         "hsl": [56.84, 0.09, 0.42, 1]
       },
       {
-        "label": "Flax - 9900 241",
+        "label": "Flax - 9900-241",
         "hex": "#b7b09d",
         "rgb": [183, 176, 157],
         "hsl": [43.85, 0.15, 0.67, 1]
       },
       {
-        "label": "Linen - 9900 242",
+        "label": "Linen - 9900-242",
         "hex": "#c5ba9e",
         "rgb": [197, 186, 158],
         "hsl": [43.08, 0.25, 0.7, 1]
       },
       {
-        "label": "Almond - 9900 243",
+        "label": "Almond - 9900-243",
         "hex": "#d2b28b",
         "rgb": [210, 178, 139],
         "hsl": [32.96, 0.44, 0.68, 1]
       },
       {
-        "label": "Harvest Gold - 9900 244",
+        "label": "Harvest Gold - 9900-244",
         "hex": "#aa7b2d",
         "rgb": [170, 123, 45],
         "hsl": [37.44, 0.58, 0.42, 1]
       },
       {
-        "label": "Latte - 9900 245",
+        "label": "Latte - 9900-245",
         "hex": "#8f7246",
         "rgb": [143, 114, 70],
         "hsl": [36.16, 0.34, 0.42, 1]
       },
       {
-        "label": "Toast - 9900 246",
+        "label": "Toast - 9900-246",
         "hex": "#715a31",
         "rgb": [113, 90, 49],
         "hsl": [38.44, 0.4, 0.32, 1]
       },
       {
-        "label": "Pastel Blue - 9900 247",
+        "label": "Pastel Blue - 9900-247",
         "hex": "#a5d2e5",
         "rgb": [165, 210, 229],
         "hsl": [197.81, 0.55, 0.77, 1]
       },
       {
-        "label": "Parfait Pink - 9900 248",
+        "label": "Parfait Pink - 9900-248",
         "hex": "#ebb8d7",
         "rgb": [235, 184, 215],
         "hsl": [323.53, 0.56, 0.82, 1]
       },
       {
-        "label": "Freesia - 9900 249",
+        "label": "Freesia - 9900-249",
         "hex": "#c5aad3",
         "rgb": [197, 170, 211],
         "hsl": [279.51, 0.32, 0.75, 1]
       },
       {
-        "label": "Daffodil - 9900 250",
+        "label": "Daffodil - 9900-250",
         "hex": "#f2d549",
         "rgb": [242, 213, 73],
         "hsl": [49.7, 0.87, 0.62, 1]
       },
       {
-        "label": "Tangerine - 9900 255",
+        "label": "Tangerine - 9900-255",
         "hex": "#ed4500",
         "rgb": [237, 69, 0],
         "hsl": [17.47, 1, 0.46, 1]
       },
       {
-        "label": "Cayenne - 9900 256",
+        "label": "Cayenne - 9900-256",
         "hex": "#bb0617",
         "rgb": [187, 6, 23],
         "hsl": [354.36, 0.94, 0.38, 1]
       },
       {
-        "label": "Geranium - 9900 258",
+        "label": "Geranium - 9900-258",
         "hex": "#df2b36",
         "rgb": [223, 43, 54],
         "hsl": [356.33, 0.74, 0.52, 1]
       },
       {
-        "label": "Periwinkle - 9900 260",
+        "label": "Periwinkle - 9900-260",
         "hex": "#4e5c9b",
         "rgb": [78, 92, 155],
         "hsl": [229.09, 0.33, 0.46, 1]
       },
       {
-        "label": "Sapphire - 9900 261",
+        "label": "Sapphire - 9900-261",
         "hex": "#1a3677",
         "rgb": [26, 54, 119],
         "hsl": [221.94, 0.64, 0.28, 1]
       },
       {
-        "label": "Frost - 9900 262",
+        "label": "Frost - 9900-262",
         "hex": "#b0d3d9",
         "rgb": [176, 211, 217],
         "hsl": [188.78, 0.35, 0.77, 1]
       },
       {
-        "label": "Spray - 9900 263",
+        "label": "Spray - 9900-263",
         "hex": "#6cb5bb",
         "rgb": [108, 181, 187],
         "hsl": [184.56, 0.37, 0.58, 1]
       },
       {
-        "label": "Honeydew - 9900 264",
+        "label": "Honeydew - 9900-264",
         "hex": "#b2d384",
         "rgb": [178, 211, 132],
         "hsl": [85.06, 0.47, 0.67, 1]
       },
       {
-        "label": "Key Lime - 9900 265",
+        "label": "Key Lime - 9900-265",
         "hex": "#baca4d",
         "rgb": [186, 202, 77],
         "hsl": [67.68, 0.54, 0.55, 1]
       },
       {
-        "label": "Acid Green - 9900 266",
+        "label": "Acid Green - 9900-266",
         "hex": "#b0ba00",
         "rgb": [176, 186, 0],
         "hsl": [63.23, 1, 0.36, 1]
       },
       {
-        "label": "Sprout - 9900 267",
+        "label": "Sprout - 9900-267",
         "hex": "#7aa732",
         "rgb": [122, 167, 50],
         "hsl": [83.08, 0.54, 0.43, 1]
       },
       {
-        "label": "Emerald - 9900 268",
+        "label": "Emerald - 9900-268",
         "hex": "#006a45",
         "rgb": [0, 106, 69],
         "hsl": [159.06, 1, 0.21, 1]
       },
       {
-        "label": "Bermuda - 9900 269",
+        "label": "Bermuda - 9900-269",
         "hex": "#10bfb8",
         "rgb": [16, 191, 184],
         "hsl": [177.6, 0.85, 0.41, 1]
       },
       {
-        "label": "Lagoon - 9900 270",
+        "label": "Lagoon - 9900-270",
         "hex": "#006874",
         "rgb": [0, 104, 116],
         "hsl": [186.21, 1, 0.23, 1]
       },
       {
-        "label": "Prussian Blue - 9900 271",
+        "label": "Prussian Blue - 9900-271",
         "hex": "#003c5a",
         "rgb": [0, 60, 90],
         "hsl": [200, 1, 0.18, 1]
       },
       {
-        "label": "Canary - 9900 272",
+        "label": "Canary - 9900-272",
         "hex": "#ead383",
         "rgb": [234, 211, 131],
         "hsl": [46.6, 0.71, 0.72, 1]
       },
       {
-        "label": "Maize - 9900 273",
+        "label": "Maize - 9900-273",
         "hex": "#c8ab29",
         "rgb": [200, 171, 41],
         "hsl": [49.06, 0.66, 0.47, 1]
       },
       {
-        "label": "Green Olive - 9900 275",
+        "label": "Green Olive - 9900-275",
         "hex": "#7d6e09",
         "rgb": [125, 110, 9],
         "hsl": [52.24, 0.87, 0.26, 1]
       },
       {
-        "label": "Avocado - 9900 277",
+        "label": "Avocado - 9900-277",
         "hex": "#58620b",
         "rgb": [88, 98, 11],
         "hsl": [66.9, 0.8, 0.21, 1]
       },
       {
-        "label": "Merlot - 9900 279",
+        "label": "Merlot - 9900-279",
         "hex": "#3e1d26",
         "rgb": [62, 29, 38],
         "hsl": [343.64, 0.36, 0.18, 1]
       },
       {
-        "label": "Espresso - 9900 280",
+        "label": "Espresso - 9900-280",
         "hex": "#292824",
         "rgb": [41, 40, 36],
         "hsl": [48, 0.06, 0.15, 1]
       },
       {
-        "label": "Eggshell - 9900 281",
+        "label": "Eggshell - 9900-281",
         "hex": "#d8d5c2",
         "rgb": [216, 213, 194],
         "hsl": [51.82, 0.22, 0.8, 1]
       },
       {
-        "label": "Fog - 9900 282",
+        "label": "Fog - 9900-282",
         "hex": "#d5cfcf",
         "rgb": [213, 207, 207],
         "hsl": [0, 0.07, 0.82, 1]
       },
       {
-        "label": "Lead - 9900 283",
+        "label": "Lead - 9900-283",
         "hex": "#44484b",
         "rgb": [68, 72, 75],
         "hsl": [205.71, 0.05, 0.28, 1]
       },
       {
-        "label": "Charcoal - 9900 284",
+        "label": "Charcoal - 9900-284",
         "hex": "#323232",
         "rgb": [50, 50, 50],
         "hsl": [null, 0, 0.2, 1]
       },
       {
-        "label": "Super Black - 9900 96",
+        "label": "Super Black - 9900-96",
         "hex": "#151a1d",
         "rgb": [21, 26, 29],
         "hsl": [202.5, 0.16, 0.1, 1]
       },
       {
-        "label": "Marigold - 9900 290",
+        "label": "Marigold - 9900-290",
         "hex": "#f29f00",
         "rgb": [242, 159, 0],
         "hsl": [39.42, 1, 0.47, 1]
       },
       {
-        "label": "Chrome - 9900 291",
+        "label": "Chrome - 9900-291",
         "hex": "#eba900",
         "rgb": [235, 169, 0],
         "hsl": [43.15, 1, 0.46, 1]
       },
       {
-        "label": "Amber - 9900 292",
+        "label": "Amber - 9900-292",
         "hex": "#aa5f1c",
         "rgb": [170, 95, 28],
         "hsl": [28.31, 0.72, 0.39, 1]
       },
       {
-        "label": "Spice - 9900 293",
+        "label": "Spice - 9900-293",
         "hex": "#9c4b2e",
         "rgb": [156, 75, 46],
         "hsl": [15.82, 0.54, 0.4, 1]
       },
       {
-        "label": "Persimmon - 9900 294",
+        "label": "Persimmon - 9900-294",
         "hex": "#c43539",
         "rgb": [196, 53, 57],
         "hsl": [358.32, 0.57, 0.49, 1]
       },
       {
-        "label": "Melon - 9900 295",
+        "label": "Melon - 9900-295",
         "hex": "#f06b3e",
         "rgb": [240, 107, 62],
         "hsl": [15.17, 0.86, 0.59, 1]
       },
       {
-        "label": "Cantaloupe - 9900 296",
+        "label": "Cantaloupe - 9900-296",
         "hex": "#f5a987",
         "rgb": [245, 169, 135],
         "hsl": [18.55, 0.85, 0.75, 1]
       },
       {
-        "label": "Peach Blossom - 9900 297",
+        "label": "Peach Blossom - 9900-297",
         "hex": "#f1977d",
         "rgb": [241, 151, 125],
         "hsl": [13.45, 0.81, 0.72, 1]
       },
       {
-        "label": "Cameo - 9900 298",
+        "label": "Cameo - 9900-298",
         "hex": "#e28880",
         "rgb": [226, 136, 128],
         "hsl": [4.9, 0.63, 0.69, 1]
       },
       {
-        "label": "Flamingo - 9900 299",
+        "label": "Flamingo - 9900-299",
         "hex": "#dd4957",
         "rgb": [221, 73, 87],
         "hsl": [354.32, 0.69, 0.58, 1]
       },
       {
-        "label": "Petunia - 9900 301",
+        "label": "Petunia - 9900-301",
         "hex": "#c23488",
         "rgb": [194, 52, 136],
         "hsl": [324.51, 0.58, 0.48, 1]
       },
       {
-        "label": "Iris - 9900 302",
+        "label": "Iris - 9900-302",
         "hex": "#552161",
         "rgb": [85, 33, 97],
         "hsl": [288.75, 0.49, 0.25, 1]
       },
       {
-        "label": "Sugar Plum - 9900 303",
+        "label": "Sugar Plum - 9900-303",
         "hex": "#9a6fb4",
         "rgb": [154, 111, 180],
         "hsl": [277.39, 0.32, 0.57, 1]
       },
       {
-        "label": "Spearmint - 9900 304",
+        "label": "Spearmint - 9900-304",
         "hex": "#00977a",
         "rgb": [0, 151, 122],
         "hsl": [168.48, 1, 0.3, 1]
       },
       {
-        "label": "Regatta - 9900 305",
+        "label": "Regatta - 9900-305",
         "hex": "#114086",
         "rgb": [17, 64, 134],
         "hsl": [215.9, 0.77, 0.3, 1]
       },
       {
-        "label": "Cornflower - 9900 306",
+        "label": "Cornflower - 9900-306",
         "hex": "#007fce",
         "rgb": [0, 127, 206],
         "hsl": [203.01, 1, 0.4, 1]
       },
       {
-        "label": "Imperial Blue - 9900 307",
+        "label": "Imperial Blue - 9900-307",
         "hex": "#00508d",
         "rgb": [0, 80, 141],
         "hsl": [205.96, 1, 0.28, 1]
       },
       {
-        "label": "Pickle - 9900 308",
+        "label": "Pickle - 9900-308",
         "hex": "#524e11",
         "rgb": [82, 78, 17],
         "hsl": [56.31, 0.66, 0.19, 1]
       },
       {
-        "label": "Taupe - 9900 310",
+        "label": "Taupe - 9900-310",
         "hex": "#85836e",
         "rgb": [133, 131, 110],
         "hsl": [54.78, 0.09, 0.48, 1]
       },
       {
-        "label": "Elephant - 9900 312",
+        "label": "Elephant - 9900-312",
         "hex": "#69675a",
         "rgb": [105, 103, 90],
         "hsl": [52, 0.08, 0.38, 1]
       },
       {
-        "label": "Oatmeal - 9900 313",
+        "label": "Oatmeal - 9900-313",
         "hex": "#a19275",
         "rgb": [161, 146, 117],
         "hsl": [39.55, 0.19, 0.55, 1]
       },
       {
-        "label": "Mocha - 9900 314",
+        "label": "Mocha - 9900-314",
         "hex": "#563c25",
         "rgb": [86, 60, 37],
         "hsl": [28.16, 0.4, 0.24, 1]
       },
       {
-        "label": "Walnut - 9900 315",
+        "label": "Walnut - 9900-315",
         "hex": "#3c2f27",
         "rgb": [60, 47, 39],
         "hsl": [22.86, 0.21, 0.19, 1]
       },
       {
-        "label": "Smoke - 9900 316",
+        "label": "Smoke - 9900-316",
         "hex": "#b4b4c0",
         "rgb": [180, 180, 192],
         "hsl": [240, 0.09, 0.73, 1]
       },
       {
-        "label": "Ash - 9900 317",
+        "label": "Ash - 9900-317",
         "hex": "#ccd1e5",
         "rgb": [204, 209, 229],
         "hsl": [228, 0.32, 0.85, 1]
       },
       {
-        "label": "Afternoon - 9900 318",
+        "label": "Afternoon - 9900-318",
         "hex": "#e7b55c",
         "rgb": [231, 181, 92],
         "hsl": [38.42, 0.74, 0.63, 1]
       },
       {
-        "label": "Coral Rose - 9900 319",
+        "label": "Coral Rose - 9900-319",
         "hex": "#b66562",
         "rgb": [182, 101, 98],
         "hsl": [2.14, 0.37, 0.55, 1]
       },
       {
-        "label": "Composed - 9900 321",
+        "label": "Composed - 9900-321",
         "hex": "#598c85",
         "rgb": [89, 140, 133],
         "hsl": [171.76, 0.22, 0.45, 1]
       },
       {
-        "label": "Dovetail - 9900 322",
+        "label": "Dovetail - 9900-322",
         "hex": "#73766f",
         "rgb": [115, 118, 111],
         "hsl": [85.71, 0.03, 0.45, 1]
       },
       {
-        "label": "Outer Space - 9900 323",
+        "label": "Outer Space - 9900-323",
         "hex": "#3a4b55",
         "rgb": [58, 75, 85],
         "hsl": [202.22, 0.19, 0.28, 1]
       },
       {
-        "label": "Scuba - 9900 325",
+        "label": "Scuba - 9900-325",
         "hex": "#187980",
         "rgb": [24, 121, 128],
         "hsl": [184.04, 0.68, 0.3, 1]
       },
       {
-        "label": "Poolside - 9900 326",
+        "label": "Poolside - 9900-326",
         "hex": "#2ea7af",
         "rgb": [46, 167, 175],
         "hsl": [183.72, 0.58, 0.43, 1]
       },
       {
-        "label": "Chipotle - 9900 327",
+        "label": "Chipotle - 9900-327",
         "hex": "#a5261f",
         "rgb": [165, 38, 31],
         "hsl": [3.13, 0.68, 0.38, 1]
       },
       {
-        "label": "Garnet - 9900 328",
+        "label": "Garnet - 9900-328",
         "hex": "#881c40",
         "rgb": [136, 28, 64],
         "hsl": [340, 0.66, 0.32, 1]
       },
       {
-        "label": "Harbor - 9900 329",
+        "label": "Harbor - 9900-329",
         "hex": "#0a486f",
         "rgb": [10, 72, 111],
         "hsl": [203.17, 0.83, 0.24, 1]
       },
       {
-        "label": "Basil - 9900 330",
+        "label": "Basil - 9900-330",
         "hex": "#214a22",
         "rgb": [33, 74, 34],
         "hsl": [121.46, 0.38, 0.21, 1]
       },
       {
-        "label": "Princess - 9900 335",
+        "label": "Princess - 9900-335",
         "hex": "#eea8a8",
         "rgb": [238, 168, 168],
         "hsl": [0, 0.67, 0.8, 1]
       },
       {
-        "label": "Lipstick - 9900 340",
+        "label": "Lipstick - 9900-340",
         "hex": "#ae113e",
         "rgb": [174, 17, 62],
         "hsl": [342.8, 0.82, 0.37, 1]
       },
       {
-        "label": "Fern - 9900 344",
+        "label": "Fern - 9900-344",
         "hex": "#778740",
         "rgb": [119, 135, 64],
         "hsl": [73.52, 0.36, 0.39, 1]
       },
       {
-        "label": "Shamrock - 9900 345",
+        "label": "Shamrock - 9900-345",
         "hex": "#347d23",
         "rgb": [52, 125, 35],
         "hsl": [108.67, 0.56, 0.31, 1]
       },
       {
-        "label": "Limeade - 9900 369",
+        "label": "Limeade - 9900-369",
         "hex": "#899f18",
         "rgb": [137, 159, 24],
         "hsl": [69.78, 0.74, 0.36, 1]
       },
       {
-        "label": "Leprechaun - 9900 371",
+        "label": "Leprechaun - 9900-371",
         "hex": "#005e2f",
         "rgb": [0, 94, 47],
         "hsl": [150, 1, 0.18, 1]
       },
       {
-        "label": "Raffia - 9900 372",
+        "label": "Raffia - 9900-372",
         "hex": "#83734f",
         "rgb": [131, 115, 79],
         "hsl": [41.54, 0.25, 0.41, 1]
       },
       {
-        "label": "Lake - 9900 377",
+        "label": "Lake - 9900-377",
         "hex": "#396580",
         "rgb": [57, 101, 128],
         "hsl": [202.82, 0.38, 0.36, 1]
       },
       {
-        "label": "Seaglass - 9900 378",
+        "label": "Seaglass - 9900-378",
         "hex": "#61cabb",
         "rgb": [97, 202, 187],
         "hsl": [171.43, 0.5, 0.59, 1]
       },
       {
-        "label": "Concord - 9900 381",
+        "label": "Concord - 9900-381",
         "hex": "#58416d",
         "rgb": [88, 65, 109],
         "hsl": [271.36, 0.25, 0.34, 1]
       },
       {
-        "label": "Ruby - 9900 382",
+        "label": "Ruby - 9900-382",
         "hex": "#c8012c",
         "rgb": [200, 1, 44],
         "hsl": [347.04, 0.99, 0.39, 1]
       },
       {
-        "label": "Mandarin - 9900 383",
+        "label": "Mandarin - 9900-383",
         "hex": "#e42a2d",
         "rgb": [228, 42, 45],
         "hsl": [359.03, 0.78, 0.53, 1]
       },
       {
-        "label": "Carnation - 9900 384",
+        "label": "Carnation - 9900-384",
         "hex": "#f48b85",
         "rgb": [244, 139, 133],
         "hsl": [3.24, 0.83, 0.74, 1]
       },
       {
-        "label": "Honeysuckle - 9900 385",
+        "label": "Honeysuckle - 9900-385",
         "hex": "#e6525e",
         "rgb": [230, 82, 94],
         "hsl": [355.14, 0.75, 0.61, 1]
       },
       {
-        "label": "Pomegranate - 9900 386",
+        "label": "Pomegranate - 9900-386",
         "hex": "#980e42",
         "rgb": [152, 14, 66],
         "hsl": [337.39, 0.83, 0.33, 1]
       },
       {
-        "label": "Sweet Pea - 9900 387",
+        "label": "Sweet Pea - 9900-387",
         "hex": "#c76e9e",
         "rgb": [199, 110, 158],
         "hsl": [327.64, 0.44, 0.61, 1]
       },
       {
-        "label": "Lotus - 9900 388",
+        "label": "Lotus - 9900-388",
         "hex": "#c45ca7",
         "rgb": [196, 92, 167],
         "hsl": [316.73, 0.47, 0.56, 1]
       },
       {
-        "label": "Dahlia - 9900 389",
+        "label": "Dahlia - 9900-389",
         "hex": "#6b3066",
         "rgb": [107, 48, 102],
         "hsl": [305.08, 0.38, 0.3, 1]
       },
       {
-        "label": "Amethyst - 9900 390",
+        "label": "Amethyst - 9900-390",
         "hex": "#4a2e54",
         "rgb": [74, 46, 84],
         "hsl": [284.21, 0.29, 0.25, 1]
       },
       {
-        "label": "Pansy - 9900 391",
+        "label": "Pansy - 9900-391",
         "hex": "#302649",
         "rgb": [48, 38, 73],
         "hsl": [257.14, 0.32, 0.22, 1]
       },
       {
-        "label": "Wasabi - 9900 392",
+        "label": "Wasabi - 9900-392",
         "hex": "#90c245",
         "rgb": [144, 194, 69],
         "hsl": [84, 0.51, 0.52, 1]
       },
       {
-        "label": "Bayside - 9900 393",
+        "label": "Bayside - 9900-393",
         "hex": "#0ca48f",
         "rgb": [12, 164, 143],
         "hsl": [171.71, 0.86, 0.35, 1]
       },
       {
-        "label": "Pool - 9900 394",
+        "label": "Pool - 9900-394",
         "hex": "#58cdde",
         "rgb": [88, 205, 222],
         "hsl": [187.61, 0.67, 0.61, 1]
       },
       {
-        "label": "Azure - 9900 395",
+        "label": "Azure - 9900-395",
         "hex": "#003e96",
         "rgb": [0, 62, 150],
         "hsl": [215.2, 1, 0.29, 1]
       },
       {
-        "label": "Lapis - 9900 396",
+        "label": "Lapis - 9900-396",
         "hex": "#193284",
         "rgb": [25, 50, 132],
         "hsl": [225.98, 0.68, 0.31, 1]
       },
       {
-        "label": "Waterfall - 9900 397",
+        "label": "Waterfall - 9900-397",
         "hex": "#7fabdc",
         "rgb": [127, 171, 220],
         "hsl": [211.61, 0.57, 0.68, 1]
       },
       {
-        "label": "Cucumber - 9900 398",
+        "label": "Cucumber - 9900-398",
         "hex": "#89a575",
         "rgb": [137, 165, 117],
         "hsl": [95, 0.21, 0.55, 1]
       },
       {
-        "label": "Juniper - 9900 399",
+        "label": "Juniper - 9900-399",
         "hex": "#17372a",
         "rgb": [23, 55, 42],
         "hsl": [155.63, 0.41, 0.15, 1]
       },
       {
-        "label": "Galactic - 9900 400",
+        "label": "Galactic - 9900-400",
         "hex": "#2e4452",
         "rgb": [46, 68, 82],
         "hsl": [203.33, 0.28, 0.25, 1]
       },
       {
-        "label": "Metal - 9900 401",
+        "label": "Metal - 9900-401",
         "hex": "#4c626f",
         "rgb": [76, 98, 111],
         "hsl": [202.29, 0.19, 0.37, 1]
       },
       {
-        "label": "Storm - 9900 402",
+        "label": "Storm - 9900-402",
         "hex": "#7d969d",
         "rgb": [125, 150, 157],
         "hsl": [193.13, 0.14, 0.55, 1]
       },
       {
-        "label": "Straw - 9900 404",
+        "label": "Straw - 9900-404",
         "hex": "#a88a41",
         "rgb": [168, 138, 65],
         "hsl": [42.52, 0.44, 0.46, 1]
       },
       {
-        "label": "Toffee - 9900 405",
+        "label": "Toffee - 9900-405",
         "hex": "#946e2d",
         "rgb": [148, 110, 45],
         "hsl": [37.86, 0.53, 0.38, 1]
       },
       {
-        "label": "Caramel - 9900 406",
+        "label": "Caramel - 9900-406",
         "hex": "#9a641a",
         "rgb": [154, 100, 26],
         "hsl": [34.69, 0.71, 0.35, 1]
       },
       {
-        "label": "Coffee - 9900 407",
+        "label": "Coffee - 9900-407",
         "hex": "#43362e",
         "rgb": [67, 54, 46],
         "hsl": [22.86, 0.19, 0.22, 1]
       },
       {
-        "label": "Sangria - 9900 410",
+        "label": "Sangria - 9900-410",
         "hex": "#a4024d",
         "rgb": [164, 2, 77],
         "hsl": [332.22, 0.98, 0.33, 1]
       },
       {
-        "label": "Chrysanthemum - 9900 411",
+        "label": "Chrysanthemum - 9900-411",
         "hex": "#cb3e60",
         "rgb": [203, 62, 96],
         "hsl": [345.53, 0.58, 0.52, 1]
       },
       {
-        "label": "Cyclamen - 9900 412",
+        "label": "Cyclamen - 9900-412",
         "hex": "#913f7d",
         "rgb": [145, 63, 125],
         "hsl": [314.63, 0.39, 0.41, 1]
       },
       {
-        "label": "Vivid Violet - 9900 413",
+        "label": "Vivid Violet - 9900-413",
         "hex": "#5d3981",
         "rgb": [93, 57, 129],
         "hsl": [270, 0.39, 0.36, 1]
       },
       {
-        "label": "Electric Lemo - 9900 414",
+        "label": "Electric Lemo - 9900-414",
         "hex": "#edda28",
         "rgb": [237, 218, 40],
         "hsl": [54.21, 0.85, 0.54, 1]
       },
       {
-        "label": "Parakeet - 9900 415",
+        "label": "Parakeet - 9900-415",
         "hex": "#11984b",
         "rgb": [17, 152, 75],
         "hsl": [145.78, 0.8, 0.33, 1]
       },
       {
-        "label": "Jungle - 9900 416",
+        "label": "Jungle - 9900-416",
         "hex": "#006c59",
         "rgb": [0, 108, 89],
         "hsl": [169.44, 1, 0.21, 1]
       },
       {
-        "label": "Skylight - 9900 417",
+        "label": "Skylight - 9900-417",
         "hex": "#5ba0db",
         "rgb": [91, 160, 219],
         "hsl": [207.66, 0.64, 0.61, 1]
       },
       {
-        "label": "Mediterranean - 9900 418",
+        "label": "Mediterranean - 9900-418",
         "hex": "#006393",
         "rgb": [0, 99, 147],
         "hsl": [199.59, 1, 0.29, 1]
       },
       {
-        "label": "Midnight - 9900 419",
+        "label": "Midnight - 9900-419",
         "hex": "#1b2338",
         "rgb": [27, 35, 56],
         "hsl": [223.45, 0.35, 0.16, 1]
       },
       {
-        "label": "Bronze - 9900 420",
+        "label": "Bronze - 9900-420",
         "hex": "#957814",
         "rgb": [149, 120, 20],
         "hsl": [46.51, 0.76, 0.33, 1]
       },
       {
-        "label": "Honey - 9900 421",
+        "label": "Honey - 9900-421",
         "hex": "#d38a21",
         "rgb": [211, 138, 33],
         "hsl": [35.39, 0.73, 0.48, 1]
       },
       {
-        "label": "Nectar - 9900 422",
+        "label": "Nectar - 9900-422",
         "hex": "#d64b4e",
         "rgb": [214, 75, 78],
         "hsl": [358.71, 0.63, 0.57, 1]
       },
       {
-        "label": "Sumac - 9900 423",
+        "label": "Sumac - 9900-423",
         "hex": "#a11d28",
         "rgb": [161, 29, 40],
         "hsl": [355, 0.69, 0.37, 1]
       },
       {
-        "label": "Cinnamon - 9900 424",
+        "label": "Cinnamon - 9900-424",
         "hex": "#7f2620",
         "rgb": [127, 38, 32],
         "hsl": [3.79, 0.6, 0.31, 1]
       },
       {
-        "label": "Rose Water - 9900 425",
+        "label": "Rose Water - 9900-425",
         "hex": "#cc6d73",
         "rgb": [204, 109, 115],
         "hsl": [356.21, 0.48, 0.61, 1]
       },
       {
-        "label": "Rhubarb - 9900 426",
+        "label": "Rhubarb - 9900-426",
         "hex": "#802a37",
         "rgb": [128, 42, 55],
         "hsl": [350.93, 0.51, 0.33, 1]
       },
       {
-        "label": "Soil - 9900 427",
+        "label": "Soil - 9900-427",
         "hex": "#3c2821",
         "rgb": [60, 40, 33],
         "hsl": [15.56, 0.29, 0.18, 1]
       },
       {
-        "label": "Pearl - 9900 428",
+        "label": "Pearl - 9900-428",
         "hex": "#d9d5c9",
         "rgb": [217, 213, 201],
         "hsl": [45, 0.17, 0.82, 1]
       },
       {
-        "label": "Driftwood - 9900 429",
+        "label": "Driftwood - 9900-429",
         "hex": "#bab2a5",
         "rgb": [186, 178, 165],
         "hsl": [37.14, 0.13, 0.69, 1]
       },
       {
-        "label": "Mink - 9900 430",
+        "label": "Mink - 9900-430",
         "hex": "#a2907c",
         "rgb": [162, 144, 124],
         "hsl": [31.58, 0.17, 0.56, 1]
       },
       {
-        "label": "Moonbeam - 9900 431",
+        "label": "Moonbeam - 9900-431",
         "hex": "#bcb8b5",
         "rgb": [188, 184, 181],
         "hsl": [25.71, 0.05, 0.72, 1]
       },
       {
-        "label": "Nickel - 9900 432",
+        "label": "Nickel - 9900-432",
         "hex": "#6a6d72",
         "rgb": [106, 109, 114],
         "hsl": [217.5, 0.04, 0.43, 1]
       },
       {
-        "label": "Flint - 9900 433",
+        "label": "Flint - 9900-433",
         "hex": "#40444d",
         "rgb": [64, 68, 77],
         "hsl": [221.54, 0.09, 0.28, 1]
       },
       {
-        "label": "Super White - 9900 436",
+        "label": "Super White - 9900-436",
         "hex": "#dee1e6",
         "rgb": [222, 225, 230],
         "hsl": [217.5, 0.14, 0.89, 1]
