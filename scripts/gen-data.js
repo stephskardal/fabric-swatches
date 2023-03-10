@@ -21,10 +21,12 @@ const filters = (key, label) => {
     updatedLabel = label.replace(/ [0-9]/, ` - ${1}`);
   } else if(["americanMade", "paintBrushStudio", "tilda", "artGallery"].includes(key)) {
     let z = label.split(" ");
-    let color = z.shift();
-    updatedLabel = `${capitalize(z.join(' '))} - ${color}`;
-  } else if(key == "modaBella") {
-    updatedLabel = label.replace(/ 99/, ' - 99')
+    if(z.length == 1) {
+      updatedLabel = label;
+    } else {
+      let color = z.shift();
+      updatedLabel = `${capitalize(z.join(' '))} - ${color}`;
+    }
   } else if(key == "pantone") {
     if(label.match(/^[0-9][0-9]-/)) {
       let z = label.split(" ");
