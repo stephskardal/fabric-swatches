@@ -8596,6 +8596,12 @@
     "swatchLabel": "Kona Cotton",
     "swatches": [
       {
+        "label": "Cosmos",
+        "hex": "#a938ab",
+        "rgb": [169, 56, 171],
+        "hsl": [298.96, 0.51, 0.45, 1]
+      },
+      {
         "label": "Crush",
         "hex": "#e7334c",
         "rgb": [231, 51, 76],

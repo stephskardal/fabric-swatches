@@ -1485,6 +1485,7 @@ export const fabricSwatches = {
     label: 'Robert Kaufman',
     swatchLabel: 'Kona Cotton',
     swatches: {
+      cosmos: '#a938ab',
       crush: '#e7334c',
       'baby pink': '#fdc3cf',
       peony: '#fec2c7',
