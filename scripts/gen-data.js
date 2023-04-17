@@ -18,7 +18,9 @@ const filters = (key, label) => {
     let a = label.split('9000');
     updatedLabel = `${capitalize(a[0])}- 9000${a[1]}`;
   } else if(key == "aurifilThread") {
-    updatedLabel = label.replace(/ [0-9]/, ` - ${1}`);
+    let z = label.split(" ");
+    let colorId = z.pop();
+    updatedLabel = `${capitalize(z.join(' '))} - ${colorId}`;
   } else if(["americanMade", "paintBrushStudio", "tilda", "artGallery"].includes(key)) {
     let z = label.split(" ");
     if(z.length == 1) {
