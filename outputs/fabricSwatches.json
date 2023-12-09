@@ -10726,6 +10726,12 @@
     "swatchLabel": "Kona Cotton",
     "swatches": [
       {
+        "label": "Julep",
+        "hex": "#b7f0d7",
+        "rgb": [183, 240, 215],
+        "hsl": [153.68, 0.66, 0.83, 1]
+      },
+      {
         "label": "Cosmos",
         "hex": "#a938ab",
         "rgb": [169, 56, 171],
@@ -18387,6 +18393,12 @@
     "label": "Pantone",
     "swatchLabel": "",
     "swatches": [
+      {
+        "label": "Peach Fuzz - 13 - 1023",
+        "hex": "#febd98",
+        "rgb": [254, 189, 152],
+        "hsl": [21.76, 0.98, 0.8, 1]
+      },
       {
         "label": "Viva Magenta - 18-1750",
         "hex": "#BB2649",
