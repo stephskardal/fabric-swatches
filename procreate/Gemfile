@@ -1,2 +1,5 @@
 # gem 'procreate-swatches'
 gem 'activesupport'
+gem 'chroma'
+gem 'rubyzip'
+gem 'callable_class'

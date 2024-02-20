@@ -3,8 +3,8 @@
 gem 'activesupport'
 require './mod_procreate/swatches'
 
-f = open('../fabricSwatches.js', 'r')
-swatch_data = eval(f.read.gsub(/\n/, '').gsub(/var /, ''))
+f = open('../outputs/fabricSwatches.js', 'r')
+swatch_data = eval(f.read.gsub(/\n/, '').gsub(/export const fabricSwatches = /, ''))
 
 swatch_data.each do |key, fabric_line|
   swatches_filenames = fabric_line[:swatches].each_slice(30).map.with_index do |set, index|
