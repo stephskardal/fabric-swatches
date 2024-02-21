@@ -43,7 +43,7 @@ module Procreate
           brightness: brightness,
           alpha: SWATCHES_ALPHA,
           colorSpace: SWATCHES_COLOR_SPACE,
-          name: name
+          name: name.to_s
         }
       end
 
