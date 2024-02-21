@@ -9,13 +9,22 @@ ruby generate_procreate_swatches.rb
 cd ../
 yarn run illustrator_convert
 
-['americanMade', 'andoverSolids', 'artGallery', 'aurifilThread',
-'devonstone', 'freeSpirit', 'glide', 'kona', 'michaelMiler', 'modaBella', 'northcott', 'paintBrushStudio',
-'rileyBlake', 'rjrCottonSupreme', 'spoonflower', 'tilda', 'wonderful'].each do |line|
-   zip -er #{line}.zip procreate/#{line}/*.swatches  
-   mkdir tmp/
-   cp illustrator/palette-out/#{line}-*.ase tmp/
-   zip -er #{line}-ase.zip tmp/*
-   mv #{line}*.zip outputs/
-   rm tmp/*
-end
+mkdir tmp/
+
+declare -a arr=("americanMade" "andoverCenturySolids" "artGallery" "aurifilThread"
+"devonstone" "freeSpirit" "glide" "kona" "michaelMiller" "modaBella"
+"northcott" "paintBrushStudio" "rileyBlake" "rjrCottonSupreme"
+"spoonflower" "tilda" "wonderfil")
+for line in "${arr[@]}"
+do
+   mkdir tmp/${line}_procreate/
+   cp procreate/${line}/*.swatches tmp/${line}_procreate/
+   zip -j ${line}-swatches.zip tmp/${line}_procreate/*
+
+   mkdir tmp/${line}_illustrator/
+   cp illustrator/palette-out/${line}* tmp/${line}_illustrator/
+   zip -j ${line}-ase.zip tmp/${line}_illustrator/*
+done
+
+mv *.zip outputs
+rm -rf tmp/
