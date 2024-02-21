@@ -18,10 +18,10 @@ swatch_data.each do |key, fabric_line|
     Procreate::Swatches.export(name, set, { export_directory: key.to_s, file_name: "#{key}-#{index + 1}" })
   end
 
-  fabric_line[:swatches].each_slice(ILLUSTRATOR_SWATCH_SIZE).map.with_index do |set, index|
-    name = "#{key.capitalize} Set ##{index + 1}"
-   Procreate::Swatches.export(name, set, { export_directory: "../illustrator/palette-in/", file_name: "#{key}-#{index + 1}" })
-  end
+  # fabric_line[:swatches].each_slice(ILLUSTRATOR_SWATCH_SIZE).map.with_index do |set, index|
+  #   name = "#{key.capitalize} Set ##{index + 1}"
+  # Procreate::Swatches.export(name, set, { export_directory: "../illustrator/palette-in/", file_name: "#{key}-#{index + 1}" })
+  #end
 end
   
 p "Did the thing."
