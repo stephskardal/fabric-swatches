@@ -2,7 +2,9 @@
   "private": true,
   "license": "MIT",
   "scripts": {
-    "generate": "node scripts/gen-data.js; yarn run prettier -w outputs"
+    "generate": "node scripts/gen-data.js; yarn run prettier -w outputs",
+    "illustrator_convert": "npx tsx ./illustrator/src/index.ts",
+    "procreate_convert": "echo 'TODO'"
   },
   "type": "module",
   "dependencies": {

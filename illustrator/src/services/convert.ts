@@ -11,10 +11,9 @@ export class ColorConverter {
   colorNameFormat: string;
 
   constructor() {
-    const config = JSON.parse(fs.readFileSync("./config.json").toString());
-    this.inFolderPath = config.inFolder;
-    this.outFolderPath = config.outFolder;
-    this.colorNameFormat = config.colorNameFormat;
+    this.inFolderPath = "./illustrator/palette-in/";
+    this.outFolderPath = "./illustrator/palette-out/";
+    this.colorNameFormat = "pantone";
   }
 
   start() {
