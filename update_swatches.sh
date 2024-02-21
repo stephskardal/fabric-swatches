@@ -5,3 +5,6 @@ rm -rf procreate/*/*.swatches
 
 cd procreate/
 ruby generate_procreate_swatches.rb
+
+cd ../
+yarn run illustrator_convert
