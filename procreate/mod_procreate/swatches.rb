@@ -12,7 +12,6 @@ require './mod_procreate/swatches/errors/invalid_path'
 
 require './mod_procreate/swatches/colors_helper'
 require './mod_procreate/swatches/wrapper'
-require './mod_procreate/swatches/parser'
 require './mod_procreate/swatches/exporter'
 
 # All things {https://procreate.art Procreate} tools.
@@ -33,7 +32,7 @@ module Procreate
       # @return [Procreate::Swatches::Wrapper] wrapper A wrapper instance to be further manipulated
       #
       def parse(file_path)
-        Parser.call(file_path)
+        p "Does not get called"
       end
 
       #
