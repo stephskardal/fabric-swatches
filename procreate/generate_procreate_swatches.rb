@@ -8,8 +8,6 @@ swatch_data = eval(f.read.gsub(/\n/, '').gsub(/export const fabricSwatches = /, 
 
 swatch_data.each do |key, fabric_line|
   next if key == :pantone
-  # name = "#{key.capitalize} Full Set"
-  # Procreate::Swatches.export(name, fabric_line[:swatches], { export_directory: key.to_s, file_name: "#{key}-full" })
 
   fabric_line[:swatches].each_slice(30).map.with_index do |set, index|
     name = "#{key.capitalize} Set ##{index + 1}"
@@ -17,4 +15,4 @@ swatch_data.each do |key, fabric_line|
   end
 end
   
-p "Did the thing"
+p "Did the thing. To generate illustrator files, copy *.swatches to illustrator/palette-in/"
