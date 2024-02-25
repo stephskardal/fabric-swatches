@@ -8,7 +8,7 @@ f = open('../outputs/fabricSwatches.js', 'r')
 swatch_data = eval(f.read.gsub(/\n/, '').gsub(/export const fabricSwatches = /, ''))
 
 PROCREATE_SWATCH_SIZE = 30.freeze
-ILLUSTRATOR_SWATCH_SIZE = 32.freeze
+ILLUSTRATOR_SWATCH_SIZE = 5000.freeze
 
 swatch_data.each do |key, fabric_line|
   next if key == :pantone
