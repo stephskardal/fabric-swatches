@@ -9,6 +9,14 @@ const capitalize = (str) => {
     .join(' ');
 };
 
+export const colorColorSorting = {
+  sortColorsBy: function (colors, key) {
+    return colors.sort(function (a, b) {
+      return b[key] - a[key]
+    })
+  },
+}
+
 const filters = (key, label) => {
   let updatedLabel = label;
   if(key == "devonstone") {
@@ -48,7 +56,7 @@ const generate = async () => {
       (swatch) => {
         let hex = fabricSwatches[key].swatches[swatch]
         let color = chroma(hex)
-        let hsv = color.hsl().map((z) => parseFloat(z.toFixed(2)))
+        let hsv = color.hsl().map((z) => parseFloat(z.toFixed(2)) || 0)
         return {
           label: filters(key, swatch),
           hex: hex,
@@ -56,7 +64,9 @@ const generate = async () => {
           hsl: hsv // tricky
         }
       }
-    )
+    ).sort(function(a, b) {
+      return a.hsl[0] - b.hsl[0];
+    })
     newSwatches[key] = {
       label: fabricSwatches[key].label,
       swatchLabel: fabricSwatches[key].swatchLabel,
