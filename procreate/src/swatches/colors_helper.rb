@@ -4,8 +4,6 @@ module Procreate
   module Swatches
     # Helper module to interact with colors
     module ColorsHelper
-      # +.swatches+ files can hold a maximum of 30 colors.
-      SWATCHES_MAX_SIZE = 30
       # Procreate +.swatches+ don't consider the opacity, therefore a default value of 1 is used.
       SWATCHES_ALPHA = 1
       SWATCHES_COLOR_SPACE = 0

@@ -46,10 +46,10 @@ module Procreate
       #
       # @return [String] swatches_path Path of the exported +.swatches+ file
       #
-      def export(name, colors, options = {})
-        wrapper = Wrapper.new(name, colors)
+      def export(name, colors, max_count, options = {})
+        wrapper = Wrapper.new(name, colors, max_count)
 
-        p "Creating for: #{options}"
+        p "Creating #{name} with max count #{max_count}"
         Exporter.call(wrapper, options)
       end
 

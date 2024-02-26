@@ -1,5 +1,7 @@
 /node_modules
 
+outputs/*.zip
+
 # misc
 .DS_Store
 .env.local

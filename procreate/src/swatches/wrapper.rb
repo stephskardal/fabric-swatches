@@ -24,8 +24,9 @@ module Procreate
       # @param [String] name Name of the swatches palette
       # @param [Array<Chroma::Color, String>] colors Colors array. Each color will be converted to a {https://github.com/jfairbank/chroma Chroma::Color} instance.
       #
-      def initialize(name, colors)
+      def initialize(name, colors, max_count)
         @name = name.present? ? name : DEFAULT_SWATCHES_NAME
+        @max_count = max_count
 
         @colors ||= []
         Array(colors).each { |color| add_color(color) }
@@ -92,7 +93,7 @@ module Procreate
       #
       # Convert the wrapper to the JSON format needed to create a
       # +.swatches+ file.
-      # A maximum of 30 ({Procreate::Swatches::ColorsHelper::SWATCHES_MAX_SIZE}) colors is returned.
+      # For procreate, a max of 30 can be created, but for illustrator, it can be more.
       # This is a limitation of Procreate.
       #
       # @return [String] Wrapper content, in JSON format.
@@ -146,7 +147,7 @@ module Procreate
       end
 
       def colors_to_json
-        @colors.first(SWATCHES_MAX_SIZE).map do |color|
+        @colors.first(@max_count).map do |color|
           to_swatches_json(color)
         end
       end
