@@ -1,4 +1,2734 @@
 {
+  "dmc": {
+    "label": "DMC Floss",
+    "swatchLabel": "",
+    "swatches": [
+      {
+        "label": "Salmon Very Light - 3713",
+        "hex": "#ffe2e2",
+        "rgb": [255, 226, 226],
+        "hsl": [0, 1, 0.94, 1]
+      },
+      {
+        "label": "Salmon Light - 761",
+        "hex": "#ffc9c9",
+        "rgb": [255, 201, 201],
+        "hsl": [0, 1, 0.89, 1]
+      },
+      {
+        "label": "Salmon - 760",
+        "hex": "#f5adad",
+        "rgb": [245, 173, 173],
+        "hsl": [0, 0.78, 0.82, 1]
+      },
+      {
+        "label": "Salmon Medium - 3712",
+        "hex": "#f18787",
+        "rgb": [241, 135, 135],
+        "hsl": [0, 0.79, 0.74, 1]
+      },
+      {
+        "label": "Salmon Dark - 3328",
+        "hex": "#e36d6d",
+        "rgb": [227, 109, 109],
+        "hsl": [0, 0.68, 0.66, 1]
+      },
+      {
+        "label": "Salmon Very Dark - 347",
+        "hex": "#bf2d2d",
+        "rgb": [191, 45, 45],
+        "hsl": [0, 0.62, 0.46, 1]
+      },
+      {
+        "label": "Coral Medium - 350",
+        "hex": "#e04848",
+        "rgb": [224, 72, 72],
+        "hsl": [0, 0.71, 0.58, 1]
+      },
+      {
+        "label": "Geranium Pale - 957",
+        "hex": "#fdb5b5",
+        "rgb": [253, 181, 181],
+        "hsl": [0, 0.95, 0.85, 1]
+      },
+      {
+        "label": "Geranium - 956",
+        "hex": "#ff9191",
+        "rgb": [255, 145, 145],
+        "hsl": [0, 1, 0.78, 1]
+      },
+      {
+        "label": "Dusty Rose Ult Vy Lt - 963",
+        "hex": "#ffd7d7",
+        "rgb": [255, 215, 215],
+        "hsl": [0, 1, 0.92, 1]
+      },
+      {
+        "label": "Dusty Rose Med Vy Lt - 3716",
+        "hex": "#ffbdbd",
+        "rgb": [255, 189, 189],
+        "hsl": [0, 1, 0.87, 1]
+      },
+      {
+        "label": "Dusty Rose Medium - 962",
+        "hex": "#e68a8a",
+        "rgb": [230, 138, 138],
+        "hsl": [0, 0.65, 0.72, 1]
+      },
+      {
+        "label": "Dusty Rose Dark - 961",
+        "hex": "#cf7373",
+        "rgb": [207, 115, 115],
+        "hsl": [0, 0.49, 0.63, 1]
+      },
+      {
+        "label": "Snow White - B5200",
+        "hex": "#ffffff",
+        "rgb": [255, 255, 255],
+        "hsl": [0, 0, 1, 1]
+      },
+      {
+        "label": "Beaver Gray Ult Dk - 844",
+        "hex": "#484848",
+        "rgb": [72, 72, 72],
+        "hsl": [0, 0, 0.28, 1]
+      },
+      {
+        "label": "Pearl Gray Vy Lt - 762",
+        "hex": "#ececec",
+        "rgb": [236, 236, 236],
+        "hsl": [0, 0, 0.93, 1]
+      },
+      {
+        "label": "Steel Gray Lt - 318",
+        "hex": "#ababab",
+        "rgb": [171, 171, 171],
+        "hsl": [0, 0, 0.67, 1]
+      },
+      {
+        "label": "Steel Gray Dk - 414",
+        "hex": "#8c8c8c",
+        "rgb": [140, 140, 140],
+        "hsl": [0, 0, 0.55, 1]
+      },
+      {
+        "label": "Pewter Very Light - 168",
+        "hex": "#d1d1d1",
+        "rgb": [209, 209, 209],
+        "hsl": [0, 0, 0.82, 1]
+      },
+      {
+        "label": "Pewter Light - 169",
+        "hex": "#848484",
+        "rgb": [132, 132, 132],
+        "hsl": [0, 0, 0.52, 1]
+      },
+      {
+        "label": "Pewter Gray - 317",
+        "hex": "#6c6c6c",
+        "rgb": [108, 108, 108],
+        "hsl": [0, 0, 0.42, 1]
+      },
+      {
+        "label": "Pewter Gray Dark - 413",
+        "hex": "#565656",
+        "rgb": [86, 86, 86],
+        "hsl": [0, 0, 0.34, 1]
+      },
+      {
+        "label": "Pewter Gray Vy Dk - 3799",
+        "hex": "#424242",
+        "rgb": [66, 66, 66],
+        "hsl": [0, 0, 0.26, 1]
+      },
+      {
+        "label": "Black - 310",
+        "hex": "#000000",
+        "rgb": [0, 0, 0],
+        "hsl": [0, 0, 0, 1]
+      },
+      {
+        "label": "Coral - 351",
+        "hex": "#e96a67",
+        "rgb": [233, 106, 103],
+        "hsl": [1.38, 0.75, 0.66, 1]
+      },
+      {
+        "label": "Rosewood Ult Vy Lt - 3779",
+        "hex": "#f8cac8",
+        "rgb": [248, 202, 200],
+        "hsl": [2.5, 0.77, 0.88, 1]
+      },
+      {
+        "label": "Coral Light - 352",
+        "hex": "#fd9c97",
+        "rgb": [253, 156, 151],
+        "hsl": [2.94, 0.96, 0.79, 1]
+      },
+      {
+        "label": "Shell Pink Med - 3722",
+        "hex": "#bc6c64",
+        "rgb": [188, 108, 100],
+        "hsl": [5.45, 0.4, 0.56, 1]
+      },
+      {
+        "label": "Shell Pink Med Light - 152",
+        "hex": "#e2a099",
+        "rgb": [226, 160, 153],
+        "hsl": [5.75, 0.56, 0.74, 1]
+      },
+      {
+        "label": "Shell Pink Light - 223",
+        "hex": "#cc847c",
+        "rgb": [204, 132, 124],
+        "hsl": [6, 0.44, 0.64, 1]
+      },
+      {
+        "label": "Rosewood Med - 3858",
+        "hex": "#964a3f",
+        "rgb": [150, 74, 63],
+        "hsl": [7.59, 0.41, 0.42, 1]
+      },
+      {
+        "label": "Shell Pink Very Light - 224",
+        "hex": "#ebb7af",
+        "rgb": [235, 183, 175],
+        "hsl": [8, 0.6, 0.8, 1]
+      },
+      {
+        "label": "Apricot Med - 3340",
+        "hex": "#ff836f",
+        "rgb": [255, 131, 111],
+        "hsl": [8.33, 1, 0.72, 1]
+      },
+      {
+        "label": "Terra Cotta Vy Dk - 3777",
+        "hex": "#863022",
+        "rgb": [134, 48, 34],
+        "hsl": [8.4, 0.6, 0.33, 1]
+      },
+      {
+        "label": "Rosewood Dark - 3857",
+        "hex": "#68251a",
+        "rgb": [104, 37, 26],
+        "hsl": [8.46, 0.6, 0.25, 1]
+      },
+      {
+        "label": "Terra Cotta Med - 356",
+        "hex": "#c56a5b",
+        "rgb": [197, 106, 91],
+        "hsl": [8.49, 0.48, 0.56, 1]
+      },
+      {
+        "label": "Terra Cotta Dark - 355",
+        "hex": "#984436",
+        "rgb": [152, 68, 54],
+        "hsl": [8.57, 0.48, 0.4, 1]
+      },
+      {
+        "label": "Terra Cotta - 3830",
+        "hex": "#b95544",
+        "rgb": [185, 85, 68],
+        "hsl": [8.72, 0.46, 0.5, 1]
+      },
+      {
+        "label": "Baby Pink Light - 819",
+        "hex": "#ffeeeb",
+        "rgb": [255, 238, 235],
+        "hsl": [9, 1, 0.96, 1]
+      },
+      {
+        "label": "Baby Pink - 818",
+        "hex": "#ffdfd9",
+        "rgb": [255, 223, 217],
+        "hsl": [9.47, 1, 0.93, 1]
+      },
+      {
+        "label": "Cocoa - 3860",
+        "hex": "#7d5d57",
+        "rgb": [125, 93, 87],
+        "hsl": [9.47, 0.18, 0.42, 1]
+      },
+      {
+        "label": "Terra Cotta Light - 3778",
+        "hex": "#d98978",
+        "rgb": [217, 137, 120],
+        "hsl": [10.52, 0.56, 0.66, 1]
+      },
+      {
+        "label": "Terra Cotta Vy Lt - 758",
+        "hex": "#eeaa9b",
+        "rgb": [238, 170, 155],
+        "hsl": [10.84, 0.71, 0.77, 1]
+      },
+      {
+        "label": "Apricot Light - 3824",
+        "hex": "#fecdc2",
+        "rgb": [254, 205, 194],
+        "hsl": [11, 0.97, 0.88, 1]
+      },
+      {
+        "label": "Cocoa Light - 3861",
+        "hex": "#a68881",
+        "rgb": [166, 136, 129],
+        "hsl": [11.35, 0.17, 0.58, 1]
+      },
+      {
+        "label": "Apricot - 3341",
+        "hex": "#fcab98",
+        "rgb": [252, 171, 152],
+        "hsl": [11.4, 0.94, 0.79, 1]
+      },
+      {
+        "label": "Orange?Red Bright - 606",
+        "hex": "#fa3203",
+        "rgb": [250, 50, 3],
+        "hsl": [11.42, 0.98, 0.5, 1]
+      },
+      {
+        "label": "Burnt Orange Bright - 608",
+        "hex": "#fd5d35",
+        "rgb": [253, 93, 53],
+        "hsl": [12, 0.98, 0.6, 1]
+      },
+      {
+        "label": "Cocoa Dark - 779",
+        "hex": "#624b45",
+        "rgb": [98, 75, 69],
+        "hsl": [12.41, 0.17, 0.33, 1]
+      },
+      {
+        "label": "Apricot Very Light - 967",
+        "hex": "#ffded5",
+        "rgb": [255, 222, 213],
+        "hsl": [12.86, 1, 0.92, 1]
+      },
+      {
+        "label": "Peach Light - 754",
+        "hex": "#f7cbbf",
+        "rgb": [247, 203, 191],
+        "hsl": [12.86, 0.78, 0.86, 1]
+      },
+      {
+        "label": "Peach - 353",
+        "hex": "#fed7cc",
+        "rgb": [254, 215, 204],
+        "hsl": [13.2, 0.96, 0.9, 1]
+      },
+      {
+        "label": "Shell Pink Ult Vy Lt - 225",
+        "hex": "#ffdfd5",
+        "rgb": [255, 223, 213],
+        "hsl": [14.29, 1, 0.92, 1]
+      },
+      {
+        "label": "Terra Cotta Ult Vy Lt - 3771",
+        "hex": "#f4bba9",
+        "rgb": [244, 187, 169],
+        "hsl": [14.4, 0.77, 0.81, 1]
+      },
+      {
+        "label": "Rosewood Light - 3859",
+        "hex": "#ba8b7c",
+        "rgb": [186, 139, 124],
+        "hsl": [14.52, 0.31, 0.61, 1]
+      },
+      {
+        "label": "Shell Gray Light - 453",
+        "hex": "#d7cecb",
+        "rgb": [215, 206, 203],
+        "hsl": [15, 0.13, 0.82, 1]
+      },
+      {
+        "label": "Burnt Orange - 947",
+        "hex": "#ff7b4d",
+        "rgb": [255, 123, 77],
+        "hsl": [15.51, 1, 0.65, 1]
+      },
+      {
+        "label": "Shell Gray Dark - 451",
+        "hex": "#917b73",
+        "rgb": [145, 123, 115],
+        "hsl": [16, 0.12, 0.51, 1]
+      },
+      {
+        "label": "Shell Gray Med - 452",
+        "hex": "#c0b3ae",
+        "rgb": [192, 179, 174],
+        "hsl": [16.67, 0.12, 0.72, 1]
+      },
+      {
+        "label": "Orange Spice Light - 722",
+        "hex": "#f7976f",
+        "rgb": [247, 151, 111],
+        "hsl": [17.65, 0.89, 0.7, 1]
+      },
+      {
+        "label": "Orange Spice Med - 721",
+        "hex": "#f27842",
+        "rgb": [242, 120, 66],
+        "hsl": [18.41, 0.87, 0.6, 1]
+      },
+      {
+        "label": "Orange Spice Dark - 720",
+        "hex": "#e55c1f",
+        "rgb": [229, 92, 31],
+        "hsl": [18.48, 0.79, 0.51, 1]
+      },
+      {
+        "label": "Red Copper Dark - 918",
+        "hex": "#82340a",
+        "rgb": [130, 52, 10],
+        "hsl": [21, 0.86, 0.27, 1]
+      },
+      {
+        "label": "Desert Sand Dark - 3773",
+        "hex": "#b67552",
+        "rgb": [182, 117, 82],
+        "hsl": [21, 0.41, 0.52, 1]
+      },
+      {
+        "label": "Desert Sand Vy Dk - 3772",
+        "hex": "#a06c50",
+        "rgb": [160, 108, 80],
+        "hsl": [21, 0.33, 0.47, 1]
+      },
+      {
+        "label": "Red Copper - 919",
+        "hex": "#a64510",
+        "rgb": [166, 69, 16],
+        "hsl": [21.2, 0.82, 0.36, 1]
+      },
+      {
+        "label": "Desert Sand Med - 407",
+        "hex": "#bb8161",
+        "rgb": [187, 129, 97],
+        "hsl": [21.33, 0.4, 0.56, 1]
+      },
+      {
+        "label": "Desert Sand Vy Lt - 3774",
+        "hex": "#f3e1d7",
+        "rgb": [243, 225, 215],
+        "hsl": [21.43, 0.54, 0.9, 1]
+      },
+      {
+        "label": "Desert Sand Light - 950",
+        "hex": "#eed3c4",
+        "rgb": [238, 211, 196],
+        "hsl": [21.43, 0.55, 0.85, 1]
+      },
+      {
+        "label": "Desert Sand - 3064",
+        "hex": "#c48e70",
+        "rgb": [196, 142, 112],
+        "hsl": [21.43, 0.42, 0.6, 1]
+      },
+      {
+        "label": "Desert Sand Ult Vy Dk - 632",
+        "hex": "#875539",
+        "rgb": [135, 85, 57],
+        "hsl": [21.54, 0.41, 0.38, 1]
+      },
+      {
+        "label": "Peach Very Light - 948",
+        "hex": "#fee7da",
+        "rgb": [254, 231, 218],
+        "hsl": [21.67, 0.95, 0.93, 1]
+      },
+      {
+        "label": "Mahogany Vy Lt - 402",
+        "hex": "#f7a777",
+        "rgb": [247, 167, 119],
+        "hsl": [22.5, 0.89, 0.72, 1]
+      },
+      {
+        "label": "Pumpkin Pale - 3825",
+        "hex": "#fdbd96",
+        "rgb": [253, 189, 150],
+        "hsl": [22.72, 0.96, 0.79, 1]
+      },
+      {
+        "label": "Mahogany Med - 301",
+        "hex": "#b35f2b",
+        "rgb": [179, 95, 43],
+        "hsl": [22.94, 0.61, 0.44, 1]
+      },
+      {
+        "label": "Tawny Vy Light - 3770",
+        "hex": "#ffeee3",
+        "rgb": [255, 238, 227],
+        "hsl": [23.57, 1, 0.95, 1]
+      },
+      {
+        "label": "Tawny Light - 951",
+        "hex": "#ffe2cf",
+        "rgb": [255, 226, 207],
+        "hsl": [23.75, 1, 0.91, 1]
+      },
+      {
+        "label": "Burnt Orange Dark - 900",
+        "hex": "#d15807",
+        "rgb": [209, 88, 7],
+        "hsl": [24.06, 0.94, 0.42, 1]
+      },
+      {
+        "label": "Burnt Orange Med - 946",
+        "hex": "#eb6307",
+        "rgb": [235, 99, 7],
+        "hsl": [24.21, 0.94, 0.47, 1]
+      },
+      {
+        "label": "Mahogany Ult Vy Lt - 3856",
+        "hex": "#ffd3b5",
+        "rgb": [255, 211, 181],
+        "hsl": [24.32, 1, 0.85, 1]
+      },
+      {
+        "label": "Tawny - 945",
+        "hex": "#fbd5bb",
+        "rgb": [251, 213, 187],
+        "hsl": [24.38, 0.89, 0.86, 1]
+      },
+      {
+        "label": "Mahogany Dark - 400",
+        "hex": "#8f430f",
+        "rgb": [143, 67, 15],
+        "hsl": [24.38, 0.81, 0.31, 1]
+      },
+      {
+        "label": "Black Brown - 3371",
+        "hex": "#1e1108",
+        "rgb": [30, 17, 8],
+        "hsl": [24.55, 0.58, 0.07, 1]
+      },
+      {
+        "label": "Brown Light - 434",
+        "hex": "#985e35",
+        "rgb": [152, 94, 53],
+        "hsl": [24.85, 0.48, 0.4, 1]
+      },
+      {
+        "label": "Brown Med - 433",
+        "hex": "#7a451f",
+        "rgb": [122, 69, 31],
+        "hsl": [25.05, 0.59, 0.3, 1]
+      },
+      {
+        "label": "Copper Light - 922",
+        "hex": "#e27323",
+        "rgb": [226, 115, 35],
+        "hsl": [25.13, 0.77, 0.51, 1]
+      },
+      {
+        "label": "Brown Very Light - 435",
+        "hex": "#b87748",
+        "rgb": [184, 119, 72],
+        "hsl": [25.18, 0.44, 0.5, 1]
+      },
+      {
+        "label": "Copper Med - 920",
+        "hex": "#ac5414",
+        "rgb": [172, 84, 20],
+        "hsl": [25.26, 0.79, 0.38, 1]
+      },
+      {
+        "label": "Coffee Brown Dk - 801",
+        "hex": "#653919",
+        "rgb": [101, 57, 25],
+        "hsl": [25.26, 0.6, 0.25, 1]
+      },
+      {
+        "label": "Mahogany Vy Dk - 300",
+        "hex": "#6f2f00",
+        "rgb": [111, 47, 0],
+        "hsl": [25.41, 1, 0.22, 1]
+      },
+      {
+        "label": "Coffee Brown Ult Dk - 938",
+        "hex": "#361f0e",
+        "rgb": [54, 31, 14],
+        "hsl": [25.5, 0.59, 0.13, 1]
+      },
+      {
+        "label": "Copper - 921",
+        "hex": "#c66218",
+        "rgb": [198, 98, 24],
+        "hsl": [25.52, 0.78, 0.44, 1]
+      },
+      {
+        "label": "Coffee Brown Vy Dk - 898",
+        "hex": "#492a13",
+        "rgb": [73, 42, 19],
+        "hsl": [25.56, 0.59, 0.18, 1]
+      },
+      {
+        "label": "Mahogany Light - 3776",
+        "hex": "#cf7939",
+        "rgb": [207, 121, 57],
+        "hsl": [25.6, 0.61, 0.52, 1]
+      },
+      {
+        "label": "Hazelnut Brown V Dk - 869",
+        "hex": "#835e41",
+        "rgb": [131, 94, 65],
+        "hsl": [26.36, 0.34, 0.38, 1]
+      },
+      {
+        "label": "Autumn Gold Dk - 3853",
+        "hex": "#f29746",
+        "rgb": [242, 151, 70],
+        "hsl": [28.26, 0.87, 0.61, 1]
+      },
+      {
+        "label": "Hazelnut Brown Lt - 422",
+        "hex": "#c69f7b",
+        "rgb": [198, 159, 123],
+        "hsl": [28.8, 0.4, 0.63, 1]
+      },
+      {
+        "label": "Golden Brown Dk - 975",
+        "hex": "#914f12",
+        "rgb": [145, 79, 18],
+        "hsl": [28.82, 0.78, 0.32, 1]
+      },
+      {
+        "label": "Hazelnut Brown - 3828",
+        "hex": "#b78b61",
+        "rgb": [183, 139, 97],
+        "hsl": [29.3, 0.37, 0.55, 1]
+      },
+      {
+        "label": "Hazelnut Brown Dk - 420",
+        "hex": "#a07042",
+        "rgb": [160, 112, 66],
+        "hsl": [29.36, 0.42, 0.44, 1]
+      },
+      {
+        "label": "Golden Brown - 3826",
+        "hex": "#ad7239",
+        "rgb": [173, 114, 57],
+        "hsl": [29.48, 0.5, 0.45, 1]
+      },
+      {
+        "label": "Golden Brown Med - 976",
+        "hex": "#c28142",
+        "rgb": [194, 129, 66],
+        "hsl": [29.53, 0.51, 0.51, 1]
+      },
+      {
+        "label": "Drab Brown Lt - 612",
+        "hex": "#bc9a78",
+        "rgb": [188, 154, 120],
+        "hsl": [30, 0.34, 0.6, 1]
+      },
+      {
+        "label": "Drab Brown - 611",
+        "hex": "#967656",
+        "rgb": [150, 118, 86],
+        "hsl": [30, 0.27, 0.46, 1]
+      },
+      {
+        "label": "Drab Brown Dk - 610",
+        "hex": "#796047",
+        "rgb": [121, 96, 71],
+        "hsl": [30, 0.26, 0.38, 1]
+      },
+      {
+        "label": "Mocha Brown Lt - 3782",
+        "hex": "#d2bca6",
+        "rgb": [210, 188, 166],
+        "hsl": [30, 0.33, 0.74, 1]
+      },
+      {
+        "label": "Mocha Brown Med - 3032",
+        "hex": "#b39f8b",
+        "rgb": [179, 159, 139],
+        "hsl": [30, 0.21, 0.62, 1]
+      },
+      {
+        "label": "Beige Gray Ult Dk - 3790",
+        "hex": "#7f6a55",
+        "rgb": [127, 106, 85],
+        "hsl": [30, 0.2, 0.42, 1]
+      },
+      {
+        "label": "Mocha Brown Dk - 3781",
+        "hex": "#6b5743",
+        "rgb": [107, 87, 67],
+        "hsl": [30, 0.23, 0.34, 1]
+      },
+      {
+        "label": "Beaver Gray Lt - 648",
+        "hex": "#bcb4ac",
+        "rgb": [188, 180, 172],
+        "hsl": [30, 0.11, 0.71, 1]
+      },
+      {
+        "label": "Beaver Gray Med - 647",
+        "hex": "#b0a69c",
+        "rgb": [176, 166, 156],
+        "hsl": [30, 0.11, 0.65, 1]
+      },
+      {
+        "label": "Beaver Gray Dk - 646",
+        "hex": "#877d73",
+        "rgb": [135, 125, 115],
+        "hsl": [30, 0.08, 0.49, 1]
+      },
+      {
+        "label": "Beaver Gray Vy Dk - 645",
+        "hex": "#6e655c",
+        "rgb": [110, 101, 92],
+        "hsl": [30, 0.09, 0.4, 1]
+      },
+      {
+        "label": "Autumn Gold Med - 3854",
+        "hex": "#f2af68",
+        "rgb": [242, 175, 104],
+        "hsl": [30.87, 0.84, 0.68, 1]
+      },
+      {
+        "label": "Beige Brown Med - 840",
+        "hex": "#9a7c5c",
+        "rgb": [154, 124, 92],
+        "hsl": [30.97, 0.25, 0.48, 1]
+      },
+      {
+        "label": "Pumpkin - 971",
+        "hex": "#f67f00",
+        "rgb": [246, 127, 0],
+        "hsl": [30.98, 1, 0.48, 1]
+      },
+      {
+        "label": "Tan - 436",
+        "hex": "#cb9051",
+        "rgb": [203, 144, 81],
+        "hsl": [30.98, 0.54, 0.56, 1]
+      },
+      {
+        "label": "Beige Brown Lt - 841",
+        "hex": "#b69b7e",
+        "rgb": [182, 155, 126],
+        "hsl": [31.07, 0.28, 0.6, 1]
+      },
+      {
+        "label": "Drab Brown V Lt - 613",
+        "hex": "#dcc4aa",
+        "rgb": [220, 196, 170],
+        "hsl": [31.2, 0.42, 0.76, 1]
+      },
+      {
+        "label": "Beige Brown Vy Lt - 842",
+        "hex": "#d1baa1",
+        "rgb": [209, 186, 161],
+        "hsl": [31.25, 0.34, 0.73, 1]
+      },
+      {
+        "label": "Mocha Brown Vy Lt - 3033",
+        "hex": "#e3d8cc",
+        "rgb": [227, 216, 204],
+        "hsl": [31.3, 0.29, 0.85, 1]
+      },
+      {
+        "label": "Golden Brown Light - 977",
+        "hex": "#dc9c56",
+        "rgb": [220, 156, 86],
+        "hsl": [31.34, 0.66, 0.6, 1]
+      },
+      {
+        "label": "Tan Light - 437",
+        "hex": "#e4bb8e",
+        "rgb": [228, 187, 142],
+        "hsl": [31.4, 0.61, 0.73, 1]
+      },
+      {
+        "label": "Pumpkin Light - 970",
+        "hex": "#f78b13",
+        "rgb": [247, 139, 19],
+        "hsl": [31.58, 0.93, 0.52, 1]
+      },
+      {
+        "label": "Beige Brown Dk - 839",
+        "hex": "#675541",
+        "rgb": [103, 85, 65],
+        "hsl": [31.58, 0.23, 0.33, 1]
+      },
+      {
+        "label": "Beige Brown Vy Dk - 838",
+        "hex": "#594937",
+        "rgb": [89, 73, 55],
+        "hsl": [31.76, 0.24, 0.28, 1]
+      },
+      {
+        "label": "Golden Brown Pale - 3827",
+        "hex": "#f7bb77",
+        "rgb": [247, 187, 119],
+        "hsl": [31.87, 0.89, 0.72, 1]
+      },
+      {
+        "label": "Mocha Beige Dark - 3862",
+        "hex": "#8a6e4e",
+        "rgb": [138, 110, 78],
+        "hsl": [32, 0.28, 0.42, 1]
+      },
+      {
+        "label": "Yellow Beige Dk - 3045",
+        "hex": "#bc966a",
+        "rgb": [188, 150, 106],
+        "hsl": [32.2, 0.38, 0.58, 1]
+      },
+      {
+        "label": "Mocha Beige Med - 3863",
+        "hex": "#a4835c",
+        "rgb": [164, 131, 92],
+        "hsl": [32.5, 0.28, 0.5, 1]
+      },
+      {
+        "label": "Yellow Beige V Dk - 167",
+        "hex": "#a77c49",
+        "rgb": [167, 124, 73],
+        "hsl": [32.55, 0.39, 0.47, 1]
+      },
+      {
+        "label": "Tangerine - 740",
+        "hex": "#ff8b00",
+        "rgb": [255, 139, 0],
+        "hsl": [32.71, 1, 0.5, 1]
+      },
+      {
+        "label": "Mocha Brown Vy Dk - 3031",
+        "hex": "#4b3c2a",
+        "rgb": [75, 60, 42],
+        "hsl": [32.73, 0.28, 0.23, 1]
+      },
+      {
+        "label": "Yellow Beige Md - 3046",
+        "hex": "#d8bc9a",
+        "rgb": [216, 188, 154],
+        "hsl": [32.9, 0.44, 0.73, 1]
+      },
+      {
+        "label": "Yellow Beige Lt - 3047",
+        "hex": "#e7d6c1",
+        "rgb": [231, 214, 193],
+        "hsl": [33.16, 0.44, 0.83, 1]
+      },
+      {
+        "label": "Mocha Beige Light - 3864",
+        "hex": "#cbb69c",
+        "rgb": [203, 182, 156],
+        "hsl": [33.19, 0.31, 0.7, 1]
+      },
+      {
+        "label": "Tangerine Med - 741",
+        "hex": "#ffa32b",
+        "rgb": [255, 163, 43],
+        "hsl": [33.96, 1, 0.58, 1]
+      },
+      {
+        "label": "Tan Ult Vy Lt - 739",
+        "hex": "#f8e4c8",
+        "rgb": [248, 228, 200],
+        "hsl": [35, 0.77, 0.88, 1]
+      },
+      {
+        "label": "Beige Brown Ult Vy Lt - 543",
+        "hex": "#f2e3ce",
+        "rgb": [242, 227, 206],
+        "hsl": [35, 0.58, 0.88, 1]
+      },
+      {
+        "label": "Tan Very Light - 738",
+        "hex": "#eccc9e",
+        "rgb": [236, 204, 158],
+        "hsl": [35.38, 0.67, 0.77, 1]
+      },
+      {
+        "label": "Topaz Very Dark - 781",
+        "hex": "#a26d20",
+        "rgb": [162, 109, 32],
+        "hsl": [35.54, 0.67, 0.38, 1]
+      },
+      {
+        "label": "Topaz Ultra Vy Dk - 780",
+        "hex": "#94631a",
+        "rgb": [148, 99, 26],
+        "hsl": [35.9, 0.7, 0.34, 1]
+      },
+      {
+        "label": "Mocha Brn Ult Vy Lt - 3866",
+        "hex": "#faf6f0",
+        "rgb": [250, 246, 240],
+        "hsl": [36, 0.5, 0.96, 1]
+      },
+      {
+        "label": "Autumn Gold Lt - 3855",
+        "hex": "#fad396",
+        "rgb": [250, 211, 150],
+        "hsl": [36.6, 0.91, 0.78, 1]
+      },
+      {
+        "label": "Topaz Dark - 782",
+        "hex": "#ae7720",
+        "rgb": [174, 119, 32],
+        "hsl": [36.76, 0.69, 0.4, 1]
+      },
+      {
+        "label": "Topaz - 728",
+        "hex": "#e4b468",
+        "rgb": [228, 180, 104],
+        "hsl": [36.77, 0.7, 0.65, 1]
+      },
+      {
+        "label": "Tangerine Light - 742",
+        "hex": "#ffbf57",
+        "rgb": [255, 191, 87],
+        "hsl": [37.14, 1, 0.67, 1]
+      },
+      {
+        "label": "Topaz Medium - 783",
+        "hex": "#ce9124",
+        "rgb": [206, 145, 36],
+        "hsl": [38.47, 0.7, 0.47, 1]
+      },
+      {
+        "label": "Mustard Medium - 370",
+        "hex": "#b89d64",
+        "rgb": [184, 157, 100],
+        "hsl": [40.71, 0.37, 0.56, 1]
+      },
+      {
+        "label": "Golden Olive Md - 831",
+        "hex": "#aa8f56",
+        "rgb": [170, 143, 86],
+        "hsl": [40.71, 0.33, 0.5, 1]
+      },
+      {
+        "label": "Mustard - 371",
+        "hex": "#bfa671",
+        "rgb": [191, 166, 113],
+        "hsl": [40.77, 0.38, 0.6, 1]
+      },
+      {
+        "label": "Straw Dark - 3820",
+        "hex": "#dfb65f",
+        "rgb": [223, 182, 95],
+        "hsl": [40.78, 0.67, 0.62, 1]
+      },
+      {
+        "label": "Straw Very Dark - 3852",
+        "hex": "#cd9d37",
+        "rgb": [205, 157, 55],
+        "hsl": [40.8, 0.6, 0.51, 1]
+      },
+      {
+        "label": "Golden Olive Dk - 830",
+        "hex": "#8d784b",
+        "rgb": [141, 120, 75],
+        "hsl": [40.91, 0.31, 0.42, 1]
+      },
+      {
+        "label": "Golden Olive Vy Dk - 829",
+        "hex": "#7e6b42",
+        "rgb": [126, 107, 66],
+        "hsl": [41, 0.31, 0.38, 1]
+      },
+      {
+        "label": "Canary Deep - 972",
+        "hex": "#ffb515",
+        "rgb": [255, 181, 21],
+        "hsl": [41.03, 1, 0.54, 1]
+      },
+      {
+        "label": "Yellow Med - 743",
+        "hex": "#fed376",
+        "rgb": [254, 211, 118],
+        "hsl": [41.03, 0.99, 0.73, 1]
+      },
+      {
+        "label": "Golden Olive Vy Lt - 834",
+        "hex": "#dbbe7f",
+        "rgb": [219, 190, 127],
+        "hsl": [41.09, 0.56, 0.68, 1]
+      },
+      {
+        "label": "Golden Olive Lt - 833",
+        "hex": "#c8ab6c",
+        "rgb": [200, 171, 108],
+        "hsl": [41.09, 0.46, 0.6, 1]
+      },
+      {
+        "label": "Golden Olive - 832",
+        "hex": "#bd9b51",
+        "rgb": [189, 155, 81],
+        "hsl": [41.11, 0.45, 0.53, 1]
+      },
+      {
+        "label": "Old Gold Lt - 676",
+        "hex": "#e5ce97",
+        "rgb": [229, 206, 151],
+        "hsl": [42.31, 0.6, 0.75, 1]
+      },
+      {
+        "label": "Old Gold Medium - 729",
+        "hex": "#d0a53e",
+        "rgb": [208, 165, 62],
+        "hsl": [42.33, 0.61, 0.53, 1]
+      },
+      {
+        "label": "Straw - 3821",
+        "hex": "#f3ce75",
+        "rgb": [243, 206, 117],
+        "hsl": [42.38, 0.84, 0.71, 1]
+      },
+      {
+        "label": "Mustard Lt - 372",
+        "hex": "#ccb784",
+        "rgb": [204, 183, 132],
+        "hsl": [42.5, 0.41, 0.66, 1]
+      },
+      {
+        "label": "Topaz Med Lt - 725",
+        "hex": "#ffc840",
+        "rgb": [255, 200, 64],
+        "hsl": [42.72, 1, 0.63, 1]
+      },
+      {
+        "label": "Brown Gray Vy Dk - 3021",
+        "hex": "#4f4b41",
+        "rgb": [79, 75, 65],
+        "hsl": [42.86, 0.1, 0.28, 1]
+      },
+      {
+        "label": "Beige Gray Med - 644",
+        "hex": "#ddd8cb",
+        "rgb": [221, 216, 203],
+        "hsl": [43.33, 0.21, 0.83, 1]
+      },
+      {
+        "label": "Beige Gray Vy Dk - 640",
+        "hex": "#857b61",
+        "rgb": [133, 123, 97],
+        "hsl": [43.33, 0.16, 0.45, 1]
+      },
+      {
+        "label": "Brown Gray Dark - 3787",
+        "hex": "#625d50",
+        "rgb": [98, 93, 80],
+        "hsl": [43.33, 0.1, 0.35, 1]
+      },
+      {
+        "label": "Straw Light - 3822",
+        "hex": "#f6dc98",
+        "rgb": [246, 220, 152],
+        "hsl": [43.4, 0.84, 0.78, 1]
+      },
+      {
+        "label": "Ecru - Ecru",
+        "hex": "#f0eada",
+        "rgb": [240, 234, 218],
+        "hsl": [43.64, 0.42, 0.9, 1]
+      },
+      {
+        "label": "Beige Gray Dark - 642",
+        "hex": "#a49878",
+        "rgb": [164, 152, 120],
+        "hsl": [43.64, 0.19, 0.56, 1]
+      },
+      {
+        "label": "Old Gold Dark - 680",
+        "hex": "#bc8d0e",
+        "rgb": [188, 141, 14],
+        "hsl": [43.79, 0.86, 0.4, 1]
+      },
+      {
+        "label": "Brown Gray Light - 3023",
+        "hex": "#b1aa97",
+        "rgb": [177, 170, 151],
+        "hsl": [43.85, 0.14, 0.64, 1]
+      },
+      {
+        "label": "Yellow Pale Light - 745",
+        "hex": "#ffe9ad",
+        "rgb": [255, 233, 173],
+        "hsl": [43.9, 1, 0.84, 1]
+      },
+      {
+        "label": "Cream - 712",
+        "hex": "#fffbef",
+        "rgb": [255, 251, 239],
+        "hsl": [45, 1, 0.97, 1]
+      },
+      {
+        "label": "White - White",
+        "hex": "#fcfbf8",
+        "rgb": [252, 251, 248],
+        "hsl": [45, 0.4, 0.98, 1]
+      },
+      {
+        "label": "Winter White - 3865",
+        "hex": "#f9f7f1",
+        "rgb": [249, 247, 241],
+        "hsl": [45, 0.4, 0.96, 1]
+      },
+      {
+        "label": "Beige Gray Light - 822",
+        "hex": "#e7e2d3",
+        "rgb": [231, 226, 211],
+        "hsl": [45, 0.29, 0.87, 1]
+      },
+      {
+        "label": "Brown Gray Vy Lt - 3024",
+        "hex": "#ebeae7",
+        "rgb": [235, 234, 231],
+        "hsl": [45, 0.09, 0.91, 1]
+      },
+      {
+        "label": "Old Gold Vy Dark - 3829",
+        "hex": "#a98204",
+        "rgb": [169, 130, 4],
+        "hsl": [45.82, 0.95, 0.34, 1]
+      },
+      {
+        "label": "Topaz Light - 726",
+        "hex": "#fdd755",
+        "rgb": [253, 215, 85],
+        "hsl": [46.43, 0.98, 0.66, 1]
+      },
+      {
+        "label": "Yellow Pale - 744",
+        "hex": "#ffe793",
+        "rgb": [255, 231, 147],
+        "hsl": [46.67, 1, 0.79, 1]
+      },
+      {
+        "label": "Old Gold Vy Lt - 677",
+        "hex": "#f5eccb",
+        "rgb": [245, 236, 203],
+        "hsl": [47.14, 0.68, 0.88, 1]
+      },
+      {
+        "label": "Topaz Vy Lt - 727",
+        "hex": "#fff1af",
+        "rgb": [255, 241, 175],
+        "hsl": [49.5, 1, 0.84, 1]
+      },
+      {
+        "label": "Lemon Dark - 444",
+        "hex": "#ffd600",
+        "rgb": [255, 214, 0],
+        "hsl": [50.35, 1, 0.5, 1]
+      },
+      {
+        "label": "Canary Bright - 973",
+        "hex": "#ffe300",
+        "rgb": [255, 227, 0],
+        "hsl": [53.41, 1, 0.5, 1]
+      },
+      {
+        "label": "Lemon - 307",
+        "hex": "#fded54",
+        "rgb": [253, 237, 84],
+        "hsl": [54.32, 0.98, 0.66, 1]
+      },
+      {
+        "label": "Olive Green Lt - 734",
+        "hex": "#c7c077",
+        "rgb": [199, 192, 119],
+        "hsl": [54.75, 0.42, 0.62, 1]
+      },
+      {
+        "label": "Olive Green Dk - 731",
+        "hex": "#938b37",
+        "rgb": [147, 139, 55],
+        "hsl": [54.78, 0.46, 0.4, 1]
+      },
+      {
+        "label": "Olive Green V Dk - 730",
+        "hex": "#827b30",
+        "rgb": [130, 123, 48],
+        "hsl": [54.88, 0.46, 0.35, 1]
+      },
+      {
+        "label": "Olive Green - 732",
+        "hex": "#948c36",
+        "rgb": [148, 140, 54],
+        "hsl": [54.89, 0.47, 0.4, 1]
+      },
+      {
+        "label": "Golden Yellow Vy Lt - 3078",
+        "hex": "#fdf9cd",
+        "rgb": [253, 249, 205],
+        "hsl": [55, 0.92, 0.9, 1]
+      },
+      {
+        "label": "Olive Green Md - 733",
+        "hex": "#bcb34c",
+        "rgb": [188, 179, 76],
+        "hsl": [55.18, 0.46, 0.52, 1]
+      },
+      {
+        "label": "Yellow Ultra Pale - 3823",
+        "hex": "#fffde3",
+        "rgb": [255, 253, 227],
+        "hsl": [55.71, 1, 0.95, 1]
+      },
+      {
+        "label": "Lemon Light - 445",
+        "hex": "#fffb8b",
+        "rgb": [255, 251, 139],
+        "hsl": [57.93, 1, 0.77, 1]
+      },
+      {
+        "label": "Khaki Green Lt - 3013",
+        "hex": "#b9b982",
+        "rgb": [185, 185, 130],
+        "hsl": [60, 0.28, 0.62, 1]
+      },
+      {
+        "label": "Off White - 746",
+        "hex": "#fcfcee",
+        "rgb": [252, 252, 238],
+        "hsl": [60, 0.7, 0.96, 1]
+      },
+      {
+        "label": "Khaki Green Md - 3012",
+        "hex": "#a6a75d",
+        "rgb": [166, 167, 93],
+        "hsl": [60.81, 0.3, 0.51, 1]
+      },
+      {
+        "label": "Khaki Green Dk - 3011",
+        "hex": "#898a58",
+        "rgb": [137, 138, 88],
+        "hsl": [61.2, 0.22, 0.44, 1]
+      },
+      {
+        "label": "Moss Green Dk - 580",
+        "hex": "#888d33",
+        "rgb": [136, 141, 51],
+        "hsl": [63.33, 0.47, 0.38, 1]
+      },
+      {
+        "label": "Moss Green Md Lt - 166",
+        "hex": "#c0c840",
+        "rgb": [192, 200, 64],
+        "hsl": [63.53, 0.55, 0.52, 1]
+      },
+      {
+        "label": "Moss Green - 581",
+        "hex": "#a7ae38",
+        "rgb": [167, 174, 56],
+        "hsl": [63.56, 0.51, 0.45, 1]
+      },
+      {
+        "label": "Moss Green Vy Lt - 165",
+        "hex": "#eff4a4",
+        "rgb": [239, 244, 164],
+        "hsl": [63.75, 0.78, 0.8, 1]
+      },
+      {
+        "label": "Moss Green Lt - 3819",
+        "hex": "#e0e868",
+        "rgb": [224, 232, 104],
+        "hsl": [63.75, 0.74, 0.66, 1]
+      },
+      {
+        "label": "Brown Gray Med - 3022",
+        "hex": "#8e9078",
+        "rgb": [142, 144, 120],
+        "hsl": [65, 0.1, 0.52, 1]
+      },
+      {
+        "label": "Ash Gray Vy Lt - 535",
+        "hex": "#636458",
+        "rgb": [99, 100, 88],
+        "hsl": [65, 0.06, 0.37, 1]
+      },
+      {
+        "label": "Avocado Grn U Lt - 472",
+        "hex": "#d8e498",
+        "rgb": [216, 228, 152],
+        "hsl": [69.47, 0.58, 0.75, 1]
+      },
+      {
+        "label": "Fern Green Lt - 523",
+        "hex": "#abb197",
+        "rgb": [171, 177, 151],
+        "hsl": [73.85, 0.14, 0.64, 1]
+      },
+      {
+        "label": "Green Gray Dk - 3051",
+        "hex": "#5f6648",
+        "rgb": [95, 102, 72],
+        "hsl": [74, 0.17, 0.34, 1]
+      },
+      {
+        "label": "Fern Green Dark - 520",
+        "hex": "#666d4f",
+        "rgb": [102, 109, 79],
+        "hsl": [74, 0.16, 0.37, 1]
+      },
+      {
+        "label": "Green Gray - 3053",
+        "hex": "#9ca482",
+        "rgb": [156, 164, 130],
+        "hsl": [74.12, 0.16, 0.58, 1]
+      },
+      {
+        "label": "Green Gray Md - 3052",
+        "hex": "#889268",
+        "rgb": [136, 146, 104],
+        "hsl": [74.29, 0.17, 0.49, 1]
+      },
+      {
+        "label": "Avocado Grn V Dk - 936",
+        "hex": "#4c5826",
+        "rgb": [76, 88, 38],
+        "hsl": [74.4, 0.4, 0.25, 1]
+      },
+      {
+        "label": "Avocado Green Md - 937",
+        "hex": "#627133",
+        "rgb": [98, 113, 51],
+        "hsl": [74.52, 0.38, 0.32, 1]
+      },
+      {
+        "label": "Parrot Green Lt - 907",
+        "hex": "#c7e666",
+        "rgb": [199, 230, 102],
+        "hsl": [74.53, 0.72, 0.65, 1]
+      },
+      {
+        "label": "Avocado Grn V Lt - 471",
+        "hex": "#aebf79",
+        "rgb": [174, 191, 121],
+        "hsl": [74.57, 0.35, 0.61, 1]
+      },
+      {
+        "label": "Avocado Grn Lt - 470",
+        "hex": "#94ab4f",
+        "rgb": [148, 171, 79],
+        "hsl": [75, 0.37, 0.49, 1]
+      },
+      {
+        "label": "Avocado Green - 469",
+        "hex": "#72843c",
+        "rgb": [114, 132, 60],
+        "hsl": [75, 0.38, 0.38, 1]
+      },
+      {
+        "label": "Avocado Green Dk - 935",
+        "hex": "#424d21",
+        "rgb": [66, 77, 33],
+        "hsl": [75, 0.4, 0.22, 1]
+      },
+      {
+        "label": "Avocado Grn Black - 934",
+        "hex": "#313919",
+        "rgb": [49, 57, 25],
+        "hsl": [75, 0.39, 0.16, 1]
+      },
+      {
+        "label": "Fern Green - 522",
+        "hex": "#969e7e",
+        "rgb": [150, 158, 126],
+        "hsl": [75, 0.14, 0.56, 1]
+      },
+      {
+        "label": "Fern Green Vy Lt - 524",
+        "hex": "#c4cdac",
+        "rgb": [196, 205, 172],
+        "hsl": [76.36, 0.25, 0.74, 1]
+      },
+      {
+        "label": "Chartreuse Bright - 704",
+        "hex": "#9ecf34",
+        "rgb": [158, 207, 52],
+        "hsl": [78.97, 0.62, 0.51, 1]
+      },
+      {
+        "label": "Yellow Green Lt - 3348",
+        "hex": "#ccd9b1",
+        "rgb": [204, 217, 177],
+        "hsl": [79.5, 0.34, 0.77, 1]
+      },
+      {
+        "label": "Yellow Green Vy Lt - 772",
+        "hex": "#e4ecd4",
+        "rgb": [228, 236, 212],
+        "hsl": [80, 0.39, 0.88, 1]
+      },
+      {
+        "label": "Pine Green - 3364",
+        "hex": "#83975f",
+        "rgb": [131, 151, 95],
+        "hsl": [81.43, 0.23, 0.48, 1]
+      },
+      {
+        "label": "Pine Green Dk - 3362",
+        "hex": "#5e6b47",
+        "rgb": [94, 107, 71],
+        "hsl": [81.67, 0.2, 0.35, 1]
+      },
+      {
+        "label": "Pine Green Md - 3363",
+        "hex": "#728256",
+        "rgb": [114, 130, 86],
+        "hsl": [81.82, 0.2, 0.42, 1]
+      },
+      {
+        "label": "Parrot Green V Dk - 904",
+        "hex": "#557822",
+        "rgb": [85, 120, 34],
+        "hsl": [84.42, 0.56, 0.3, 1]
+      },
+      {
+        "label": "Parrot Green Dk - 905",
+        "hex": "#628a28",
+        "rgb": [98, 138, 40],
+        "hsl": [84.49, 0.55, 0.35, 1]
+      },
+      {
+        "label": "Parrot Green Md - 906",
+        "hex": "#7fb335",
+        "rgb": [127, 179, 53],
+        "hsl": [84.76, 0.54, 0.45, 1]
+      },
+      {
+        "label": "Forest Green Lt - 164",
+        "hex": "#c8d8b8",
+        "rgb": [200, 216, 184],
+        "hsl": [90, 0.29, 0.78, 1]
+      },
+      {
+        "label": "Forest Green Med - 988",
+        "hex": "#738b5b",
+        "rgb": [115, 139, 91],
+        "hsl": [90, 0.21, 0.45, 1]
+      },
+      {
+        "label": "Forest Green - 989",
+        "hex": "#8da675",
+        "rgb": [141, 166, 117],
+        "hsl": [90.61, 0.22, 0.55, 1]
+      },
+      {
+        "label": "Forest Green Dk - 987",
+        "hex": "#587141",
+        "rgb": [88, 113, 65],
+        "hsl": [91.25, 0.27, 0.35, 1]
+      },
+      {
+        "label": "Chartreuse - 703",
+        "hex": "#7bb547",
+        "rgb": [123, 181, 71],
+        "hsl": [91.64, 0.44, 0.49, 1]
+      },
+      {
+        "label": "Forest Green Vy Dk - 986",
+        "hex": "#405230",
+        "rgb": [64, 82, 48],
+        "hsl": [91.76, 0.26, 0.25, 1]
+      },
+      {
+        "label": "Yellow Green Med - 3347",
+        "hex": "#71935c",
+        "rgb": [113, 147, 92],
+        "hsl": [97.09, 0.23, 0.47, 1]
+      },
+      {
+        "label": "Pistachio Green Dk - 367",
+        "hex": "#617a52",
+        "rgb": [97, 122, 82],
+        "hsl": [97.5, 0.2, 0.4, 1]
+      },
+      {
+        "label": "Pistachio Green Vy Lt - 369",
+        "hex": "#d7edcc",
+        "rgb": [215, 237, 204],
+        "hsl": [100, 0.48, 0.86, 1]
+      },
+      {
+        "label": "Pistachio Green Lt - 368",
+        "hex": "#a6c298",
+        "rgb": [166, 194, 152],
+        "hsl": [100, 0.26, 0.68, 1]
+      },
+      {
+        "label": "Pistachio Green Med - 320",
+        "hex": "#69885a",
+        "rgb": [105, 136, 90],
+        "hsl": [100.43, 0.2, 0.44, 1]
+      },
+      {
+        "label": "Hunter Green Vy Dk - 895",
+        "hex": "#1b5300",
+        "rgb": [27, 83, 0],
+        "hsl": [100.48, 1, 0.16, 1]
+      },
+      {
+        "label": "Green Light - 701",
+        "hex": "#3f8f29",
+        "rgb": [63, 143, 41],
+        "hsl": [107.06, 0.55, 0.36, 1]
+      },
+      {
+        "label": "Kelly Green - 702",
+        "hex": "#47a72f",
+        "rgb": [71, 167, 47],
+        "hsl": [108, 0.56, 0.42, 1]
+      },
+      {
+        "label": "Hunter Green - 3346",
+        "hex": "#406a3a",
+        "rgb": [64, 106, 58],
+        "hsl": [112.5, 0.29, 0.32, 1]
+      },
+      {
+        "label": "Hunter Green Dk - 3345",
+        "hex": "#1b5915",
+        "rgb": [27, 89, 21],
+        "hsl": [114.71, 0.62, 0.22, 1]
+      },
+      {
+        "label": "Nile Green Med - 913",
+        "hex": "#6dab77",
+        "rgb": [109, 171, 119],
+        "hsl": [129.68, 0.27, 0.55, 1]
+      },
+      {
+        "label": "Nile Green - 954",
+        "hex": "#88ba91",
+        "rgb": [136, 186, 145],
+        "hsl": [130.8, 0.27, 0.63, 1]
+      },
+      {
+        "label": "Jade Light - 563",
+        "hex": "#8fc098",
+        "rgb": [143, 192, 152],
+        "hsl": [131.02, 0.28, 0.66, 1]
+      },
+      {
+        "label": "Green Bright - 700",
+        "hex": "#07731b",
+        "rgb": [7, 115, 27],
+        "hsl": [131.11, 0.89, 0.24, 1]
+      },
+      {
+        "label": "Green - 699",
+        "hex": "#056517",
+        "rgb": [5, 101, 23],
+        "hsl": [131.25, 0.91, 0.21, 1]
+      },
+      {
+        "label": "Jade Very Light - 564",
+        "hex": "#a7cdaf",
+        "rgb": [167, 205, 175],
+        "hsl": [132.63, 0.28, 0.73, 1]
+      },
+      {
+        "label": "Nile Green Light - 955",
+        "hex": "#a2d6ad",
+        "rgb": [162, 214, 173],
+        "hsl": [132.69, 0.39, 0.74, 1]
+      },
+      {
+        "label": "Pistachio Grn Vy Dk - 319",
+        "hex": "#205f2e",
+        "rgb": [32, 95, 46],
+        "hsl": [133.33, 0.5, 0.25, 1]
+      },
+      {
+        "label": "Jade Ultra Vy Lt - 966",
+        "hex": "#b9d7c0",
+        "rgb": [185, 215, 192],
+        "hsl": [134, 0.27, 0.78, 1]
+      },
+      {
+        "label": "Pistachio Grn Ult V D - 890",
+        "hex": "#174923",
+        "rgb": [23, 73, 35],
+        "hsl": [134.4, 0.52, 0.19, 1]
+      },
+      {
+        "label": "Blue Green Vy Lt - 504",
+        "hex": "#c4decc",
+        "rgb": [196, 222, 204],
+        "hsl": [138.46, 0.28, 0.82, 1]
+      },
+      {
+        "label": "Blue Green Lt - 3813",
+        "hex": "#b2d4bd",
+        "rgb": [178, 212, 189],
+        "hsl": [139.41, 0.28, 0.76, 1]
+      },
+      {
+        "label": "Jade Medium - 562",
+        "hex": "#53976a",
+        "rgb": [83, 151, 106],
+        "hsl": [140.29, 0.29, 0.46, 1]
+      },
+      {
+        "label": "Celadon Green Md - 163",
+        "hex": "#4d8361",
+        "rgb": [77, 131, 97],
+        "hsl": [142.22, 0.26, 0.41, 1]
+      },
+      {
+        "label": "Celadon Green - 3816",
+        "hex": "#65a57d",
+        "rgb": [101, 165, 125],
+        "hsl": [142.5, 0.26, 0.52, 1]
+      },
+      {
+        "label": "Celadon Green Dk - 3815",
+        "hex": "#477759",
+        "rgb": [71, 119, 89],
+        "hsl": [142.5, 0.25, 0.37, 1]
+      },
+      {
+        "label": "Celadon Green VD - 561",
+        "hex": "#2c6a45",
+        "rgb": [44, 106, 69],
+        "hsl": [144.19, 0.41, 0.29, 1]
+      },
+      {
+        "label": "Celadon Green Lt - 3817",
+        "hex": "#99c3aa",
+        "rgb": [153, 195, 170],
+        "hsl": [144.29, 0.26, 0.68, 1]
+      },
+      {
+        "label": "Blue Green - 502",
+        "hex": "#5b9071",
+        "rgb": [91, 144, 113],
+        "hsl": [144.91, 0.23, 0.46, 1]
+      },
+      {
+        "label": "Blue Green Dark - 501",
+        "hex": "#396f52",
+        "rgb": [57, 111, 82],
+        "hsl": [147.78, 0.32, 0.33, 1]
+      },
+      {
+        "label": "Blue Green Med - 503",
+        "hex": "#7bac94",
+        "rgb": [123, 172, 148],
+        "hsl": [150.61, 0.23, 0.58, 1]
+      },
+      {
+        "label": "Emerald Grn Ult V Dk - 3818",
+        "hex": "#115a3b",
+        "rgb": [17, 90, 59],
+        "hsl": [154.52, 0.68, 0.21, 1]
+      },
+      {
+        "label": "Emerald Green Vy Dk - 909",
+        "hex": "#156f49",
+        "rgb": [21, 111, 73],
+        "hsl": [154.67, 0.68, 0.26, 1]
+      },
+      {
+        "label": "Jade Green - 505",
+        "hex": "#338362",
+        "rgb": [51, 131, 98],
+        "hsl": [155.25, 0.44, 0.36, 1]
+      },
+      {
+        "label": "Emerald Green Lt - 912",
+        "hex": "#1b9d6b",
+        "rgb": [27, 157, 107],
+        "hsl": [156.92, 0.71, 0.36, 1]
+      },
+      {
+        "label": "Emerald Green Dark - 910",
+        "hex": "#187e58",
+        "rgb": [24, 126, 88],
+        "hsl": [157.65, 0.68, 0.29, 1]
+      },
+      {
+        "label": "Emerald Green Med - 911",
+        "hex": "#189065",
+        "rgb": [24, 144, 101],
+        "hsl": [158.5, 0.71, 0.33, 1]
+      },
+      {
+        "label": "Blue Green Vy Dk - 500",
+        "hex": "#044d33",
+        "rgb": [4, 77, 51],
+        "hsl": [158.63, 0.9, 0.16, 1]
+      },
+      {
+        "label": "Aquamarine Vy Lt - 993",
+        "hex": "#90c0b4",
+        "rgb": [144, 192, 180],
+        "hsl": [165, 0.28, 0.66, 1]
+      },
+      {
+        "label": "Aquamarine Dk - 991",
+        "hex": "#477b6e",
+        "rgb": [71, 123, 110],
+        "hsl": [165, 0.27, 0.38, 1]
+      },
+      {
+        "label": "Aquamarine Lt - 992",
+        "hex": "#6fae9f",
+        "rgb": [111, 174, 159],
+        "hsl": [165.71, 0.28, 0.56, 1]
+      },
+      {
+        "label": "Aquamarine - 3814",
+        "hex": "#508b7d",
+        "rgb": [80, 139, 125],
+        "hsl": [165.76, 0.27, 0.43, 1]
+      },
+      {
+        "label": "Sea Green Light - 964",
+        "hex": "#a9e2d8",
+        "rgb": [169, 226, 216],
+        "hsl": [169.47, 0.5, 0.77, 1]
+      },
+      {
+        "label": "Sea Green Dark - 958",
+        "hex": "#3eb6a1",
+        "rgb": [62, 182, 161],
+        "hsl": [169.5, 0.49, 0.48, 1]
+      },
+      {
+        "label": "Green Bright Md - 943",
+        "hex": "#3d9384",
+        "rgb": [61, 147, 132],
+        "hsl": [169.53, 0.41, 0.41, 1]
+      },
+      {
+        "label": "Sea Green Med - 959",
+        "hex": "#59c7b4",
+        "rgb": [89, 199, 180],
+        "hsl": [169.64, 0.5, 0.56, 1]
+      },
+      {
+        "label": "Green Bright Lt - 3851",
+        "hex": "#49b3a1",
+        "rgb": [73, 179, 161],
+        "hsl": [169.81, 0.42, 0.49, 1]
+      },
+      {
+        "label": "Green Bright Dk - 3850",
+        "hex": "#378477",
+        "rgb": [55, 132, 119],
+        "hsl": [169.87, 0.41, 0.37, 1]
+      },
+      {
+        "label": "Teal Green Light - 3849",
+        "hex": "#52b3a4",
+        "rgb": [82, 179, 164],
+        "hsl": [170.72, 0.39, 0.51, 1]
+      },
+      {
+        "label": "Teal Green Dark - 3847",
+        "hex": "#347d75",
+        "rgb": [52, 125, 117],
+        "hsl": [173.42, 0.41, 0.35, 1]
+      },
+      {
+        "label": "Sea Green Vy Dk - 3812",
+        "hex": "#2f8c84",
+        "rgb": [47, 140, 132],
+        "hsl": [174.84, 0.5, 0.37, 1]
+      },
+      {
+        "label": "Teal Green Med - 3848",
+        "hex": "#559392",
+        "rgb": [85, 147, 146],
+        "hsl": [179.03, 0.27, 0.45, 1]
+      },
+      {
+        "label": "Baby Blue Ult Vy Lt - 3756",
+        "hex": "#eefcfc",
+        "rgb": [238, 252, 252],
+        "hsl": [180, 0.7, 0.96, 1]
+      },
+      {
+        "label": "Gray Green Vy Lt - 928",
+        "hex": "#dde3e3",
+        "rgb": [221, 227, 227],
+        "hsl": [180, 0.1, 0.88, 1]
+      },
+      {
+        "label": "Gray Green Light - 927",
+        "hex": "#bdcbcb",
+        "rgb": [189, 203, 203],
+        "hsl": [180, 0.12, 0.77, 1]
+      },
+      {
+        "label": "Gray Green Med - 926",
+        "hex": "#98aeae",
+        "rgb": [152, 174, 174],
+        "hsl": [180, 0.12, 0.64, 1]
+      },
+      {
+        "label": "Gray Green Dark - 3768",
+        "hex": "#657f7f",
+        "rgb": [101, 127, 127],
+        "hsl": [180, 0.11, 0.45, 1]
+      },
+      {
+        "label": "Gray Green Vy Dark - 924",
+        "hex": "#566a6a",
+        "rgb": [86, 106, 106],
+        "hsl": [180, 0.1, 0.38, 1]
+      },
+      {
+        "label": "Beaver Gray Vy Lt - 3072",
+        "hex": "#e6e8e8",
+        "rgb": [230, 232, 232],
+        "hsl": [180, 0.04, 0.91, 1]
+      },
+      {
+        "label": "Turquoise Bright Light - 3846",
+        "hex": "#06e3e6",
+        "rgb": [6, 227, 230],
+        "hsl": [180.8, 0.95, 0.46, 1]
+      },
+      {
+        "label": "Turquoise Bright Med - 3845",
+        "hex": "#04c4ca",
+        "rgb": [4, 196, 202],
+        "hsl": [181.82, 0.96, 0.4, 1]
+      },
+      {
+        "label": "Peacock Blue Vy Lt - 747",
+        "hex": "#e5fcfd",
+        "rgb": [229, 252, 253],
+        "hsl": [182.5, 0.86, 0.95, 1]
+      },
+      {
+        "label": "Turquoise Bright Dark - 3844",
+        "hex": "#12aeba",
+        "rgb": [18, 174, 186],
+        "hsl": [184.29, 0.82, 0.4, 1]
+      },
+      {
+        "label": "Turquoise Very Light - 3811",
+        "hex": "#bce3e6",
+        "rgb": [188, 227, 230],
+        "hsl": [184.29, 0.46, 0.82, 1]
+      },
+      {
+        "label": "Turquoise Ult Vy Dk - 3808",
+        "hex": "#366970",
+        "rgb": [54, 105, 112],
+        "hsl": [187.24, 0.35, 0.33, 1]
+      },
+      {
+        "label": "Sky Blue Vy Lt - 828",
+        "hex": "#c5e8ed",
+        "rgb": [197, 232, 237],
+        "hsl": [187.5, 0.53, 0.85, 1]
+      },
+      {
+        "label": "Turquoise Vy Dark - 3809",
+        "hex": "#3f7c85",
+        "rgb": [63, 124, 133],
+        "hsl": [187.71, 0.36, 0.38, 1]
+      },
+      {
+        "label": "Turquoise Dark - 3810",
+        "hex": "#488e9a",
+        "rgb": [72, 142, 154],
+        "hsl": [188.78, 0.36, 0.44, 1]
+      },
+      {
+        "label": "Peacock Blue Vy Dk - 3765",
+        "hex": "#347f8c",
+        "rgb": [52, 127, 140],
+        "hsl": [188.86, 0.46, 0.38, 1]
+      },
+      {
+        "label": "Turquoise Light - 598",
+        "hex": "#90c3cc",
+        "rgb": [144, 195, 204],
+        "hsl": [189, 0.37, 0.68, 1]
+      },
+      {
+        "label": "Peacock Blue Dark - 806",
+        "hex": "#3d95a5",
+        "rgb": [61, 149, 165],
+        "hsl": [189.23, 0.46, 0.44, 1]
+      },
+      {
+        "label": "Peacock Blue Light - 3766",
+        "hex": "#99cfd9",
+        "rgb": [153, 207, 217],
+        "hsl": [189.38, 0.46, 0.73, 1]
+      },
+      {
+        "label": "Peacock Blue - 807",
+        "hex": "#64abba",
+        "rgb": [100, 171, 186],
+        "hsl": [190.47, 0.38, 0.56, 1]
+      },
+      {
+        "label": "Turquoise - 597",
+        "hex": "#5ba3b3",
+        "rgb": [91, 163, 179],
+        "hsl": [190.91, 0.37, 0.53, 1]
+      },
+      {
+        "label": "Sky Blue Light - 3761",
+        "hex": "#acd8e2",
+        "rgb": [172, 216, 226],
+        "hsl": [191.11, 0.48, 0.78, 1]
+      },
+      {
+        "label": "Electric Blue - 3843",
+        "hex": "#14aad0",
+        "rgb": [20, 170, 208],
+        "hsl": [192.13, 0.82, 0.45, 1]
+      },
+      {
+        "label": "Electric Blue Dark - 995",
+        "hex": "#2696b6",
+        "rgb": [38, 150, 182],
+        "hsl": [193.33, 0.65, 0.43, 1]
+      },
+      {
+        "label": "Electric Blue Medium - 996",
+        "hex": "#30c2ec",
+        "rgb": [48, 194, 236],
+        "hsl": [193.4, 0.83, 0.56, 1]
+      },
+      {
+        "label": "Wedgewood Light - 518",
+        "hex": "#4f93a7",
+        "rgb": [79, 147, 167],
+        "hsl": [193.64, 0.36, 0.48, 1]
+      },
+      {
+        "label": "Baby Blue Very Light - 775",
+        "hex": "#d9ebf1",
+        "rgb": [217, 235, 241],
+        "hsl": [195, 0.46, 0.9, 1]
+      },
+      {
+        "label": "Wedgewood Med - 3760",
+        "hex": "#3e85a2",
+        "rgb": [62, 133, 162],
+        "hsl": [197.4, 0.45, 0.44, 1]
+      },
+      {
+        "label": "Wedgewood Vry Dk - 3842",
+        "hex": "#32667c",
+        "rgb": [50, 102, 124],
+        "hsl": [197.84, 0.43, 0.34, 1]
+      },
+      {
+        "label": "Wedgewood Ult VyDk - 311",
+        "hex": "#1c5066",
+        "rgb": [28, 80, 102],
+        "hsl": [197.84, 0.57, 0.25, 1]
+      },
+      {
+        "label": "Wedgewood Dark - 517",
+        "hex": "#3b768f",
+        "rgb": [59, 118, 143],
+        "hsl": [197.86, 0.42, 0.4, 1]
+      },
+      {
+        "label": "Sky Blue - 519",
+        "hex": "#7eb1c8",
+        "rgb": [126, 177, 200],
+        "hsl": [198.65, 0.4, 0.64, 1]
+      },
+      {
+        "label": "Blue Very Light - 827",
+        "hex": "#bddded",
+        "rgb": [189, 221, 237],
+        "hsl": [200, 0.57, 0.84, 1]
+      },
+      {
+        "label": "Blue Ultra Very Light - 162",
+        "hex": "#dbecf5",
+        "rgb": [219, 236, 245],
+        "hsl": [200.77, 0.57, 0.91, 1]
+      },
+      {
+        "label": "Blue Dark - 825",
+        "hex": "#4781a5",
+        "rgb": [71, 129, 165],
+        "hsl": [202.98, 0.4, 0.46, 1]
+      },
+      {
+        "label": "Blue Very Dark - 824",
+        "hex": "#396987",
+        "rgb": [57, 105, 135],
+        "hsl": [203.08, 0.41, 0.38, 1]
+      },
+      {
+        "label": "Blue Light - 813",
+        "hex": "#a1c2d7",
+        "rgb": [161, 194, 215],
+        "hsl": [203.33, 0.4, 0.74, 1]
+      },
+      {
+        "label": "Blue Medium - 826",
+        "hex": "#6b9ebf",
+        "rgb": [107, 158, 191],
+        "hsl": [203.57, 0.4, 0.58, 1]
+      },
+      {
+        "label": "Baby Blue Very Dark - 312",
+        "hex": "#35668b",
+        "rgb": [53, 102, 139],
+        "hsl": [205.81, 0.45, 0.38, 1]
+      },
+      {
+        "label": "Baby Blue Light - 3325",
+        "hex": "#b8d2e6",
+        "rgb": [184, 210, 230],
+        "hsl": [206.09, 0.48, 0.81, 1]
+      },
+      {
+        "label": "Baby Blue Medium - 334",
+        "hex": "#739fc1",
+        "rgb": [115, 159, 193],
+        "hsl": [206.15, 0.39, 0.6, 1]
+      },
+      {
+        "label": "Baby Blue Dark - 322",
+        "hex": "#5a8fb8",
+        "rgb": [90, 143, 184],
+        "hsl": [206.17, 0.4, 0.54, 1]
+      },
+      {
+        "label": "Baby Blue Pale - 3841",
+        "hex": "#cddfed",
+        "rgb": [205, 223, 237],
+        "hsl": [206.25, 0.47, 0.87, 1]
+      },
+      {
+        "label": "Baby Blue Ult Vy Dk - 803",
+        "hex": "#2c597c",
+        "rgb": [44, 89, 124],
+        "hsl": [206.25, 0.48, 0.33, 1]
+      },
+      {
+        "label": "Baby Blue - 3755",
+        "hex": "#93b4ce",
+        "rgb": [147, 180, 206],
+        "hsl": [206.44, 0.38, 0.69, 1]
+      },
+      {
+        "label": "Antique Blue Light - 932",
+        "hex": "#a2b5c6",
+        "rgb": [162, 181, 198],
+        "hsl": [208.33, 0.24, 0.71, 1]
+      },
+      {
+        "label": "Antique Blue Very Dk - 3750",
+        "hex": "#384c5e",
+        "rgb": [56, 76, 94],
+        "hsl": [208.42, 0.25, 0.29, 1]
+      },
+      {
+        "label": "Antique Blue Dark - 930",
+        "hex": "#455c71",
+        "rgb": [69, 92, 113],
+        "hsl": [208.64, 0.24, 0.36, 1]
+      },
+      {
+        "label": "Royal Blue Dark - 796",
+        "hex": "#11416d",
+        "rgb": [17, 65, 109],
+        "hsl": [208.7, 0.73, 0.25, 1]
+      },
+      {
+        "label": "Antique Blue Medium - 931",
+        "hex": "#6a859e",
+        "rgb": [106, 133, 158],
+        "hsl": [208.85, 0.21, 0.52, 1]
+      },
+      {
+        "label": "Royal Blue Very Dark - 820",
+        "hex": "#0e365c",
+        "rgb": [14, 54, 92],
+        "hsl": [209.23, 0.74, 0.21, 1]
+      },
+      {
+        "label": "Delft Blue Dark - 798",
+        "hex": "#466a8e",
+        "rgb": [70, 106, 142],
+        "hsl": [210, 0.34, 0.42, 1]
+      },
+      {
+        "label": "Antique Blue Ult Vy Lt - 3753",
+        "hex": "#dbe2e9",
+        "rgb": [219, 226, 233],
+        "hsl": [210, 0.24, 0.89, 1]
+      },
+      {
+        "label": "Antique Blue Very Lt - 3752",
+        "hex": "#c7d1db",
+        "rgb": [199, 209, 219],
+        "hsl": [210, 0.22, 0.82, 1]
+      },
+      {
+        "label": "Royal Blue - 797",
+        "hex": "#13477d",
+        "rgb": [19, 71, 125],
+        "hsl": [210.57, 0.74, 0.28, 1]
+      },
+      {
+        "label": "Delft Blue Pale - 800",
+        "hex": "#c0ccde",
+        "rgb": [192, 204, 222],
+        "hsl": [216, 0.31, 0.81, 1]
+      },
+      {
+        "label": "Delft Blue - 809",
+        "hex": "#94a8c6",
+        "rgb": [148, 168, 198],
+        "hsl": [216, 0.3, 0.68, 1]
+      },
+      {
+        "label": "Lavender Blue Med - 3839",
+        "hex": "#7b8eab",
+        "rgb": [123, 142, 171],
+        "hsl": [216.25, 0.22, 0.58, 1]
+      },
+      {
+        "label": "Delft Blue Medium - 799",
+        "hex": "#748eb6",
+        "rgb": [116, 142, 182],
+        "hsl": [216.36, 0.31, 0.58, 1]
+      },
+      {
+        "label": "Lavender Blue Dark - 3838",
+        "hex": "#5c7294",
+        "rgb": [92, 114, 148],
+        "hsl": [216.43, 0.23, 0.47, 1]
+      },
+      {
+        "label": "Lavender Blue Light - 3840",
+        "hex": "#b0c0da",
+        "rgb": [176, 192, 218],
+        "hsl": [217.14, 0.36, 0.77, 1]
+      },
+      {
+        "label": "Navy Blue - 336",
+        "hex": "#253b73",
+        "rgb": [37, 59, 115],
+        "hsl": [223.08, 0.51, 0.3, 1]
+      },
+      {
+        "label": "Cornflower Blue Vy Lt - 157",
+        "hex": "#bbc3d9",
+        "rgb": [187, 195, 217],
+        "hsl": [224, 0.28, 0.79, 1]
+      },
+      {
+        "label": "Cornflower Blue Light - 794",
+        "hex": "#8f9cc1",
+        "rgb": [143, 156, 193],
+        "hsl": [224.4, 0.29, 0.66, 1]
+      },
+      {
+        "label": "Cornflower Blue Med - 793",
+        "hex": "#707da2",
+        "rgb": [112, 125, 162],
+        "hsl": [224.4, 0.21, 0.54, 1]
+      },
+      {
+        "label": "Blue Violet Med Lt - 156",
+        "hex": "#a3aed1",
+        "rgb": [163, 174, 209],
+        "hsl": [225.65, 0.33, 0.73, 1]
+      },
+      {
+        "label": "Navy Blue Very Dark - 939",
+        "hex": "#1b2853",
+        "rgb": [27, 40, 83],
+        "hsl": [226.07, 0.51, 0.22, 1]
+      },
+      {
+        "label": "Navy Blue Dark - 823",
+        "hex": "#213063",
+        "rgb": [33, 48, 99],
+        "hsl": [226.36, 0.5, 0.26, 1]
+      },
+      {
+        "label": "Blue Violet Light - 341",
+        "hex": "#b7bfdd",
+        "rgb": [183, 191, 221],
+        "hsl": [227.37, 0.36, 0.79, 1]
+      },
+      {
+        "label": "Blue Gray Medium - 160",
+        "hex": "#999fb7",
+        "rgb": [153, 159, 183],
+        "hsl": [228, 0.17, 0.66, 1]
+      },
+      {
+        "label": "Blue Gray Light - 159",
+        "hex": "#c7cad7",
+        "rgb": [199, 202, 215],
+        "hsl": [228.75, 0.17, 0.81, 1]
+      },
+      {
+        "label": "Blue Gray - 161",
+        "hex": "#7880a4",
+        "rgb": [120, 128, 164],
+        "hsl": [229.09, 0.19, 0.56, 1]
+      },
+      {
+        "label": "Cornflower Blu M V D - 158",
+        "hex": "#4c526e",
+        "rgb": [76, 82, 110],
+        "hsl": [229.41, 0.18, 0.36, 1]
+      },
+      {
+        "label": "Cornflower Blue - 3807",
+        "hex": "#60678c",
+        "rgb": [96, 103, 140],
+        "hsl": [230.45, 0.19, 0.46, 1]
+      },
+      {
+        "label": "Cornflower Blue Dark - 792",
+        "hex": "#555b7b",
+        "rgb": [85, 91, 123],
+        "hsl": [230.53, 0.18, 0.41, 1]
+      },
+      {
+        "label": "Blue Violet Vy Lt - 3747",
+        "hex": "#d3d7ed",
+        "rgb": [211, 215, 237],
+        "hsl": [230.77, 0.42, 0.88, 1]
+      },
+      {
+        "label": "Pearl Gray - 415",
+        "hex": "#d3d3d6",
+        "rgb": [211, 211, 214],
+        "hsl": [240, 0.04, 0.83, 1]
+      },
+      {
+        "label": "Cornflower Blue V D - 791",
+        "hex": "#464563",
+        "rgb": [70, 69, 99],
+        "hsl": [242, 0.18, 0.33, 1]
+      },
+      {
+        "label": "Blue Violet Medium - 340",
+        "hex": "#ada7c7",
+        "rgb": [173, 167, 199],
+        "hsl": [251.25, 0.22, 0.72, 1]
+      },
+      {
+        "label": "Blue Violet Med Dark - 155",
+        "hex": "#9891b6",
+        "rgb": [152, 145, 182],
+        "hsl": [251.35, 0.2, 0.64, 1]
+      },
+      {
+        "label": "Blue Violet Very Dark - 333",
+        "hex": "#5c5478",
+        "rgb": [92, 84, 120],
+        "hsl": [253.33, 0.18, 0.4, 1]
+      },
+      {
+        "label": "Blue Violet Dark - 3746",
+        "hex": "#776b98",
+        "rgb": [119, 107, 152],
+        "hsl": [256, 0.18, 0.51, 1]
+      },
+      {
+        "label": "Lavender Very Dark - 208",
+        "hex": "#835b8b",
+        "rgb": [131, 91, 139],
+        "hsl": [290, 0.21, 0.45, 1]
+      },
+      {
+        "label": "Lavender Dark - 209",
+        "hex": "#a37ba7",
+        "rgb": [163, 123, 167],
+        "hsl": [294.55, 0.2, 0.57, 1]
+      },
+      {
+        "label": "Violet Dark - 327",
+        "hex": "#633666",
+        "rgb": [99, 54, 102],
+        "hsl": [296.25, 0.31, 0.31, 1]
+      },
+      {
+        "label": "Lavender Ultra Dark - 3837",
+        "hex": "#6c3a6e",
+        "rgb": [108, 58, 110],
+        "hsl": [297.69, 0.31, 0.33, 1]
+      },
+      {
+        "label": "Lavender Light - 211",
+        "hex": "#e3cbe3",
+        "rgb": [227, 203, 227],
+        "hsl": [300, 0.3, 0.84, 1]
+      },
+      {
+        "label": "Lavender Medium - 210",
+        "hex": "#c39fc3",
+        "rgb": [195, 159, 195],
+        "hsl": [300, 0.23, 0.69, 1]
+      },
+      {
+        "label": "Violet Very Dark - 550",
+        "hex": "#5c184e",
+        "rgb": [92, 24, 78],
+        "hsl": [312.35, 0.59, 0.23, 1]
+      },
+      {
+        "label": "Violet Medium - 552",
+        "hex": "#803a6b",
+        "rgb": [128, 58, 107],
+        "hsl": [318, 0.38, 0.36, 1]
+      },
+      {
+        "label": "Grape Medium - 3835",
+        "hex": "#946083",
+        "rgb": [148, 96, 131],
+        "hsl": [319.62, 0.21, 0.48, 1]
+      },
+      {
+        "label": "Antique Violet Vy Lt - 3743",
+        "hex": "#d7cbd3",
+        "rgb": [215, 203, 211],
+        "hsl": [320, 0.13, 0.82, 1]
+      },
+      {
+        "label": "Grape Dark - 3834",
+        "hex": "#72375d",
+        "rgb": [114, 55, 93],
+        "hsl": [321.36, 0.35, 0.33, 1]
+      },
+      {
+        "label": "Violet - 553",
+        "hex": "#a3638b",
+        "rgb": [163, 99, 139],
+        "hsl": [322.5, 0.26, 0.51, 1]
+      },
+      {
+        "label": "Grape Light - 3836",
+        "hex": "#ba91aa",
+        "rgb": [186, 145, 170],
+        "hsl": [323.41, 0.23, 0.65, 1]
+      },
+      {
+        "label": "Violet Light - 554",
+        "hex": "#dbb3cb",
+        "rgb": [219, 179, 203],
+        "hsl": [324, 0.36, 0.78, 1]
+      },
+      {
+        "label": "Plum Ultra Light - 3609",
+        "hex": "#f4aed5",
+        "rgb": [244, 174, 213],
+        "hsl": [326.57, 0.76, 0.82, 1]
+      },
+      {
+        "label": "Plum - 718",
+        "hex": "#9c2462",
+        "rgb": [156, 36, 98],
+        "hsl": [329, 0.63, 0.38, 1]
+      },
+      {
+        "label": "Plum Light - 3607",
+        "hex": "#c54989",
+        "rgb": [197, 73, 137],
+        "hsl": [329.03, 0.52, 0.53, 1]
+      },
+      {
+        "label": "Plum Dark - 915",
+        "hex": "#820043",
+        "rgb": [130, 0, 67],
+        "hsl": [329.08, 1, 0.25, 1]
+      },
+      {
+        "label": "Plum Medium - 917",
+        "hex": "#9b1359",
+        "rgb": [155, 19, 89],
+        "hsl": [329.12, 0.78, 0.34, 1]
+      },
+      {
+        "label": "Plum Very Light - 3608",
+        "hex": "#ea9cc4",
+        "rgb": [234, 156, 196],
+        "hsl": [329.23, 0.65, 0.76, 1]
+      },
+      {
+        "label": "Violet Very Light - 153",
+        "hex": "#e6ccd9",
+        "rgb": [230, 204, 217],
+        "hsl": [330, 0.34, 0.85, 1]
+      },
+      {
+        "label": "Cyclamen Pink Dark - 3804",
+        "hex": "#e02876",
+        "rgb": [224, 40, 118],
+        "hsl": [334.57, 0.75, 0.52, 1]
+      },
+      {
+        "label": "Dusty Rose Ult Vy Dk - 150",
+        "hex": "#ab0249",
+        "rgb": [171, 2, 73],
+        "hsl": [334.79, 0.98, 0.34, 1]
+      },
+      {
+        "label": "Cyclamen Pink - 3805",
+        "hex": "#f3478b",
+        "rgb": [243, 71, 139],
+        "hsl": [336.28, 0.88, 0.62, 1]
+      },
+      {
+        "label": "Cranberry Dark - 601",
+        "hex": "#d1286a",
+        "rgb": [209, 40, 106],
+        "hsl": [336.57, 0.68, 0.49, 1]
+      },
+      {
+        "label": "Antique Violet Light - 3042",
+        "hex": "#b79da7",
+        "rgb": [183, 157, 167],
+        "hsl": [336.92, 0.15, 0.67, 1]
+      },
+      {
+        "label": "Antique Violet Medium - 3041",
+        "hex": "#956f7c",
+        "rgb": [149, 111, 124],
+        "hsl": [339.47, 0.15, 0.51, 1]
+      },
+      {
+        "label": "Antique Violet Dark - 3740",
+        "hex": "#785762",
+        "rgb": [120, 87, 98],
+        "hsl": [340, 0.16, 0.41, 1]
+      },
+      {
+        "label": "Cranberry Very Dark - 600",
+        "hex": "#cd2f63",
+        "rgb": [205, 47, 99],
+        "hsl": [340.25, 0.63, 0.49, 1]
+      },
+      {
+        "label": "Mauve Dark - 3803",
+        "hex": "#ab3357",
+        "rgb": [171, 51, 87],
+        "hsl": [342, 0.54, 0.44, 1]
+      },
+      {
+        "label": "Cyclamen Pink Light - 3806",
+        "hex": "#ff8cae",
+        "rgb": [255, 140, 174],
+        "hsl": [342.26, 1, 0.77, 1]
+      },
+      {
+        "label": "Grape Very Dark - 154",
+        "hex": "#572433",
+        "rgb": [87, 36, 51],
+        "hsl": [342.35, 0.41, 0.24, 1]
+      },
+      {
+        "label": "Cranberry - 603",
+        "hex": "#ffa4be",
+        "rgb": [255, 164, 190],
+        "hsl": [342.86, 1, 0.82, 1]
+      },
+      {
+        "label": "Cranberry Medium - 602",
+        "hex": "#e24874",
+        "rgb": [226, 72, 116],
+        "hsl": [342.86, 0.73, 0.58, 1]
+      },
+      {
+        "label": "Dusty Rose Ultra Dark - 3350",
+        "hex": "#bc4365",
+        "rgb": [188, 67, 101],
+        "hsl": [343.14, 0.47, 0.5, 1]
+      },
+      {
+        "label": "Rose Dark - 309",
+        "hex": "#d62b5b",
+        "rgb": [214, 43, 91],
+        "hsl": [343.16, 0.68, 0.5, 1]
+      },
+      {
+        "label": "Dusty Rose Very Dark - 3731",
+        "hex": "#da6783",
+        "rgb": [218, 103, 131],
+        "hsl": [345.39, 0.61, 0.63, 1]
+      },
+      {
+        "label": "Mauve Very Dark - 3685",
+        "hex": "#881531",
+        "rgb": [136, 21, 49],
+        "hsl": [345.39, 0.73, 0.31, 1]
+      },
+      {
+        "label": "Garnet Dark - 814",
+        "hex": "#7b001b",
+        "rgb": [123, 0, 27],
+        "hsl": [346.83, 1, 0.24, 1]
+      },
+      {
+        "label": "Cranberry Very Light - 605",
+        "hex": "#ffc0cd",
+        "rgb": [255, 192, 205],
+        "hsl": [347.62, 1, 0.88, 1]
+      },
+      {
+        "label": "Dusty Rose - 3733",
+        "hex": "#e8879b",
+        "rgb": [232, 135, 155],
+        "hsl": [347.63, 0.68, 0.72, 1]
+      },
+      {
+        "label": "Melon Light - 3708",
+        "hex": "#ffcbd5",
+        "rgb": [255, 203, 213],
+        "hsl": [348.46, 1, 0.9, 1]
+      },
+      {
+        "label": "Coral Dark - 349",
+        "hex": "#d21035",
+        "rgb": [210, 16, 53],
+        "hsl": [348.56, 0.86, 0.44, 1]
+      },
+      {
+        "label": "Raspberry Light - 3833",
+        "hex": "#ea8699",
+        "rgb": [234, 134, 153],
+        "hsl": [348.6, 0.7, 0.72, 1]
+      },
+      {
+        "label": "Melon Very Dark - 3801",
+        "hex": "#e74967",
+        "rgb": [231, 73, 103],
+        "hsl": [348.61, 0.77, 0.6, 1]
+      },
+      {
+        "label": "Raspberry Dark - 3831",
+        "hex": "#b32f48",
+        "rgb": [179, 47, 72],
+        "hsl": [348.64, 0.58, 0.44, 1]
+      },
+      {
+        "label": "Garnet Medium - 815",
+        "hex": "#87071f",
+        "rgb": [135, 7, 31],
+        "hsl": [348.75, 0.9, 0.28, 1]
+      },
+      {
+        "label": "Bright Red - 666",
+        "hex": "#e31d42",
+        "rgb": [227, 29, 66],
+        "hsl": [348.79, 0.78, 0.5, 1]
+      },
+      {
+        "label": "Melon Dark - 3705",
+        "hex": "#ff7992",
+        "rgb": [255, 121, 146],
+        "hsl": [348.81, 1, 0.74, 1]
+      },
+      {
+        "label": "Raspberry Medium - 3832",
+        "hex": "#db556e",
+        "rgb": [219, 85, 110],
+        "hsl": [348.81, 0.65, 0.6, 1]
+      },
+      {
+        "label": "Raspberry Very Dark - 777",
+        "hex": "#913546",
+        "rgb": [145, 53, 70],
+        "hsl": [348.91, 0.46, 0.39, 1]
+      },
+      {
+        "label": "Garnet Very Dark - 902",
+        "hex": "#822637",
+        "rgb": [130, 38, 55],
+        "hsl": [348.91, 0.55, 0.33, 1]
+      },
+      {
+        "label": "Melon Medium - 3706",
+        "hex": "#ffadbc",
+        "rgb": [255, 173, 188],
+        "hsl": [349.02, 1, 0.84, 1]
+      },
+      {
+        "label": "Antique Mauve Vy Lt - 778",
+        "hex": "#dfb3bb",
+        "rgb": [223, 179, 187],
+        "hsl": [349.09, 0.41, 0.79, 1]
+      },
+      {
+        "label": "Antique Mauve Light - 3727",
+        "hex": "#dba9b2",
+        "rgb": [219, 169, 178],
+        "hsl": [349.2, 0.41, 0.76, 1]
+      },
+      {
+        "label": "Cranberry Light - 604",
+        "hex": "#ffb0be",
+        "rgb": [255, 176, 190],
+        "hsl": [349.37, 1, 0.85, 1]
+      },
+      {
+        "label": "Dusty Rose Vry Lt - 151",
+        "hex": "#f0ced4",
+        "rgb": [240, 206, 212],
+        "hsl": [349.41, 0.53, 0.87, 1]
+      },
+      {
+        "label": "Antique Mauve Med - 316",
+        "hex": "#b7737f",
+        "rgb": [183, 115, 127],
+        "hsl": [349.41, 0.32, 0.58, 1]
+      },
+      {
+        "label": "Antique Mauve Dark - 3726",
+        "hex": "#9b5b66",
+        "rgb": [155, 91, 102],
+        "hsl": [349.69, 0.26, 0.48, 1]
+      },
+      {
+        "label": "Garnet - 816",
+        "hex": "#970b23",
+        "rgb": [151, 11, 35],
+        "hsl": [349.71, 0.86, 0.32, 1]
+      },
+      {
+        "label": "Rose - 335",
+        "hex": "#ee546e",
+        "rgb": [238, 84, 110],
+        "hsl": [349.87, 0.82, 0.63, 1]
+      },
+      {
+        "label": "Carnation Light - 893",
+        "hex": "#fc90a2",
+        "rgb": [252, 144, 162],
+        "hsl": [350, 0.95, 0.78, 1]
+      },
+      {
+        "label": "Carnation Dark - 891",
+        "hex": "#ff5773",
+        "rgb": [255, 87, 115],
+        "hsl": [350, 1, 0.67, 1]
+      },
+      {
+        "label": "Antique Mauve Vy Dk - 3802",
+        "hex": "#714149",
+        "rgb": [113, 65, 73],
+        "hsl": [350, 0.27, 0.35, 1]
+      },
+      {
+        "label": "Red Dark - 498",
+        "hex": "#a7132b",
+        "rgb": [167, 19, 43],
+        "hsl": [350.27, 0.8, 0.36, 1]
+      },
+      {
+        "label": "Antique Mauve Md Dk - 315",
+        "hex": "#814952",
+        "rgb": [129, 73, 82],
+        "hsl": [350.36, 0.28, 0.4, 1]
+      },
+      {
+        "label": "Rose Medium - 899",
+        "hex": "#f27688",
+        "rgb": [242, 118, 136],
+        "hsl": [351.29, 0.83, 0.71, 1]
+      },
+      {
+        "label": "Coral Red Very Dark - 817",
+        "hex": "#bb051f",
+        "rgb": [187, 5, 31],
+        "hsl": [351.43, 0.95, 0.38, 1]
+      },
+      {
+        "label": "Carnation Medium - 892",
+        "hex": "#ff798c",
+        "rgb": [255, 121, 140],
+        "hsl": [351.49, 1, 0.74, 1]
+      },
+      {
+        "label": "Rose Very Dark - 326",
+        "hex": "#b33b4b",
+        "rgb": [179, 59, 75],
+        "hsl": [352, 0.5, 0.47, 1]
+      },
+      {
+        "label": "Red Medium - 304",
+        "hex": "#b71f33",
+        "rgb": [183, 31, 51],
+        "hsl": [352.11, 0.71, 0.42, 1]
+      },
+      {
+        "label": "Pink Medium - 776",
+        "hex": "#fcb0b9",
+        "rgb": [252, 176, 185],
+        "hsl": [352.89, 0.93, 0.84, 1]
+      },
+      {
+        "label": "Carnation Very Light - 894",
+        "hex": "#ffb2bb",
+        "rgb": [255, 178, 187],
+        "hsl": [352.99, 1, 0.85, 1]
+      },
+      {
+        "label": "Red - 321",
+        "hex": "#c72b3b",
+        "rgb": [199, 43, 59],
+        "hsl": [353.85, 0.64, 0.47, 1]
+      },
+      {
+        "label": "Dusty Rose Light - 3354",
+        "hex": "#e4a6ac",
+        "rgb": [228, 166, 172],
+        "hsl": [354.19, 0.53, 0.77, 1]
+      },
+      {
+        "label": "Rose Light - 3326",
+        "hex": "#fbadb4",
+        "rgb": [251, 173, 180],
+        "hsl": [354.62, 0.91, 0.83, 1]
+      },
+      {
+        "label": "Shell Pink Dark - 3721",
+        "hex": "#a14b51",
+        "rgb": [161, 75, 81],
+        "hsl": [355.81, 0.36, 0.46, 1]
+      },
+      {
+        "label": "Shell Pink Vy Dk - 221",
+        "hex": "#883e43",
+        "rgb": [136, 62, 67],
+        "hsl": [355.95, 0.37, 0.39, 1]
+      },
+      {
+        "label": "Mauve - 3687",
+        "hex": "#c96b70",
+        "rgb": [201, 107, 112],
+        "hsl": [356.81, 0.47, 0.6, 1]
+      },
+      {
+        "label": "Mauve Light - 3689",
+        "hex": "#fbbfc2",
+        "rgb": [251, 191, 194],
+        "hsl": [357, 0.88, 0.87, 1]
+      },
+      {
+        "label": "Mauve Medium - 3688",
+        "hex": "#e7a9ac",
+        "rgb": [231, 169, 172],
+        "hsl": [357.1, 0.56, 0.78, 1]
+      }
+    ]
+  },
   "glide": {
     "label": "Glide Thread",
     "swatchLabel": "",
@@ -311,7 +3041,7 @@
       },
       {
         "label": "Mahogany - 20160",
-        "hex": "A1561c",
+        "hex": "#A1561c",
         "rgb": [161, 86, 28],
         "hsl": [26.17, 0.7, 0.37, 1]
       },
@@ -569,7 +3299,7 @@
       },
       {
         "label": "Leather - 20140",
-        "hex": "74531c",
+        "hex": "#74531c",
         "rgb": [116, 83, 28],
         "hsl": [37.5, 0.61, 0.28, 1]
       },
