@@ -3154,7 +3154,6 @@ export const fabricSwatches = {
     label: 'Pantone',
     swatchLabel: '',
     swatches: {
-      'Peach Fuzz - 13 - 1023': '#febd98',
       'Viva Magenta - 18-1750': '#BB2649',
       'Very Peri - 17-3938': '#6667AB',
       'Yellow C': '#FEDD00',
