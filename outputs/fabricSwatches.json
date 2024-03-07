@@ -10936,7 +10936,7 @@
         "hsl": [0, 0, 0.25, 1]
       },
       {
-        "label": "Coral Reef - PE-438",
+        "label": "Coralreef 150px - PE-438",
         "hex": "#F05B57",
         "rgb": [240, 91, 87],
         "hsl": [1.57, 0.84, 0.64, 1]
@@ -11008,13 +11008,13 @@
         "hsl": [14.34, 0.44, 0.5, 1]
       },
       {
-        "label": "Potter’s Clay - PE-507",
+        "label": "Potters Clay - PE-507",
         "hex": "#9B8882",
         "rgb": [155, 136, 130],
         "hsl": [14.4, 0.11, 0.56, 1]
       },
       {
-        "label": "Coffee Bean - PE-429",
+        "label": "Coffeebean - PE-429",
         "hex": "#4E3F3A",
         "rgb": [78, 63, 58],
         "hsl": [15, 0.15, 0.27, 1]
@@ -11032,7 +11032,7 @@
         "hsl": [17.5, 0.57, 0.92, 1]
       },
       {
-        "label": "Apricot Crepe - PE-426",
+        "label": "Apricotcrepe - PE-426",
         "hex": "#F5A685",
         "rgb": [245, 166, 133],
         "hsl": [17.68, 0.85, 0.74, 1]
@@ -11182,13 +11182,13 @@
         "hsl": [36.87, 0.33, 0.49, 1]
       },
       {
-        "label": "Honey - PE-421",
+        "label": "Chocolage - PE-421",
         "hex": "#D4A04D",
         "rgb": [212, 160, 77],
         "hsl": [36.89, 0.61, 0.57, 1]
       },
       {
-        "label": "Smooth Pebble - PE-469",
+        "label": "Smooth Pebble_new - PE-469",
         "hex": "#70685B",
         "rgb": [112, 104, 91],
         "hsl": [37.14, 0.1, 0.4, 1]
@@ -11242,7 +11242,7 @@
         "hsl": [40, 0.06, 0.9, 1]
       },
       {
-        "label": "Lava Rock - PE-550",
+        "label": "Lava Rock 2 - PE-550",
         "hex": "#343331",
         "rgb": [52, 51, 49],
         "hsl": [40, 0.03, 0.2, 1]
@@ -11254,7 +11254,7 @@
         "hsl": [40.8, 0.37, 0.27, 1]
       },
       {
-        "label": "Banana Cream - PE-435",
+        "label": "Bananacream - PE-435",
         "hex": "#FFCC56",
         "rgb": [255, 204, 86],
         "hsl": [41.89, 1, 0.67, 1]
@@ -11338,7 +11338,7 @@
         "hsl": [63.33, 0.65, 0.73, 1]
       },
       {
-        "label": "Light Grey - PE-419",
+        "label": "Light Gray - PE-419",
         "hex": "#D4D5C3",
         "rgb": [212, 213, 195],
         "hsl": [63.33, 0.18, 0.8, 1]
@@ -11362,7 +11362,7 @@
         "hsl": [69.37, 0.14, 0.55, 1]
       },
       {
-        "label": "Patina Green - PE-447",
+        "label": " Patina Green - PE-447",
         "hex": "#8F9965",
         "rgb": [143, 153, 101],
         "hsl": [71.54, 0.2, 0.5, 1]
@@ -11518,7 +11518,7 @@
         "hsl": [177, 0.18, 0.78, 1]
       },
       {
-        "label": "Mirage Blue - PE-424",
+        "label": "Mirageblue - PE-424",
         "hex": "#6DBFBB",
         "rgb": [109, 191, 187],
         "hsl": [177.07, 0.39, 0.59, 1]
@@ -11566,28 +11566,28 @@
         "hsl": [188.63, 0.93, 0.29, 1]
       },
       {
-        "label": "Tranquil Waters - PE-434",
+        "label": "Tranquilwaters 150px - PE-434",
         "hex": "#A3CFDC",
         "rgb": [163, 207, 220],
         "hsl": [193.68, 0.45, 0.75, 1]
       },
       {
-        "label": "Mediterraneo - PE-454",
+        "label": " Mediterraneo - PE-454",
         "hex": "#3E525D",
         "rgb": [62, 82, 93],
         "hsl": [201.29, 0.2, 0.3, 1]
+      },
+      {
+        "label": "Denim Blue - PE-465",
+        "hex": "#53687D",
+        "rgb": [83, 104, 125],
+        "hsl": [210, 0.2, 0.41, 1]
       },
       {
         "label": "Parisian Blue - PE-415",
         "hex": "#517CA9",
         "rgb": [81, 124, 169],
         "hsl": [210.68, 0.35, 0.49, 1]
-      },
-      {
-        "label": "Denim Blue - PE-465",
-        "hex": "#53677D",
-        "rgb": [83, 103, 125],
-        "hsl": [211.43, 0.2, 0.41, 1]
       },
       {
         "label": "Aero Blue - PE-477",
@@ -11614,7 +11614,7 @@
         "hsl": [217.14, 0.29, 0.86, 1]
       },
       {
-        "label": "Deep Black - Double Dip Dyed - PE-499",
+        "label": "Deep Black - PE-499",
         "hex": "#050608",
         "rgb": [5, 6, 8],
         "hsl": [220, 0.23, 0.03, 1]
@@ -11662,7 +11662,7 @@
         "hsl": [234.71, 0.16, 0.42, 1]
       },
       {
-        "label": "Royal Cobalt - PE-455",
+        "label": " Royal Cobalt - PE-455",
         "hex": "#434A98",
         "rgb": [67, 74, 152],
         "hsl": [235.06, 0.39, 0.43, 1]
@@ -11728,7 +11728,7 @@
         "hsl": [321.67, 0.33, 0.43, 1]
       },
       {
-        "label": "Rock Candy (avl May 2022) - PE-535",
+        "label": "Rock Candy - PE-535",
         "hex": "#D788B8",
         "rgb": [215, 136, 184],
         "hsl": [323.54, 0.5, 0.69, 1]
@@ -11740,13 +11740,13 @@
         "hsl": [324.19, 0.42, 0.71, 1]
       },
       {
-        "label": "Very Berry - PE-475",
+        "label": " Very Berry - PE-475",
         "hex": "#A13A72",
         "rgb": [161, 58, 114],
         "hsl": [327.38, 0.47, 0.43, 1]
       },
       {
-        "label": "Mystic Grey - PE-431",
+        "label": "Mysticgrey - PE-431",
         "hex": "#C0BEBF",
         "rgb": [192, 190, 191],
         "hsl": [330, 0.02, 0.75, 1]
@@ -11770,7 +11770,7 @@
         "hsl": [334.65, 0.82, 0.66, 1]
       },
       {
-        "label": "Raspberry Rose - PE-439",
+        "label": "Craspberryrose 150px - PE-439",
         "hex": "#D73076",
         "rgb": [215, 48, 118],
         "hsl": [334.85, 0.68, 0.52, 1]
@@ -11795,9 +11795,9 @@
       },
       {
         "label": "Sugar Plum - PE-506",
-        "hex": "#C292A1",
-        "rgb": [194, 146, 161],
-        "hsl": [341.25, 0.28, 0.67, 1]
+        "hex": "#C191A1",
+        "rgb": [193, 145, 161],
+        "hsl": [340, 0.28, 0.66, 1]
       },
       {
         "label": "Dragon Fruit - PE-511",
@@ -11884,7 +11884,7 @@
         "hsl": [358.18, 0.41, 0.52, 1]
       },
       {
-        "label": "London Red - PE-437",
+        "label": "Londonred 150px - PE-437",
         "hex": "#D72227",
         "rgb": [215, 34, 39],
         "hsl": [358.34, 0.73, 0.49, 1]
