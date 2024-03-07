@@ -11,7 +11,7 @@ yarn run illustrator_convert
 
 mkdir tmp/
 
-declare -a arr=("dmc" "americanMade" "andoverCenturySolids" "artGallery" "aurifilThread"
+declare -a arr=("rubyBee" "dmc" "americanMade" "andoverCenturySolids" "artGallery" "aurifilThread"
 "devonstone" "freeSpirit" "glide" "kona" "michaelMiller" "modaBella"
 "northcott" "paintBrushStudio" "rileyBlake" "rjrCottonSupreme"
 "spoonflower" "tilda" "wonderfil")
