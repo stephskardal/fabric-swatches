@@ -1,7 +1,7 @@
 export const fabricSwatches = {
   rubyBee: {
-    label: 'Ruby + Bee Solids',
-    swatchLabel: 'Windham Fabrics',
+    brand: 'Windham Fabrics',
+    line: 'Ruby + Bee Solids',
     swatches: {
       Claret: '#7e1725',
       Capsicum: '#ce2c1e',
@@ -58,8 +58,8 @@ export const fabricSwatches = {
     }
   },
   dmc: {
-    label: 'DMC Floss',
-    swatchLabel: '',
+    brand: '',
+    line: 'DMC Floss',
     swatches: {
       'Salmon Very Light - 3713': '#ffe2e2',
       'Salmon Light - 761': '#ffc9c9',
@@ -518,8 +518,8 @@ export const fabricSwatches = {
     }
   },
   glide: {
-    label: 'Glide Thread',
-    swatchLabel: '',
+    brand: 'Fil-Tec',
+    line: 'Glide Thread',
     swatches: {
       'White - 10000': '#FFFFFF',
       'Super White - 10002': '#F2F0FF',
@@ -878,8 +878,8 @@ export const fabricSwatches = {
     }
   },
   tilda: {
-    label: 'Tilda Basics',
-    swatchLabel: '',
+    line: 'Tilda',
+    brand: 'Basics',
     swatches: {
       '120049 White': '#ffffff',
       '120001 Dove White': '#f4ede5',
@@ -933,8 +933,8 @@ export const fabricSwatches = {
     }
   },
   devonstone: {
-    label: 'Devonstone Solids',
-    swatchLabel: '',
+    line: 'Devonstone Solids',
+    brand: '',
     swatches: {
       'DV000 - 10TH ANNIVERSARY ZEBRA GREEN': '#6abf4b',
       'DV001 - DEEP BLACK': '#231f20',
@@ -1083,8 +1083,8 @@ export const fabricSwatches = {
     }
   },
   wonderfil: {
-    label: 'WonderFil Thread',
-    swatchLabel: 'Konfetti 50wt Long Staple Egyptian Cotton',
+    brand: 'WonderFil Thread',
+    line: 'Konfetti 50wt Long Staple Egyptian Cotton',
     swatches: {
       'White - KT100': '#F1F1EF',
       'Soft White - KT101': '#E8E6D9',
@@ -1209,8 +1209,8 @@ export const fabricSwatches = {
     }
   },
   spoonflower: {
-    label: 'Spoonflower',
-    swatchLabel: 'Petal Signature Cotton Solids',
+    brand: 'Spoonflower',
+    line: 'Petal Signature Cotton Solids',
     swatches: {
       White: '#FFFFFF',
       Natural: '#FEFDF4',
@@ -1265,8 +1265,8 @@ export const fabricSwatches = {
     }
   },
   northcott: {
-    label: 'Northcott',
-    swatchLabel: 'ColorWorks Premium Solids',
+    brand: 'Northcott',
+    line: 'ColorWorks Premium Solids',
     swatches: {
       'SNOW 9000-10': '#FFFDFA',
       'EGGSHELL 9000-11': '#FFFEF2',
@@ -1431,8 +1431,8 @@ export const fabricSwatches = {
     }
   },
   aurifilThread: {
-    label: 'Aurifil Thread',
-    swatchLabel: '50wt Cotton',
+    brand: 'Aurifil Thread',
+    line: '50wt Cotton',
     swatches: {
       'Red Plum 1100': '#9C0057',
       'Burgundy 1103': '#912C45',
@@ -1707,8 +1707,8 @@ export const fabricSwatches = {
     }
   },
   paintBrushStudio: {
-    label: 'Paintbrush Studio Fabrics',
-    swatchLabel: "Painter's Palette Solids",
+    brand: 'Paintbrush Studio Fabrics',
+    line: "Painter's Palette Solids",
     swatches: {
       '000 White': '#F9F9F9',
       '001 Midnight': '#313842',
@@ -1922,8 +1922,8 @@ export const fabricSwatches = {
     }
   },
   artGallery: {
-    label: 'Art Gallery Fabrics',
-    swatchLabel: 'PURE Solids',
+    brand: 'Art Gallery Fabrics',
+    line: 'PURE Solids',
     swatches: {
       'PE-400 Cabernet': '#432A3D',
       'PES- 910 Nova': '#1A2B35',
@@ -2110,8 +2110,8 @@ export const fabricSwatches = {
     }
   },
   freeSpirit: {
-    label: 'Free Spirit',
-    swatchLabel: 'Designer Essential Solids',
+    brand: 'Free Spirit',
+    line: 'Designer Essential Solids',
     swatches: {
       sorbet: '#d1c7e0',
       orchid: '#baa4cb',
@@ -2259,8 +2259,8 @@ export const fabricSwatches = {
     }
   },
   rileyBlake: {
-    label: 'Riley Blake Designs',
-    swatchLabel: 'Confetti Cottons',
+    brand: 'Riley Blake Designs',
+    line: 'Confetti Cottons',
     swatches: {
       purple: '#813f7f',
       eggplant: '#592567',
@@ -2380,8 +2380,8 @@ export const fabricSwatches = {
     }
   },
   kona: {
-    label: 'Robert Kaufman',
-    swatchLabel: 'Kona Cotton',
+    brand: 'Robert Kaufman',
+    line: 'Kona Cotton',
     swatches: {
       julep: '#b7f0d7',
       cosmos: '#a938ab',
@@ -2760,8 +2760,8 @@ export const fabricSwatches = {
     }
   },
   modaBella: {
-    label: 'Moda Fabrics',
-    swatchLabel: 'Bella Solids',
+    brand: 'Moda Fabrics',
+    line: 'Bella Solids',
     swatches: {
       'Black - 9900-99': '#151a1e',
       'Snow - 9900-11': '#e0ddca',
@@ -3085,8 +3085,8 @@ export const fabricSwatches = {
     }
   },
   americanMade: {
-    label: 'Clothworks',
-    swatchLabel: 'American Made Brand Cotton Solids',
+    brand: 'Clothworks',
+    line: 'American Made Brand Cotton Solids',
     swatches: {
       'AMB-78 dark fuchsia': '#a80079',
       'AMB-27 purple': '#887fd8',
@@ -3179,8 +3179,8 @@ export const fabricSwatches = {
     }
   },
   michaelMiller: {
-    label: 'Michael Miller Fabrics',
-    swatchLabel: 'Cotton Couture',
+    brand: 'Michael Miller Fabrics',
+    line: 'Cotton Couture',
     swatches: {
       brightwhite: '#FEFEFD',
       hyacinth: '#5D5195',
@@ -3361,8 +3361,8 @@ export const fabricSwatches = {
     }
   },
   rjrCottonSupreme: {
-    label: 'RJR Fabrics',
-    swatchLabel: 'Cotton Supreme Solids',
+    brand: 'RJR Fabrics',
+    line: 'Cotton Supreme Solids',
     swatches: {
       "robin's egg": '#53BDB9',
       'orange crush': '#EE2F0D',
@@ -3583,8 +3583,8 @@ export const fabricSwatches = {
     }
   },
   andoverCenturySolids: {
-    label: 'Andover Fabrics',
-    swatchLabel: 'Century Solids',
+    brand: 'Andover Fabrics',
+    line: 'Century Solids',
     swatches: {
       Almond: '#eeddb2',
       Aqua: '#90e2d4',
@@ -3689,8 +3689,8 @@ export const fabricSwatches = {
     }
   },
   pantone: {
-    label: 'Pantone',
-    swatchLabel: '',
+    line: 'Pantone',
+    brand: '',
     swatches: {
       'Viva Magenta - 18-1750': '#BB2649',
       'Very Peri - 17-3938': '#6667AB',

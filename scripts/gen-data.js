@@ -67,9 +67,14 @@ const generate = async () => {
     ).sort(function(a, b) {
       return a.hsl[0] - b.hsl[0];
     })
+    let label = fabricSwatches[key].line;
+    if(fabricSwatches[key].brand !== "") {
+      label = `${fabricSwatches[key].brand} ${label}`
+    }
     newSwatches[key] = {
-      label: fabricSwatches[key].label,
-      swatchLabel: fabricSwatches[key].swatchLabel,
+      brand: fabricSwatches[key].brand,
+      line: fabricSwatches[key].line,
+      label: label,
       swatches: newSwatchSet
     }
   })

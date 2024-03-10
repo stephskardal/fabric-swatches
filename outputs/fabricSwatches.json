@@ -1,7 +1,8 @@
 {
   "rubyBee": {
-    "label": "Ruby + Bee Solids",
-    "swatchLabel": "Windham Fabrics",
+    "brand": "Windham Fabrics",
+    "line": "Ruby + Bee Solids",
+    "label": "Windham Fabrics Ruby + Bee Solids",
     "swatches": [
       {
         "label": "Shell Pink",
@@ -318,8 +319,9 @@
     ]
   },
   "dmc": {
+    "brand": "",
+    "line": "DMC Floss",
     "label": "DMC Floss",
-    "swatchLabel": "",
     "swatches": [
       {
         "label": "Salmon Very Light - 3713",
@@ -3048,8 +3050,9 @@
     ]
   },
   "glide": {
-    "label": "Glide Thread",
-    "swatchLabel": "",
+    "brand": "Fil-Tec",
+    "line": "Glide Thread",
+    "label": "Fil-Tec Glide Thread",
     "swatches": [
       {
         "label": "White - 10000",
@@ -5178,8 +5181,9 @@
     ]
   },
   "tilda": {
-    "label": "Tilda Basics",
-    "swatchLabel": "",
+    "brand": "Basics",
+    "line": "Tilda",
+    "label": "Basics Tilda",
     "swatches": [
       {
         "label": "White - 120049",
@@ -5478,8 +5482,9 @@
     ]
   },
   "devonstone": {
+    "brand": "",
+    "line": "Devonstone Solids",
     "label": "Devonstone Solids",
-    "swatchLabel": "",
     "swatches": [
       {
         "label": "Bright White - DV002",
@@ -6348,8 +6353,9 @@
     ]
   },
   "wonderfil": {
-    "label": "WonderFil Thread",
-    "swatchLabel": "Konfetti 50wt Long Staple Egyptian Cotton",
+    "brand": "WonderFil Thread",
+    "line": "Konfetti 50wt Long Staple Egyptian Cotton",
+    "label": "WonderFil Thread Konfetti 50wt Long Staple Egyptian Cotton",
     "swatches": [
       {
         "label": "Shell - KT414",
@@ -7074,8 +7080,9 @@
     ]
   },
   "spoonflower": {
-    "label": "Spoonflower",
-    "swatchLabel": "Petal Signature Cotton Solids",
+    "brand": "Spoonflower",
+    "line": "Petal Signature Cotton Solids",
+    "label": "Spoonflower Petal Signature Cotton Solids",
     "swatches": [
       {
         "label": "White",
@@ -7380,8 +7387,9 @@
     ]
   },
   "northcott": {
-    "label": "Northcott",
-    "swatchLabel": "ColorWorks Premium Solids",
+    "brand": "Northcott",
+    "line": "ColorWorks Premium Solids",
+    "label": "Northcott ColorWorks Premium Solids",
     "swatches": [
       {
         "label": "Black - 9000-99",
@@ -8346,8 +8354,9 @@
     ]
   },
   "aurifilThread": {
-    "label": "Aurifil Thread",
-    "swatchLabel": "50wt Cotton",
+    "brand": "Aurifil Thread",
+    "line": "50wt Cotton",
+    "label": "Aurifil Thread 50wt Cotton",
     "swatches": [
       {
         "label": "White - 2024",
@@ -9972,8 +9981,9 @@
     ]
   },
   "paintBrushStudio": {
-    "label": "Paintbrush Studio Fabrics",
-    "swatchLabel": "Painter's Palette Solids",
+    "brand": "Paintbrush Studio Fabrics",
+    "line": "Painter's Palette Solids",
+    "label": "Paintbrush Studio Fabrics Painter's Palette Solids",
     "swatches": [
       {
         "label": "White - 000",
@@ -11232,8 +11242,9 @@
     ]
   },
   "artGallery": {
-    "label": "Art Gallery Fabrics",
-    "swatchLabel": "PURE Solids",
+    "brand": "Art Gallery Fabrics",
+    "line": "PURE Solids",
+    "label": "Art Gallery Fabrics PURE Solids",
     "swatches": [
       {
         "label": "Caviar - PE-413",
@@ -12330,8 +12341,9 @@
     ]
   },
   "freeSpirit": {
-    "label": "Free Spirit",
-    "swatchLabel": "Designer Essential Solids",
+    "brand": "Free Spirit",
+    "line": "Designer Essential Solids",
+    "label": "Free Spirit Designer Essential Solids",
     "swatches": [
       {
         "label": "Pepper",
@@ -13194,8 +13206,9 @@
     ]
   },
   "rileyBlake": {
-    "label": "Riley Blake Designs",
-    "swatchLabel": "Confetti Cottons",
+    "brand": "Riley Blake Designs",
+    "line": "Confetti Cottons",
+    "label": "Riley Blake Designs Confetti Cottons",
     "swatches": [
       {
         "label": "Crayola Scarlet",
@@ -13890,8 +13903,9 @@
     ]
   },
   "kona": {
-    "label": "Robert Kaufman",
-    "swatchLabel": "Kona Cotton",
+    "brand": "Robert Kaufman",
+    "line": "Kona Cotton",
+    "label": "Robert Kaufman Kona Cotton",
     "swatches": [
       {
         "label": "Charcoal",
@@ -16140,8 +16154,9 @@
     ]
   },
   "modaBella": {
-    "label": "Moda Fabrics",
-    "swatchLabel": "Bella Solids",
+    "brand": "Moda Fabrics",
+    "line": "Bella Solids",
+    "label": "Moda Fabrics Bella Solids",
     "swatches": [
       {
         "label": "White Bleached - 9900-98",
@@ -18060,8 +18075,9 @@
     ]
   },
   "americanMade": {
-    "label": "Clothworks",
-    "swatchLabel": "American Made Brand Cotton Solids",
+    "brand": "Clothworks",
+    "line": "American Made Brand Cotton Solids",
+    "label": "Clothworks American Made Brand Cotton Solids",
     "swatches": [
       {
         "label": "Prepared For Dyeing - AMB-191",
@@ -18594,8 +18610,9 @@
     ]
   },
   "michaelMiller": {
-    "label": "Michael Miller Fabrics",
-    "swatchLabel": "Cotton Couture",
+    "brand": "Michael Miller Fabrics",
+    "line": "Cotton Couture",
+    "label": "Michael Miller Fabrics Cotton Couture",
     "swatches": [
       {
         "label": "Nickel",
@@ -19656,8 +19673,9 @@
     ]
   },
   "rjrCottonSupreme": {
-    "label": "RJR Fabrics",
-    "swatchLabel": "Cotton Supreme Solids",
+    "brand": "RJR Fabrics",
+    "line": "Cotton Supreme Solids",
+    "label": "RJR Fabrics Cotton Supreme Solids",
     "swatches": [
       {
         "label": "Black",
@@ -20952,8 +20970,9 @@
     ]
   },
   "andoverCenturySolids": {
-    "label": "Andover Fabrics",
-    "swatchLabel": "Century Solids",
+    "brand": "Andover Fabrics",
+    "line": "Century Solids",
+    "label": "Andover Fabrics Century Solids",
     "swatches": [
       {
         "label": "Black",
@@ -21558,8 +21577,9 @@
     ]
   },
   "pantone": {
+    "brand": "",
+    "line": "Pantone",
     "label": "Pantone",
-    "swatchLabel": "",
     "swatches": [
       {
         "label": "7616 C",
