@@ -2457,9 +2457,6 @@ export const fabricSwatches = {
     brand: 'Robert Kaufman',
     line: 'Kona Cotton',
     swatches: {
-      julep: '#b7f0d7',
-      cosmos: '#a938ab',
-      crush: '#e7334c',
       'baby pink': '#fdc3cf',
       peony: '#fec2c7',
       'med. pink': '#feafb9',
@@ -2830,7 +2827,11 @@ export const fabricSwatches = {
       'tiger lily (coty 2018)': '#e84925',
       'splash (coty 2019)': '#0fdada',
       'enchanted (coty 2020)': '#017b66',
-      'horizon (coty 2021)': '#4bd4f8'
+      'horizon (coty 2021)': '#4bd4f8',
+      'cosmos (coty 2022)': '#a938ab',
+      'crush (coty 2023)': '#e7334c',
+      'julep (coty 2024)': '#b7f0d7',
+      'nocturne (coty 2025)': '#5e2a6a'
     }
   },
   modaBella: {
