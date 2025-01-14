@@ -2941,16 +2941,16 @@ export const fabricSwatches = {
       'gotham grey': '#414a47',
       pepper: '#263435',
       black: '#242625',
-      'highlight (coty 2016)': '#fdeb69',
-      'pink flamingo (coty 2017)': '#fb8083',
-      'tiger lily (coty 2018)': '#e84925',
-      'splash (coty 2019)': '#0fdada',
-      'enchanted (coty 2020)': '#017b66',
-      'horizon (coty 2021)': '#4bd4f8',
-      'cosmos (coty 2022)': '#a938ab',
-      'crush (coty 2023)': '#e7334c',
-      'julep (coty 2024)': '#b7f0d7',
-      'nocturne (coty 2025)': '#5e2a6a'
+      'highlight (COTY 2016)': '#fdeb69',
+      'pink flamingo (COTY 2017)': '#fb8083',
+      'tiger lily (COTY 2018)': '#e84925',
+      'splash (COTY 2019)': '#0fdada',
+      'enchanted (COTY 2020)': '#017b66',
+      'horizon (COTY 2021)': '#4bd4f8',
+      'cosmos (COTY 2022)': '#a938ab',
+      'crush (COTY 2023)': '#e7334c',
+      'julep (COTY 2024)': '#b7f0d7',
+      'nocturne (COTY 2025)': '#5e2a6a'
     }
   },
   modaBella: {

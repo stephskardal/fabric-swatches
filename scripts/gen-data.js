@@ -6,7 +6,7 @@ const capitalize = (str) => {
   return str.toLowerCase()
     .split(' ')
     .map((s) => s.charAt(0).toUpperCase() + s.substring(1))
-    .join(' ');
+    .join(' ').replace(/coty /, 'COTY ');
 };
 
 export const colorColorSorting = {
@@ -56,12 +56,11 @@ const generate = async () => {
       (swatch) => {
         let hex = fabricSwatches[key].swatches[swatch]
         let color = chroma(hex)
-        let hsv = color.hsl().map((z) => parseFloat(z.toFixed(2)) || 0)
+        let hsl = color.hsl().map((z) => parseFloat(z.toFixed(2)) || 0)
         return {
           label: filters(key, swatch),
           hex: hex,
-          rgb: color.rgb(),
-          hsl: hsv // tricky
+          hsl: hsl // tricky
         }
       }
     ).sort(function(a, b) {
