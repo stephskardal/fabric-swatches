@@ -84,8 +84,12 @@ module Procreate
 
       def zip_content!
         temp_file = create_temp_swatches_file!
+        filename = generate_unique_filename
 
-        Zip::File.open(generate_unique_filename, Zip::File::CREATE) do |zipfile|
+        # Delete the file if it exists to avoid conflicts
+        File.delete(filename) if File.exist?(filename)
+
+        Zip::File.open(filename, Zip::File::CREATE) do |zipfile|
           zipfile.add(SWATCHES_FILE_NAME, temp_file)
         end
       end
