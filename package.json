@@ -3,7 +3,12 @@
   "license": "MIT",
   "scripts": {
     "generate": "node scripts/gen-data.js; yarn run prettier -w outputs",
-    "illustrator_convert": "npx tsx ./illustrator/src/index.ts"
+    "illustrator_convert": "npx tsx ./illustrator/src/index.ts",
+    "extract-hex": "node scripts/get_hex_codes.js",
+    "extract-hex-detailed": "node scripts/extract_ase_hex.js",
+    "extract-hex:custom": "node scripts/get_hex_codes.js [path/to/file.ase]",
+    "extract-hex-detailed:custom": "node scripts/extract_ase_hex.js [path/to/file.ase]",
+    "update-riley-blake": "node scripts/update_riley_blake.js"
   },
   "type": "module",
   "dependencies": {

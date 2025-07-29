@@ -9959,621 +9959,594 @@
     "line": "Confetti Cottons",
     "label": "Riley Blake Designs Confetti Cottons",
     "swatches": [
-      { "label": "Bright White", "hex": "#ffffff", "hsl": [0, 0, 1, 1] },
-      { "label": "Frosting", "hex": "#fcd4d4", "hsl": [0, 0.87, 0.91, 1] },
-      { "label": "Lipstick", "hex": "#f48282", "hsl": [0, 0.84, 0.73, 1] },
-      { "label": "Riley Black", "hex": "#010101", "hsl": [0, 0, 0, 1] },
-      { "label": "Truffle", "hex": "#5c4f4f", "hsl": [0, 0.08, 0.34, 1] },
-      {
-        "label": "Prepared For Dye White",
-        "hex": "#ffffff",
-        "hsl": [0, 0, 1, 1]
-      },
-      { "label": "Pitch Black", "hex": "#f2b5b4", "hsl": [0.97, 0.7, 0.83, 1] },
-      {
-        "label": "Pretty In Pink",
-        "hex": "#f2b5b4",
-        "hsl": [0.97, 0.7, 0.83, 1]
-      },
-      { "label": "Prettypink", "hex": "#f2b5b4", "hsl": [0.97, 0.7, 0.83, 1] },
-      { "label": "Blossom", "hex": "#fac0bf", "hsl": [1.02, 0.86, 0.86, 1] },
-      { "label": "Red Hen", "hex": "#e52e2a", "hsl": [1.28, 0.78, 0.53, 1] },
-      { "label": "Grapefruit", "hex": "#f7a19e", "hsl": [2.02, 0.85, 0.79, 1] },
-      {
-        "label": "Pink Dogwood",
-        "hex": "#f2d8d7",
-        "hsl": [2.22, 0.51, 0.9, 1]
-      },
-      {
-        "label": "Mellow Rose",
-        "hex": "#e6a9a4",
-        "hsl": [4.55, 0.57, 0.77, 1]
-      },
-      { "label": "Adobe", "hex": "#a94b43", "hsl": [4.71, 0.43, 0.46, 1] },
-      { "label": "Rouge", "hex": "#ee6255", "hsl": [5.1, 0.82, 0.63, 1] },
-      { "label": "Espresso", "hex": "#3b3130", "hsl": [5.45, 0.1, 0.21, 1] },
-      {
-        "label": "Burnt Orange",
-        "hex": "#bd493c",
-        "hsl": [6.05, 0.52, 0.49, 1]
-      },
-      { "label": "Terracotta", "hex": "#9c443a", "hsl": [6.12, 0.46, 0.42, 1] },
-      {
-        "label": "Peaches 'n Cream",
-        "hex": "#fccbc4",
-        "hsl": [7.5, 0.9, 0.88, 1]
-      },
-      { "label": "Riley Brown", "hex": "#6b4c47", "hsl": [8.33, 0.2, 0.35, 1] },
-      { "label": "Parfait", "hex": "#f9ada0", "hsl": [8.76, 0.88, 0.8, 1] },
-      { "label": "Salmon", "hex": "#f5826d", "hsl": [9.26, 0.87, 0.69, 1] },
-      {
-        "label": "Apricot Blush",
-        "hex": "#ec8f7e",
-        "hsl": [9.27, 0.74, 0.71, 1]
-      },
-      { "label": "Autumn", "hex": "#df5f46", "hsl": [9.8, 0.71, 0.57, 1] },
-      { "label": "Raisin", "hex": "#6d5853", "hsl": [11.54, 0.14, 0.38, 1] },
-      { "label": "Rusty", "hex": "#cd4e2d", "hsl": [12.38, 0.64, 0.49, 1] },
-      { "label": "Papaya", "hex": "#f58462", "hsl": [13.88, 0.88, 0.67, 1] },
-      { "label": "Bwhite2", "hex": "#f8e9e4", "hsl": [15, 0.59, 0.93, 1] },
-      { "label": "Champagne", "hex": "#f8e9e4", "hsl": [15, 0.59, 0.93, 1] },
-      {
-        "label": "Champagnepink",
-        "hex": "#f8e9e4",
-        "hsl": [15, 0.59, 0.93, 1]
-      },
+      { "label": "Bright White", "hex": "#FFFFFF", "hsl": [0, 0, 1, 1] },
+      { "label": "Pitch Black", "hex": "#000000", "hsl": [0, 0, 0, 1] },
+      { "label": "Red Hen", "hex": "#F70A0A", "hsl": [0, 0.94, 0.5, 1] },
+      { "label": "Autumn", "hex": "#E83A38", "hsl": [0.68, 0.79, 0.56, 1] },
+      { "label": "Papaya", "hex": "#FF6661", "hsl": [1.9, 1, 0.69, 1] },
+      { "label": "Riley Melon", "hex": "#FF8575", "hsl": [6.96, 1, 0.73, 1] },
+      { "label": "Latte", "hex": "#F7E8E6", "hsl": [7.06, 0.52, 0.94, 1] },
+      { "label": "Rusty", "hex": "#D32A0C", "hsl": [9.05, 0.89, 0.44, 1] },
+      { "label": "Marmalade", "hex": "#FFA896", "hsl": [10.29, 1, 0.79, 1] },
       {
         "label": "Riley Orange",
-        "hex": "#e85a26",
-        "hsl": [16.08, 0.81, 0.53, 1]
+        "hex": "#F53303",
+        "hsl": [11.9, 0.98, 0.49, 1]
       },
-      { "label": "Ballerina", "hex": "#f7e4dd", "hsl": [16.15, 0.62, 0.92, 1] },
-      { "label": "Rustic", "hex": "#7a726f", "hsl": [16.36, 0.05, 0.46, 1] },
-      {
-        "label": "Riley Melon",
-        "hex": "#f89a76",
-        "hsl": [16.62, 0.9, 0.72, 1]
-      },
-      { "label": "Brownie", "hex": "#4d3126", "hsl": [16.92, 0.34, 0.23, 1] },
-      { "label": "Milk Can", "hex": "#74655e", "hsl": [19.09, 0.1, 0.41, 1] },
-      { "label": "Pumpkin", "hex": "#e16f39", "hsl": [19.29, 0.74, 0.55, 1] },
-      { "label": "Marmalade", "hex": "#fbb593", "hsl": [19.62, 0.93, 0.78, 1] },
-      { "label": "Tangerine", "hex": "#f48045", "hsl": [20.23, 0.89, 0.61, 1] },
-      { "label": "Squash", "hex": "#dd7f4c", "hsl": [21.1, 0.68, 0.58, 1] },
-      { "label": "Mink", "hex": "#7e736d", "hsl": [21.18, 0.07, 0.46, 1] },
-      { "label": "Wheat", "hex": "#dfcbc0", "hsl": [21.29, 0.33, 0.81, 1] },
-      {
-        "label": "Brown Sugar",
-        "hex": "#9f806d",
-        "hsl": [22.8, 0.21, 0.53, 1]
-      },
-      { "label": "Pewter", "hex": "#b5a8a0", "hsl": [22.86, 0.12, 0.67, 1] },
-      { "label": "Cinnamon", "hex": "#ad734e", "hsl": [23.37, 0.38, 0.49, 1] },
+      { "label": "Brownie", "hex": "#38211B", "hsl": [12.41, 0.35, 0.16, 1] },
+      { "label": "Tangerine", "hex": "#FF6133", "hsl": [13.53, 1, 0.6, 1] },
+      { "label": "Pumpkin", "hex": "#EB5221", "hsl": [14.55, 0.83, 0.53, 1] },
+      { "label": "Shell", "hex": "#FFD9CC", "hsl": [15.29, 1, 0.9, 1] },
+      { "label": "Squash", "hex": "#E3683A", "hsl": [16.33, 0.75, 0.56, 1] },
+      { "label": "Cinnamon", "hex": "#A76340", "hsl": [20.39, 0.45, 0.45, 1] },
       {
         "label": "Teddy Bear",
-        "hex": "#8d6448",
-        "hsl": [24.35, 0.32, 0.42, 1]
+        "hex": "#81543A",
+        "hsl": [21.97, 0.38, 0.37, 1]
       },
-      { "label": "Shell", "hex": "#fdddc6", "hsl": [25.09, 0.93, 0.88, 1] },
-      { "label": "Maple", "hex": "#ad815e", "hsl": [26.58, 0.33, 0.52, 1] },
-      { "label": "Amber", "hex": "#c9712a", "hsl": [26.79, 0.65, 0.48, 1] },
-      { "label": "Caramel", "hex": "#b67239", "hsl": [27.36, 0.52, 0.47, 1] },
-      { "label": "Sesame", "hex": "#efdccb", "hsl": [28.33, 0.53, 0.87, 1] },
-      { "label": "Nutmeg", "hex": "#b1865e", "hsl": [28.92, 0.35, 0.53, 1] },
-      { "label": "Chestnut", "hex": "#94765a", "hsl": [28.97, 0.24, 0.47, 1] },
-      { "label": "Pebble", "hex": "#9f8f80", "hsl": [29.03, 0.14, 0.56, 1] },
-      { "label": "Beach", "hex": "#b7a797", "hsl": [30, 0.18, 0.65, 1] },
-      { "label": "Latte", "hex": "#ded2c6", "hsl": [30, 0.27, 0.82, 1] },
-      { "label": "Cheddar", "hex": "#f2993d", "hsl": [30.5, 0.87, 0.59, 1] },
-      { "label": "Daisy", "hex": "#e6af76", "hsl": [30.54, 0.69, 0.68, 1] },
+      {
+        "label": "Brown Sugar",
+        "hex": "#967B68",
+        "hsl": [24.78, 0.18, 0.5, 1]
+      },
+      { "label": "Amber", "hex": "#CB5705", "hsl": [24.85, 0.95, 0.41, 1] },
+      { "label": "Gingersnap", "hex": "#883B04", "hsl": [25, 0.94, 0.27, 1] },
+      { "label": "Caramel", "hex": "#B35F1E", "hsl": [26.17, 0.71, 0.41, 1] },
+      { "label": "Milk Can", "hex": "#635E5A", "hsl": [26.67, 0.05, 0.37, 1] },
+      { "label": "Cheddar", "hex": "#FA8724", "hsl": [27.76, 0.96, 0.56, 1] },
+      { "label": "Wheat", "hex": "#E3D2C2", "hsl": [29.09, 0.37, 0.83, 1] },
+      { "label": "Sesame", "hex": "#F2E0CF", "hsl": [29.14, 0.57, 0.88, 1] },
+      { "label": "Maple", "hex": "#A7794D", "hsl": [29.33, 0.37, 0.48, 1] },
+      { "label": "Nutmeg", "hex": "#AC7D4F", "hsl": [29.68, 0.37, 0.49, 1] },
+      { "label": "Marigold", "hex": "#FFB061", "hsl": [30, 1, 0.69, 1] },
+      { "label": "Daisy", "hex": "#EBAA68", "hsl": [30.23, 0.77, 0.66, 1] },
+      { "label": "Spice", "hex": "#D76D00", "hsl": [30.42, 1, 0.42, 1] },
+      { "label": "Suede", "hex": "#9E651D", "hsl": [33.49, 0.69, 0.37, 1] },
+      { "label": "Ochre", "hex": "#C27400", "hsl": [35.88, 1, 0.38, 1] },
+      { "label": "Butterscotch", "hex": "#CE8000", "hsl": [37.28, 1, 0.4, 1] },
+      { "label": "Chestnut", "hex": "#877049", "hsl": [37.74, 0.3, 0.41, 1] },
+      { "label": "Teadye", "hex": "#B29460", "hsl": [38.05, 0.35, 0.54, 1] },
       {
         "label": "Cappuccino",
-        "hex": "#cbb196",
-        "hsl": [30.57, 0.34, 0.69, 1]
+        "hex": "#CBB794",
+        "hsl": [38.18, 0.35, 0.69, 1]
       },
-      {
-        "label": "Gingersnap",
-        "hex": "#95520c",
-        "hsl": [30.66, 0.85, 0.32, 1]
-      },
-      { "label": "Spice", "hex": "#d37f27", "hsl": [30.7, 0.69, 0.49, 1] },
-      { "label": "Marigold", "hex": "#fcb972", "hsl": [30.87, 0.96, 0.72, 1] },
-      { "label": "Tea Dye", "hex": "#b8956e", "hsl": [31.62, 0.34, 0.58, 1] },
-      { "label": "Suede", "hex": "#a67331", "hsl": [33.85, 0.54, 0.42, 1] },
-      { "label": "Ochre", "hex": "#c38228", "hsl": [34.84, 0.66, 0.46, 1] },
-      {
-        "label": "Butterscotch",
-        "hex": "#ce8a27",
-        "hsl": [35.57, 0.68, 0.48, 1]
-      },
-      { "label": "Palomino", "hex": "#cab596", "hsl": [35.77, 0.33, 0.69, 1] },
-      { "label": "Eggnog", "hex": "#e9d1ab", "hsl": [36.77, 0.58, 0.79, 1] },
-      { "label": "Trail", "hex": "#ada290", "hsl": [37.24, 0.15, 0.62, 1] },
-      { "label": "Biscuit", "hex": "#dac7a6", "hsl": [38.08, 0.41, 0.75, 1] },
-      { "label": "Linen", "hex": "#ece1cd", "hsl": [38.71, 0.45, 0.86, 1] },
-      { "label": "Putty", "hex": "#fef5e4", "hsl": [39.23, 0.93, 0.95, 1] },
-      { "label": "Cider", "hex": "#c59028", "hsl": [39.75, 0.66, 0.46, 1] },
-      { "label": "Vanilla", "hex": "#ffedc9", "hsl": [40, 1, 0.89, 1] },
-      { "label": "Beehive", "hex": "#fcdfa3", "hsl": [40.45, 0.94, 0.81, 1] },
-      { "label": "Honey", "hex": "#e9b955", "hsl": [40.54, 0.77, 0.62, 1] },
-      { "label": "Daffodil", "hex": "#ffc854", "hsl": [40.7, 1, 0.66, 1] },
-      { "label": "Golden", "hex": "#ddb152", "hsl": [41.01, 0.67, 0.59, 1] },
+      { "label": "Putty", "hex": "#FFF7E6", "hsl": [40.8, 1, 0.95, 1] },
+      { "label": "Eggnog", "hex": "#EBD6A8", "hsl": [41.19, 0.63, 0.79, 1] },
+      { "label": "Pewter", "hex": "#B3B0A9", "hsl": [42, 0.06, 0.68, 1] },
+      { "label": "Daffodil", "hex": "#FFC438", "hsl": [42.21, 1, 0.61, 1] },
+      { "label": "Ivory", "hex": "#F7F0DF", "hsl": [42.5, 0.6, 0.92, 1] },
+      { "label": "Cider", "hex": "#C28B00", "hsl": [42.99, 1, 0.38, 1] },
+      { "label": "Palomino", "hex": "#CBBC94", "hsl": [43.64, 0.35, 0.69, 1] },
+      { "label": "Ducky", "hex": "#FFC426", "hsl": [43.69, 1, 0.57, 1] },
+      { "label": "Golden", "hex": "#DFB135", "hsl": [43.76, 0.73, 0.54, 1] },
+      { "label": "Honey", "hex": "#EBBD38", "hsl": [44.58, 0.82, 0.57, 1] },
+      { "label": "Beehive", "hex": "#FCE396", "hsl": [45.29, 0.94, 0.79, 1] },
+      { "label": "Biscuit", "hex": "#DCCEA2", "hsl": [45.52, 0.45, 0.75, 1] },
       {
         "label": "Riley Yellow",
-        "hex": "#f6ca67",
-        "hsl": [41.54, 0.89, 0.68, 1]
+        "hex": "#F5CC4A",
+        "hsl": [45.61, 0.9, 0.63, 1]
       },
-      { "label": "Ivory", "hex": "#f4eddd", "hsl": [41.74, 0.51, 0.91, 1] },
-      {
-        "label": "White Sand",
-        "hex": "#fef7e7",
-        "hsl": [41.74, 0.92, 0.95, 1]
-      },
-      { "label": "Ducky", "hex": "#ffc641", "hsl": [42, 1, 0.63, 1] },
-      {
-        "label": "Light Gray",
-        "hex": "#c5c0b4",
-        "hsl": [42.35, 0.13, 0.74, 1]
-      },
-      { "label": "Bark", "hex": "#504323", "hsl": [42.67, 0.39, 0.23, 1] },
-      {
-        "label": "Shortbread",
-        "hex": "#f9eccc",
-        "hsl": [42.67, 0.79, 0.89, 1]
-      },
-      {
-        "label": "Pina Colada",
-        "hex": "#f6eed9",
-        "hsl": [43.45, 0.62, 0.91, 1]
-      },
-      { "label": "Dandelions", "hex": "#ffdb7b", "hsl": [43.64, 1, 0.74, 1] },
-      {
-        "label": "Vintage White",
-        "hex": "#f9f3e3",
-        "hsl": [43.64, 0.65, 0.93, 1]
-      },
+      { "label": "White Sand", "hex": "#FFFAE8", "hsl": [46.96, 1, 0.95, 1] },
+      { "label": "Dandelions", "hex": "#FFDE61", "hsl": [47.47, 1, 0.69, 1] },
       {
         "label": "Riley Mustard",
-        "hex": "#d4af44",
-        "hsl": [44.58, 0.63, 0.55, 1]
+        "hex": "#DCB100",
+        "hsl": [48.27, 1, 0.43, 1]
       },
-      { "label": "Curry", "hex": "#c09f2e", "hsl": [46.44, 0.61, 0.47, 1] },
-      { "label": "Sunshine", "hex": "#f5e4a5", "hsl": [47.25, 0.8, 0.8, 1] },
-      { "label": "Shrubs", "hex": "#4c462e", "hsl": [48, 0.25, 0.24, 1] },
+      { "label": "Beach", "hex": "#B5B099", "hsl": [49.29, 0.16, 0.65, 1] },
+      { "label": "Linen", "hex": "#EDE8CF", "hsl": [50, 0.45, 0.87, 1] },
+      { "label": "Pebble", "hex": "#97937E", "hsl": [50.4, 0.11, 0.54, 1] },
+      {
+        "label": "Shortbread",
+        "hex": "#FAF2C7",
+        "hsl": [50.59, 0.84, 0.88, 1]
+      },
+      {
+        "label": "Piña Colada",
+        "hex": "#FAF5D9",
+        "hsl": [50.91, 0.77, 0.92, 1]
+      },
+      { "label": "Vanilla", "hex": "#FFF5BD", "hsl": [50.91, 1, 0.87, 1] },
+      { "label": "Bark", "hex": "#3C3612", "hsl": [51.43, 0.54, 0.15, 1] },
+      { "label": "Curry", "hex": "#B9A507", "hsl": [53.26, 0.93, 0.38, 1] },
+      { "label": "Sunshine", "hex": "#F5EB96", "hsl": [53.68, 0.83, 0.77, 1] },
+      {
+        "label": "Vintage White",
+        "hex": "#FCFAE8",
+        "hsl": [54, 0.77, 0.95, 1]
+      },
+      { "label": "Canary", "hex": "#FCFA75", "hsl": [59.11, 0.96, 0.72, 1] },
+      { "label": "Cotton", "hex": "#FFFFF0", "hsl": [60, 1, 0.97, 1] },
+      { "label": "Le Créme", "hex": "#FCFCE8", "hsl": [60, 0.77, 0.95, 1] },
+      { "label": "Pfd White", "hex": "#FFFFF0", "hsl": [60, 1, 0.97, 1] },
+      { "label": "Riley White", "hex": "#FFFFF5", "hsl": [60, 1, 0.98, 1] },
+      {
+        "label": "Lemon Zest",
+        "hex": "#FAFC29",
+        "hsl": [60.57, 0.97, 0.57, 1]
+      },
       {
         "label": "Bean Sprout",
-        "hex": "#e3d483",
-        "hsl": [50.63, 0.63, 0.7, 1]
+        "hex": "#DEE369",
+        "hsl": [62.46, 0.69, 0.65, 1]
       },
-      { "label": "Le Creme", "hex": "#fbf8e7", "hsl": [51, 0.71, 0.95, 1] },
-      { "label": "Meadow", "hex": "#c6c1a4", "hsl": [51.18, 0.23, 0.71, 1] },
-      { "label": "Canary", "hex": "#ffef8f", "hsl": [51.43, 1, 0.78, 1] },
-      { "label": "Ash", "hex": "#c1bfb2", "hsl": [52, 0.11, 0.73, 1] },
-      { "label": "Cotton", "hex": "#fffdf0", "hsl": [52, 1, 0.97, 1] },
-      { "label": "Pfdwhite", "hex": "#fffdf0", "hsl": [52, 1, 0.97, 1] },
+      { "label": "Citron", "hex": "#CCDE14", "hsl": [65.35, 0.83, 0.47, 1] },
+      { "label": "Sorbet", "hex": "#FAFFC7", "hsl": [65.36, 1, 0.89, 1] },
+      { "label": "Pearl", "hex": "#FCFFDE", "hsl": [65.45, 1, 0.94, 1] },
+      { "label": "Trail", "hex": "#A8AB8E", "hsl": [66.21, 0.15, 0.61, 1] },
+      { "label": "Split Pea", "hex": "#95A71F", "hsl": [67.94, 0.69, 0.39, 1] },
+      { "label": "Asparagus", "hex": "#A7BD2B", "hsl": [69.04, 0.63, 0.45, 1] },
+      { "label": "Shrubs", "hex": "#373C1C", "hsl": [69.38, 0.36, 0.17, 1] },
+      { "label": "Artichoke", "hex": "#8D9F4B", "hsl": [72.86, 0.36, 0.46, 1] },
+      { "label": "Cloud", "hex": "#FCFFF2", "hsl": [73.85, 1, 0.97, 1] },
       {
         "label": "Lemongrass",
-        "hex": "#aba67e",
-        "hsl": [53.33, 0.21, 0.58, 1]
+        "hex": "#A5B66D",
+        "hsl": [73.97, 0.33, 0.57, 1]
       },
-      { "label": "Lemon Zest", "hex": "#ffed45", "hsl": [54.19, 1, 0.64, 1] },
-      { "label": "Citron", "hex": "#d3c639", "hsl": [54.94, 0.64, 0.53, 1] },
-      { "label": "Pearl", "hex": "#fdfbe4", "hsl": [55.2, 0.86, 0.94, 1] },
-      { "label": "Artichoke", "hex": "#979363", "hsl": [55.38, 0.21, 0.49, 1] },
-      { "label": "Sorbet", "hex": "#fbf8d2", "hsl": [55.61, 0.84, 0.9, 1] },
-      { "label": "Split Pea", "hex": "#a29d3f", "hsl": [56.97, 0.44, 0.44, 1] },
-      { "label": "Asparagus", "hex": "#b0ad4c", "hsl": [58.2, 0.4, 0.49, 1] },
-      { "label": "Cloud", "hex": "#fbfbf1", "hsl": [60, 0.56, 0.96, 1] },
-      { "label": "Riley White", "hex": "#fefef4", "hsl": [60, 0.83, 0.98, 1] },
-      { "label": "Sand Dollar", "hex": "#e2e2da", "hsl": [60, 0.12, 0.87, 1] },
-      { "label": "Moss", "hex": "#979b3d", "hsl": [62.55, 0.44, 0.42, 1] },
-      { "label": "Kiwi", "hex": "#cfd760", "hsl": [64.03, 0.6, 0.61, 1] },
-      { "label": "Parsley", "hex": "#717832", "hsl": [66, 0.41, 0.33, 1] },
-      { "label": "Froggy", "hex": "#afc026", "hsl": [66.62, 0.67, 0.45, 1] },
-      { "label": "Avocado", "hex": "#5b6238", "hsl": [70, 0.27, 0.3, 1] },
-      { "label": "Echo", "hex": "#d8d9d3", "hsl": [70, 0.07, 0.84, 1] },
-      { "label": "Pear", "hex": "#bcc984", "hsl": [71.3, 0.39, 0.65, 1] },
-      { "label": "Cobblestone", "hex": "#a4a5a0", "hsl": [72, 0.03, 0.64, 1] },
+      { "label": "Moss", "hex": "#88AE0C", "hsl": [74.07, 0.87, 0.36, 1] },
+      { "label": "Kiwi", "hex": "#C7F538", "hsl": [74.6, 0.9, 0.59, 1] },
+      { "label": "Froggy", "hex": "#A2DB00", "hsl": [75.62, 1, 0.43, 1] },
+      { "label": "Meadow", "hex": "#C2CFA2", "hsl": [77.33, 0.32, 0.72, 1] },
+      { "label": "Parsley", "hex": "#5D8302", "hsl": [77.67, 0.97, 0.26, 1] },
+      { "label": "Riley Lime", "hex": "#A1FF00", "hsl": [82.12, 1, 0.5, 1] },
+      { "label": "Avocado", "hex": "#476219", "hsl": [82.19, 0.59, 0.24, 1] },
+      { "label": "Pear", "hex": "#B5E666", "hsl": [82.97, 0.72, 0.65, 1] },
+      { "label": "Zucchini", "hex": "#3C5A10", "hsl": [84.32, 0.7, 0.21, 1] },
       {
-        "label": "Riley Lime",
-        "hex": "#afd139",
-        "hsl": [73.42, 0.62, 0.52, 1]
+        "label": "Light Gray",
+        "hex": "#C5CCBB",
+        "hsl": [84.71, 0.14, 0.77, 1]
       },
-      { "label": "Zucchini", "hex": "#525c30", "hsl": [73.64, 0.31, 0.27, 1] },
-      { "label": "Off White", "hex": "#f3f5ed", "hsl": [75, 0.29, 0.95, 1] },
-      { "label": "Pesto", "hex": "#8cae3d", "hsl": [78.05, 0.48, 0.46, 1] },
-      { "label": "Wasabi", "hex": "#b1d567", "hsl": [79.64, 0.57, 0.62, 1] },
-      { "label": "Olive", "hex": "#6c8936", "hsl": [80.96, 0.43, 0.37, 1] },
-      { "label": "Lettuce", "hex": "#a8c17d", "hsl": [82.06, 0.35, 0.62, 1] },
-      { "label": "Honeydew", "hex": "#b7cc93", "hsl": [82.11, 0.36, 0.69, 1] },
-      { "label": "Basil", "hex": "#688241", "hsl": [84, 0.33, 0.38, 1] },
-      { "label": "Lily Pad", "hex": "#607f39", "hsl": [86.57, 0.38, 0.36, 1] },
-      { "label": "Rosemary", "hex": "#6c7a60", "hsl": [92.31, 0.12, 0.43, 1] },
+      { "label": "Pesto", "hex": "#7ED900", "hsl": [85.16, 1, 0.43, 1] },
+      { "label": "Wasabi", "hex": "#A8FF3D", "hsl": [86.91, 1, 0.62, 1] },
+      { "label": "Olive", "hex": "#5D9A14", "hsl": [87.31, 0.77, 0.34, 1] },
+      { "label": "Off White", "hex": "#F5FCED", "hsl": [88, 0.71, 0.96, 1] },
+      { "label": "Sanddollar", "hex": "#E6EDDE", "hsl": [88, 0.29, 0.9, 1] },
+      { "label": "Lily Pad", "hex": "#4C9600", "hsl": [89.6, 1, 0.29, 1] },
+      { "label": "Mink", "hex": "#6E706C", "hsl": [90, 0.02, 0.43, 1] },
+      { "label": "Lettuce", "hex": "#9EE659", "hsl": [90.64, 0.74, 0.63, 1] },
+      { "label": "Basil", "hex": "#539712", "hsl": [90.68, 0.79, 0.33, 1] },
+      { "label": "Honeydew", "hex": "#B0ED7A", "hsl": [91.83, 0.76, 0.7, 1] },
+      { "label": "Rustic", "hex": "#92998D", "hsl": [95, 0.06, 0.58, 1] },
+      { "label": "Ash", "hex": "#C0CFB6", "hsl": [96, 0.21, 0.76, 1] },
+      { "label": "Hunter", "hex": "#255D00", "hsl": [96.13, 1, 0.18, 1] },
+      { "label": "Holly", "hex": "#3FA200", "hsl": [96.67, 1, 0.32, 1] },
+      { "label": "Rosemary", "hex": "#5D824A", "hsl": [99.64, 0.27, 0.4, 1] },
       {
         "label": "Riley Green",
-        "hex": "#7ea962",
-        "hsl": [96.34, 0.29, 0.52, 1]
+        "hex": "#62DC26",
+        "hsl": [100.22, 0.72, 0.51, 1]
       },
-      { "label": "Hunter", "hex": "#365728", "hsl": [102.13, 0.37, 0.25, 1] },
-      { "label": "Holly", "hex": "#52843d", "hsl": [102.25, 0.37, 0.38, 1] },
       {
         "label": "Spring Green",
-        "hex": "#a6d496",
-        "hsl": [104.52, 0.42, 0.71, 1]
+        "hex": "#A1FF75",
+        "hsl": [100.87, 1, 0.73, 1]
       },
       {
         "label": "Green Smoothie",
-        "hex": "#75ba61",
-        "hsl": [106.52, 0.39, 0.55, 1]
+        "hex": "#6DF52F",
+        "hsl": [101.21, 0.91, 0.57, 1]
       },
-      { "label": "Garden", "hex": "#65a453", "hsl": [106.67, 0.33, 0.48, 1] },
-      { "label": "Treetop", "hex": "#4d7a41", "hsl": [107.37, 0.3, 0.37, 1] },
-      { "label": "Chive", "hex": "#627a60", "hsl": [115.38, 0.12, 0.43, 1] },
-      { "label": "Clover", "hex": "#659563", "hsl": [117.6, 0.2, 0.49, 1] },
-      { "label": "Pickle", "hex": "#3d6b3d", "hsl": [120, 0.27, 0.33, 1] },
-      { "label": "Lucky", "hex": "#3a8e40", "hsl": [124.29, 0.42, 0.39, 1] },
-      { "label": "Grass", "hex": "#75bd7b", "hsl": [125, 0.35, 0.6, 1] },
-      {
-        "label": "Emerald City",
-        "hex": "#469d56",
-        "hsl": [131.03, 0.38, 0.45, 1]
-      },
+      { "label": "Treetop", "hex": "#399211", "hsl": [101.4, 0.79, 0.32, 1] },
+      { "label": "Garden", "hex": "#5AD822", "hsl": [101.54, 0.73, 0.49, 1] },
+      { "label": "Lucky", "hex": "#37B90D", "hsl": [105.35, 0.87, 0.39, 1] },
+      { "label": "Pickle", "hex": "#2D7916", "hsl": [106.06, 0.69, 0.28, 1] },
+      { "label": "Clover", "hex": "#56B93C", "hsl": [107.52, 0.51, 0.48, 1] },
+      { "label": "Echo", "hex": "#DCE4DA", "hsl": [108, 0.16, 0.87, 1] },
+      { "label": "Grass", "hex": "#6EF74F", "hsl": [108.93, 0.91, 0.64, 1] },
+      { "label": "Forest", "hex": "#106000", "hsl": [110, 1, 0.19, 1] },
+      { "label": "Chive", "hex": "#4F8747", "hsl": [112.5, 0.31, 0.4, 1] },
       {
         "label": "Timberline",
-        "hex": "#295232",
-        "hsl": [133.17, 0.33, 0.24, 1]
+        "hex": "#1D5416",
+        "hsl": [113.23, 0.58, 0.21, 1]
       },
-      { "label": "Woodland", "hex": "#00320c", "hsl": [134.4, 1, 0.1, 1] },
-      { "label": "Sage", "hex": "#b9d5c1", "hsl": [137.14, 0.25, 0.78, 1] },
-      { "label": "Whisper", "hex": "#d3e0d7", "hsl": [138.46, 0.17, 0.85, 1] },
-      { "label": "Lead", "hex": "#313733", "hsl": [140, 0.06, 0.2, 1] },
       {
-        "label": "Lodge Pole",
-        "hex": "#5c876b",
-        "hsl": [140.93, 0.19, 0.45, 1]
+        "label": "Emerald City",
+        "hex": "#0FEB00",
+        "hsl": [116.17, 1, 0.46, 1]
       },
       {
         "label": "Christmas Green",
-        "hex": "#004519",
-        "hsl": [141.74, 1, 0.14, 1]
+        "hex": "#074104",
+        "hsl": [117.05, 0.88, 0.14, 1]
       },
-      { "label": "Cactus", "hex": "#477d5b", "hsl": [142.22, 0.28, 0.38, 1] },
-      { "label": "Pine Valley", "hex": "#00431a", "hsl": [143.28, 1, 0.13, 1] },
-      { "label": "Misty", "hex": "#c8e7d7", "hsl": [149.03, 0.39, 0.85, 1] },
-      { "label": "Forest", "hex": "#02572d", "hsl": [150.35, 0.96, 0.17, 1] },
+      { "label": "Sage", "hex": "#B8F5B8", "hsl": [120, 0.75, 0.84, 1] },
+      { "label": "Woodland", "hex": "#032503", "hsl": [120, 0.85, 0.08, 1] },
       {
-        "label": "Pistachio",
-        "hex": "#8eb5a4",
-        "hsl": [153.85, 0.21, 0.63, 1]
+        "label": "Pine Valley",
+        "hex": "#043B05",
+        "hsl": [121.09, 0.87, 0.12, 1]
       },
-      { "label": "Alpine", "hex": "#55ab86", "hsl": [154.19, 0.34, 0.5, 1] },
-      { "label": "Seafoam", "hex": "#98ccb6", "hsl": [154.62, 0.34, 0.7, 1] },
+      { "label": "Cactus", "hex": "#379439", "hsl": [121.29, 0.46, 0.4, 1] },
+      {
+        "label": "Lodgepole",
+        "hex": "#509F52",
+        "hsl": [121.52, 0.33, 0.47, 1]
+      },
+      { "label": "Shamrock", "hex": "#35E349", "hsl": [126.9, 0.76, 0.55, 1] },
+      { "label": "Alpine", "hex": "#52E366", "hsl": [128.28, 0.72, 0.61, 1] },
+      { "label": "Misty", "hex": "#C9FFD1", "hsl": [128.89, 1, 0.89, 1] },
+      { "label": "Whisper", "hex": "#D4F2D9", "hsl": [130, 0.54, 0.89, 1] },
+      { "label": "Kelly", "hex": "#05ED30", "hsl": [131.12, 0.96, 0.47, 1] },
+      { "label": "Seafoam", "hex": "#99F5AB", "hsl": [131.74, 0.82, 0.78, 1] },
       {
         "label": "Hint Of Mint",
-        "hex": "#b1ddcc",
-        "hsl": [156.82, 0.39, 0.78, 1]
+        "hex": "#B3FFC2",
+        "hsl": [131.84, 1, 0.85, 1]
       },
-      {
-        "label": "Sweet Mint",
-        "hex": "#90d0b8",
-        "hsl": [157.5, 0.41, 0.69, 1]
-      },
-      { "label": "Shamrock", "hex": "#20a475", "hsl": [158.64, 0.67, 0.38, 1] },
-      { "label": "Kelly", "hex": "#009f69", "hsl": [159.62, 1, 0.31, 1] },
-      { "label": "Leaf", "hex": "#69bda3", "hsl": [161.43, 0.39, 0.58, 1] },
-      { "label": "Vivid", "hex": "#62b19d", "hsl": [164.81, 0.34, 0.54, 1] },
-      {
-        "label": "Sea Glass",
-        "hex": "#69c6b1",
-        "hsl": [166.45, 0.45, 0.59, 1]
-      },
-      { "label": "Neptune", "hex": "#01735a", "hsl": [166.84, 0.98, 0.23, 1] },
-      { "label": "Songbird", "hex": "#afdad1", "hsl": [167.44, 0.37, 0.77, 1] },
-      { "label": "Bleached", "hex": "#cfeae5", "hsl": [168.89, 0.39, 0.86, 1] },
+      { "label": "Sweet Mint", "hex": "#8FFFA6", "hsl": [132.32, 1, 0.78, 1] },
+      { "label": "Leaf", "hex": "#6AF78D", "hsl": [134.89, 0.9, 0.69, 1] },
+      { "label": "Pistachio", "hex": "#8BD79E", "hsl": [135, 0.49, 0.69, 1] },
+      { "label": "Vivid", "hex": "#4DF584", "hsl": [139.64, 0.89, 0.63, 1] },
+      { "label": "Sea Glass", "hex": "#6EFF9E", "hsl": [139.86, 1, 0.72, 1] },
+      { "label": "Neptune", "hex": "#029336", "hsl": [141.52, 0.97, 0.29, 1] },
+      { "label": "Songbird", "hex": "#B0FCCC", "hsl": [142.11, 0.93, 0.84, 1] },
       {
         "label": "Bleached Denim",
-        "hex": "#cfeae5",
-        "hsl": [168.89, 0.39, 0.86, 1]
+        "hex": "#D1FFE3",
+        "hsl": [143.48, 1, 0.91, 1]
       },
-      { "label": "Crocodile", "hex": "#0b332c", "hsl": [169.5, 0.65, 0.12, 1] },
-      { "label": "Poseidon", "hex": "#007f6c", "hsl": [171.02, 1, 0.25, 1] },
-      { "label": "Jade", "hex": "#017568", "hsl": [173.28, 0.98, 0.23, 1] },
-      { "label": "Dove", "hex": "#97aaa8", "hsl": [173.68, 0.1, 0.63, 1] },
-      { "label": "Scuba", "hex": "#73cac1", "hsl": [173.79, 0.45, 0.62, 1] },
-      { "label": "Rainforest", "hex": "#009d92", "hsl": [175.8, 1, 0.31, 1] },
-      { "label": "Cottage", "hex": "#51b8b5", "hsl": [178.25, 0.42, 0.52, 1] },
-      { "label": "Mermaid", "hex": "#00a6a2", "hsl": [178.55, 1, 0.33, 1] },
-      { "label": "Riley Teal", "hex": "#00918e", "hsl": [178.76, 1, 0.28, 1] },
-      { "label": "Cozy", "hex": "#006665", "hsl": [179.41, 1, 0.2, 1] },
-      { "label": "Moonstone", "hex": "#939999", "hsl": [180, 0.03, 0.59, 1] },
-      { "label": "Poolside", "hex": "#01b0b5", "hsl": [181.67, 0.99, 0.36, 1] },
-      { "label": "Oceanside", "hex": "#00676c", "hsl": [182.78, 1, 0.21, 1] },
-      { "label": "Peacock", "hex": "#00b6c1", "hsl": [183.42, 1, 0.38, 1] },
+      { "label": "Poseidon", "hex": "#00AD4C", "hsl": [146.36, 1, 0.34, 1] },
+      { "label": "Scuba", "hex": "#78FFB5", "hsl": [147.11, 1, 0.74, 1] },
+      { "label": "Jade", "hex": "#11934E", "hsl": [148.15, 0.79, 0.32, 1] },
+      {
+        "label": "Rainforest",
+        "hex": "#26DC7E",
+        "hsl": [149.01, 0.72, 0.51, 1]
+      },
+      {
+        "label": "Crocodile",
+        "hex": "#0D2A1C",
+        "hsl": [151.03, 0.53, 0.11, 1]
+      },
+      { "label": "Cottage", "hex": "#5CF2AB", "hsl": [151.6, 0.85, 0.65, 1] },
+      { "label": "Mermaid", "hex": "#05FA8C", "hsl": [153.06, 0.96, 0.5, 1] },
+      {
+        "label": "Riley Teal",
+        "hex": "#17C779",
+        "hsl": [153.41, 0.79, 0.44, 1]
+      },
+      { "label": "Lead", "hex": "#1F2D27", "hsl": [154.29, 0.18, 0.15, 1] },
+      {
+        "label": "Cobblestone",
+        "hex": "#9FB0A9",
+        "hsl": [155.29, 0.1, 0.66, 1]
+      },
+      { "label": "Poolside", "hex": "#17FFA6", "hsl": [156.98, 1, 0.55, 1] },
+      { "label": "Dove", "hex": "#93C0AF", "hsl": [157.33, 0.26, 0.66, 1] },
+      { "label": "Peacock", "hex": "#33FFB5", "hsl": [158.24, 1, 0.6, 1] },
       {
         "label": "Wedgewood",
-        "hex": "#5fa0a4",
-        "hsl": [183.48, 0.27, 0.51, 1]
+        "hex": "#5CC5A4",
+        "hsl": [161.14, 0.48, 0.57, 1]
       },
-      { "label": "Dolphin", "hex": "#778f91", "hsl": [184.62, 0.11, 0.52, 1] },
-      { "label": "Raindrop", "hex": "#469ea7", "hsl": [185.57, 0.41, 0.46, 1] },
-      {
-        "label": "Cape Verde",
-        "hex": "#0a616a",
-        "hsl": [185.63, 0.83, 0.23, 1]
-      },
-      { "label": "Lagoon", "hex": "#016974", "hsl": [185.74, 0.98, 0.23, 1] },
-      { "label": "Azure", "hex": "#009eb1", "hsl": [186.44, 1, 0.35, 1] },
+      { "label": "Cozy", "hex": "#007954", "hsl": [161.65, 1, 0.24, 1] },
+      { "label": "Lagoon", "hex": "#01845C", "hsl": [161.68, 0.98, 0.26, 1] },
+      { "label": "Sky", "hex": "#7AFAD4", "hsl": [162.19, 0.93, 0.73, 1] },
+      { "label": "Riley Aqua", "hex": "#6BFAD1", "hsl": [162.8, 0.93, 0.7, 1] },
+      { "label": "Raindrop", "hex": "#4BCAA7", "hsl": [163.46, 0.55, 0.54, 1] },
       {
         "label": "Bear Lake",
-        "hex": "#5eb2bd",
-        "hsl": [186.95, 0.42, 0.55, 1]
+        "hex": "#61E0BF",
+        "hsl": [164.41, 0.67, 0.63, 1]
       },
-      { "label": "Sky", "hex": "#73c7d2", "hsl": [186.95, 0.51, 0.64, 1] },
-      {
-        "label": "Riley Aqua",
-        "hex": "#60c2cf",
-        "hsl": [187.03, 0.54, 0.59, 1]
-      },
-      { "label": "Carbon", "hex": "#20373b", "hsl": [188.89, 0.3, 0.18, 1] },
-      { "label": "Powder", "hex": "#dde8ea", "hsl": [189.23, 0.24, 0.89, 1] },
-      { "label": "Capri", "hex": "#2e8b9c", "hsl": [189.27, 0.54, 0.4, 1] },
-      { "label": "Storm", "hex": "#85989c", "hsl": [190.43, 0.1, 0.57, 1] },
-      { "label": "Calypso", "hex": "#0087a5", "hsl": [190.91, 1, 0.32, 1] },
-      { "label": "Surf", "hex": "#00bde7", "hsl": [190.91, 1, 0.45, 1] },
-      {
-        "label": "Mediterranean",
-        "hex": "#134d5b",
-        "hsl": [191.67, 0.65, 0.22, 1]
-      },
-      { "label": "Cement", "hex": "#a8acad", "hsl": [192, 0.03, 0.67, 1] },
-      { "label": "Dream", "hex": "#97bfc9", "hsl": [192, 0.32, 0.69, 1] },
-      {
-        "label": "Blackboard",
-        "hex": "#2e454b",
-        "hsl": [192.41, 0.24, 0.24, 1]
-      },
-      { "label": "Paradise", "hex": "#007392", "hsl": [192.74, 1, 0.29, 1] },
-      {
-        "label": "Colonial Blue",
-        "hex": "#204e5b",
-        "hsl": [193.22, 0.48, 0.24, 1]
-      },
-      { "label": "Turquoise", "hex": "#0099c5", "hsl": [193.4, 1, 0.39, 1] },
-      { "label": "Cadet", "hex": "#007497", "hsl": [193.91, 1, 0.3, 1] },
+      { "label": "Azure", "hex": "#0FE1AE", "hsl": [165.43, 0.88, 0.47, 1] },
+      { "label": "Cement", "hex": "#A6BCB7", "hsl": [166.36, 0.14, 0.69, 1] },
+      { "label": "Powder", "hex": "#E0F7F2", "hsl": [166.96, 0.59, 0.92, 1] },
+      { "label": "Oceanside", "hex": "#047A62", "hsl": [167.8, 0.94, 0.25, 1] },
+      { "label": "Storm", "hex": "#7CABA2", "hsl": [168.51, 0.22, 0.58, 1] },
+      { "label": "Dolphin", "hex": "#6D9F96", "hsl": [169.2, 0.21, 0.53, 1] },
+      { "label": "Silver", "hex": "#C2D4D1", "hsl": [170, 0.17, 0.8, 1] },
+      { "label": "Calypso", "hex": "#04BBA1", "hsl": [171.48, 0.96, 0.37, 1] },
+      { "label": "Dream", "hex": "#96DED4", "hsl": [171.67, 0.52, 0.73, 1] },
+      { "label": "Surf", "hex": "#47FFE6", "hsl": [171.85, 1, 0.64, 1] },
       {
         "label": "Cornflower",
-        "hex": "#7db1c1",
-        "hsl": [194.12, 0.35, 0.62, 1]
-      },
-      { "label": "Sea", "hex": "#00a1d7", "hsl": [195.07, 1, 0.42, 1] },
-      { "label": "Stargazer", "hex": "#285e71", "hsl": [195.62, 0.48, 0.3, 1] },
-      { "label": "Deep Water", "hex": "#007ba7", "hsl": [195.81, 1, 0.33, 1] },
-      { "label": "Breeze", "hex": "#36abd7", "hsl": [196.4, 0.67, 0.53, 1] },
-      { "label": "Iron", "hex": "#65767d", "hsl": [197.5, 0.11, 0.44, 1] },
-      {
-        "label": "Celestial",
-        "hex": "#7db6d1",
-        "hsl": [199.29, 0.48, 0.65, 1]
-      },
-      { "label": "Boy  Blue", "hex": "#86c3e0", "hsl": [199.33, 0.59, 0.7, 1] },
-      { "label": "Twilight", "hex": "#1b3644", "hsl": [200.49, 0.43, 0.19, 1] },
-      { "label": "Oxford Blue", "hex": "#003b5b", "hsl": [201.1, 1, 0.18, 1] },
-      { "label": "Cove", "hex": "#017cbf", "hsl": [201.16, 0.99, 0.38, 1] },
-      {
-        "label": "Riley Navy",
-        "hex": "#12384d",
-        "hsl": [201.36, 0.62, 0.19, 1]
+        "hex": "#7AD6CC",
+        "hsl": [173.48, 0.53, 0.66, 1]
       },
       {
-        "label": "Riley Medium Blue",
-        "hex": "#539bc3",
-        "hsl": [201.43, 0.48, 0.55, 1]
+        "label": "Cape Verde",
+        "hex": "#166C63",
+        "hsl": [173.72, 0.66, 0.25, 1]
       },
-      { "label": "Thunder", "hex": "#5d6e78", "hsl": [202.22, 0.13, 0.42, 1] },
-      { "label": "Cobalt", "hex": "#006dae", "hsl": [202.41, 1, 0.34, 1] },
-      { "label": "Fog", "hex": "#79868e", "hsl": [202.86, 0.09, 0.52, 1] },
+      { "label": "Capri", "hex": "#35AEA2", "hsl": [174.05, 0.53, 0.45, 1] },
+      { "label": "Moonstone", "hex": "#8DA5A3", "hsl": [175, 0.12, 0.6, 1] },
+      { "label": "Paradise", "hex": "#029489", "hsl": [175.48, 0.97, 0.29, 1] },
+      { "label": "Iceberg", "hex": "#F5FCFC", "hsl": [180, 0.54, 0.97, 1] },
       {
-        "label": "Shipwreck",
-        "hex": "#66737b",
-        "hsl": [202.86, 0.09, 0.44, 1]
-      },
-      { "label": "Denim", "hex": "#256e9b", "hsl": [202.88, 0.61, 0.38, 1] },
-      { "label": "Midnight", "hex": "#002238", "hsl": [203.57, 1, 0.11, 1] },
-      { "label": "Anchor", "hex": "#5a6770", "hsl": [204.55, 0.11, 0.4, 1] },
-      {
-        "label": "Coastal Blue",
-        "hex": "#427091",
-        "hsl": [205.06, 0.37, 0.41, 1]
-      },
-      { "label": "Frost", "hex": "#bad6eb", "hsl": [205.71, 0.55, 0.83, 1] },
-      { "label": "Iceberg", "hex": "#f2f6f9", "hsl": [205.71, 0.37, 0.96, 1] },
-      { "label": "Shadow", "hex": "#55595c", "hsl": [205.71, 0.04, 0.35, 1] },
-      { "label": "Blueberry", "hex": "#3388c9", "hsl": [206, 0.6, 0.49, 1] },
-      { "label": "Sapphire", "hex": "#005fa9", "hsl": [206.27, 1, 0.33, 1] },
-      {
-        "label": "Riley Royal Blue",
-        "hex": "#0056a3",
-        "hsl": [208.34, 1, 0.32, 1]
+        "label": "Turquoise",
+        "hex": "#0DD4D9",
+        "hsl": [181.47, 0.89, 0.45, 1]
       },
       {
-        "label": "Forget-me-not",
-        "hex": "#2e69a1",
-        "hsl": [209.22, 0.56, 0.41, 1]
+        "label": "Blackboard",
+        "hex": "#243839",
+        "hsl": [182.86, 0.23, 0.18, 1]
       },
-      { "label": "Dusk", "hex": "#6389ae", "hsl": [209.6, 0.32, 0.54, 1] },
+      { "label": "Sea", "hex": "#14E0ED", "hsl": [183.59, 0.86, 0.5, 1] },
+      { "label": "Iron", "hex": "#537E82", "hsl": [185.11, 0.22, 0.42, 1] },
       {
         "label": "Riley Gray",
-        "hex": "#99a1aa",
-        "hsl": [211.76, 0.09, 0.63, 1]
+        "hex": "#92B2B5",
+        "hsl": [185.14, 0.19, 0.64, 1]
       },
-      { "label": "Licorice", "hex": "#010d1b", "hsl": [212.31, 0.93, 0.05, 1] },
-      { "label": "Reign", "hex": "#28549d", "hsl": [217.44, 0.59, 0.39, 1] },
+      { "label": "Boy Blue", "hex": "#8CE8F2", "hsl": [185.88, 0.8, 0.75, 1] },
+      { "label": "Shadow", "hex": "#3E5356", "hsl": [187.5, 0.16, 0.29, 1] },
+      { "label": "Celestial", "hex": "#80D9E6", "hsl": [187.65, 0.67, 0.7, 1] },
+      { "label": "Breeze", "hex": "#4FDBF0", "hsl": [187.83, 0.84, 0.63, 1] },
+      { "label": "Carbon", "hex": "#152E32", "hsl": [188.28, 0.41, 0.14, 1] },
+      {
+        "label": "Shipwreck",
+        "hex": "#56777F",
+        "hsl": [191.71, 0.19, 0.42, 1]
+      },
+      { "label": "Fog", "hex": "#6B9099", "hsl": [191.74, 0.18, 0.51, 1] },
+      { "label": "Frost", "hex": "#BDEDFA", "hsl": [192.79, 0.86, 0.86, 1] },
+      { "label": "Stargazer", "hex": "#1D6174", "hsl": [193.1, 0.6, 0.28, 1] },
+      { "label": "Colonial", "hex": "#164B5A", "hsl": [193.24, 0.61, 0.22, 1] },
+      { "label": "Thunder", "hex": "#48717D", "hsl": [193.58, 0.27, 0.39, 1] },
+      {
+        "label": "Mediterranean",
+        "hex": "#0F495B",
+        "hsl": [194.21, 0.72, 0.21, 1]
+      },
+      { "label": "Cadet", "hex": "#1088AE", "hsl": [194.43, 0.83, 0.37, 1] },
+      {
+        "label": "Riley Medium Blue",
+        "hex": "#54BAE3",
+        "hsl": [197.2, 0.72, 0.61, 1]
+      },
+      { "label": "Anchor", "hex": "#466775", "hsl": [197.87, 0.25, 0.37, 1] },
+      {
+        "label": "Deep Water",
+        "hex": "#1792CC",
+        "hsl": [199.23, 0.8, 0.45, 1]
+      },
+      { "label": "Smoke", "hex": "#414E56", "hsl": [202.86, 0.14, 0.3, 1] },
+      {
+        "label": "Coastal Blue",
+        "hex": "#377AA7",
+        "hsl": [204.11, 0.5, 0.44, 1]
+      },
+      { "label": "Cove", "hex": "#0F94F7", "hsl": [205.6, 0.94, 0.51, 1] },
+      { "label": "Dusk", "hex": "#5B9BCE", "hsl": [206.61, 0.54, 0.58, 1] },
+      { "label": "Denim", "hex": "#2879BA", "hsl": [206.71, 0.65, 0.44, 1] },
+      { "label": "Twilight", "hex": "#0F2B45", "hsl": [208.89, 0.64, 0.16, 1] },
+      {
+        "label": "Oxford Blue",
+        "hex": "#0D365D",
+        "hsl": [209.25, 0.75, 0.21, 1]
+      },
+      { "label": "Blueberry", "hex": "#3D9EFF", "hsl": [210, 1, 0.62, 1] },
+      { "label": "Cobalt", "hex": "#0377F0", "hsl": [210.63, 0.98, 0.48, 1] },
+      {
+        "label": "Riley Navy",
+        "hex": "#082B51",
+        "hsl": [211.23, 0.82, 0.17, 1]
+      },
+      {
+        "label": "Riley Black",
+        "hex": "#01050A",
+        "hsl": [213.33, 0.82, 0.02, 1]
+      },
       {
         "label": "Periwinkle",
-        "hex": "#6a85b5",
-        "hsl": [218.4, 0.34, 0.56, 1]
+        "hex": "#5799ED",
+        "hsl": [213.6, 0.81, 0.64, 1]
       },
-      { "label": "Silver", "hex": "#c3c4c6", "hsl": [220, 0.03, 0.77, 1] },
-      { "label": "Smoke", "hex": "#545559", "hsl": [228, 0.03, 0.34, 1] },
-      { "label": "Regal", "hex": "#2b3165", "hsl": [233.79, 0.4, 0.28, 1] },
-      { "label": "Eggplant", "hex": "#292a60", "hsl": [238.91, 0.4, 0.27, 1] },
-      { "label": "Majesty", "hex": "#4f4c93", "hsl": [242.54, 0.32, 0.44, 1] },
-      { "label": "Amethyst", "hex": "#7369ae", "hsl": [248.7, 0.3, 0.55, 1] },
-      { "label": "Taffy", "hex": "#a095bf", "hsl": [255.71, 0.25, 0.67, 1] },
+      { "label": "Licorice", "hex": "#050C16", "hsl": [215.29, 0.63, 0.05, 1] },
+      {
+        "label": "Forget-me-not",
+        "hex": "#286ED5",
+        "hsl": [215.72, 0.68, 0.5, 1]
+      },
+      { "label": "Midnight", "hex": "#001436", "hsl": [217.78, 1, 0.11, 1] },
+      { "label": "Sapphire", "hex": "#0057F5", "hsl": [218.69, 1, 0.48, 1] },
+      { "label": "Charcoal", "hex": "#2E333E", "hsl": [221.25, 0.15, 0.21, 1] },
+      {
+        "label": "Riley Royal Blue",
+        "hex": "#0547F5",
+        "hsl": [223.5, 0.96, 0.49, 1]
+      },
+      { "label": "Steel", "hex": "#4D505B", "hsl": [227.14, 0.08, 0.33, 1] },
+      { "label": "Reign", "hex": "#1441F0", "hsl": [227.73, 0.88, 0.51, 1] },
+      { "label": "Regal", "hex": "#040D8A", "hsl": [235.97, 0.94, 0.28, 1] },
+      { "label": "Eggplant", "hex": "#040884", "hsl": [238.13, 0.94, 0.27, 1] },
+      { "label": "Majesty", "hex": "#2D2DE3", "hsl": [240, 0.76, 0.53, 1] },
+      { "label": "Amethyst", "hex": "#6159FF", "hsl": [242.89, 1, 0.67, 1] },
+      { "label": "Taffy", "hex": "#9E99F0", "hsl": [243.45, 0.74, 0.77, 1] },
       {
         "label": "Riley Lilac",
-        "hex": "#ab9ec9",
-        "hsl": [258.14, 0.28, 0.7, 1]
+        "hex": "#ABA1FA",
+        "hsl": [246.74, 0.9, 0.81, 1]
       },
-      { "label": "Grape", "hex": "#625080", "hsl": [262.5, 0.23, 0.41, 1] },
-      { "label": "Iris", "hex": "#694d97", "hsl": [262.7, 0.32, 0.45, 1] },
-      { "label": "Charcoal", "hex": "#413f44", "hsl": [264, 0.04, 0.26, 1] },
-      { "label": "Unicorn", "hex": "#9980ba", "hsl": [265.86, 0.3, 0.62, 1] },
-      { "label": "Plum", "hex": "#735c86", "hsl": [272.86, 0.19, 0.44, 1] },
+      { "label": "Grape", "hex": "#4638B0", "hsl": [247, 0.52, 0.45, 1] },
+      { "label": "Iris", "hex": "#4C2DEB", "hsl": [249.79, 0.83, 0.55, 1] },
+      { "label": "Unicorn", "hex": "#9478FF", "hsl": [252.44, 1, 0.74, 1] },
+      { "label": "Plum", "hex": "#614CB0", "hsl": [252.6, 0.4, 0.49, 1] },
       {
         "label": "Riley Dark Purple",
-        "hex": "#6a3180",
-        "hsl": [283.29, 0.45, 0.35, 1]
+        "hex": "#470AD5",
+        "hsl": [258.03, 0.91, 0.44, 1]
       },
-      { "label": "Vanity", "hex": "#ddcbe3", "hsl": [285, 0.3, 0.84, 1] },
-      { "label": "Purple", "hex": "#7b468a", "hsl": [286.76, 0.33, 0.41, 1] },
-      { "label": "Violet", "hex": "#a177a9", "hsl": [290.4, 0.23, 0.56, 1] },
-      { "label": "Crocus", "hex": "#c298c6", "hsl": [294.78, 0.29, 0.69, 1] },
-      { "label": "Thistle", "hex": "#864183", "hsl": [302.61, 0.35, 0.39, 1] },
-      { "label": "Orchid", "hex": "#a25e9b", "hsl": [306.18, 0.27, 0.5, 1] },
-      { "label": "Princess", "hex": "#d1a9cc", "hsl": [307.5, 0.3, 0.74, 1] },
-      { "label": "Sangria", "hex": "#512546", "hsl": [315, 0.37, 0.23, 1] },
-      {
-        "label": "Boysenberry",
-        "hex": "#761b5e",
-        "hsl": [315.82, 0.63, 0.28, 1]
-      },
+      { "label": "Purple", "hex": "#6123DC", "hsl": [260.11, 0.73, 0.5, 1] },
+      { "label": "Violet", "hex": "#9966E8", "hsl": [263.54, 0.74, 0.65, 1] },
+      { "label": "Vanity", "hex": "#E3CCFF", "hsl": [267.06, 1, 0.9, 1] },
+      { "label": "Crocus", "hex": "#C78FFF", "hsl": [270, 1, 0.78, 1] },
+      { "label": "Thistle", "hex": "#7D19DC", "hsl": [270.77, 0.8, 0.48, 1] },
+      { "label": "Orchid", "hex": "#9940E8", "hsl": [271.79, 0.79, 0.58, 1] },
+      { "label": "Sangria", "hex": "#371154", "hsl": [274.03, 0.66, 0.2, 1] },
+      { "label": "Princess", "hex": "#D6A3FC", "hsl": [274.38, 0.94, 0.81, 1] },
+      { "label": "Boysenberry", "hex": "#5E008B", "hsl": [280.58, 1, 0.27, 1] },
+      { "label": "Passion", "hex": "#D63BFA", "hsl": [288.69, 0.95, 0.61, 1] },
       {
         "label": "Riley Fuchsia",
-        "hex": "#a61c72",
-        "hsl": [322.61, 0.71, 0.38, 1]
+        "hex": "#9D00BC",
+        "hsl": [290.11, 1, 0.37, 1]
       },
-      { "label": "Passion", "hex": "#cf5ea0", "hsl": [324.96, 0.54, 0.59, 1] },
-      { "label": "Magenta", "hex": "#bc0561", "hsl": [329.84, 0.95, 0.38, 1] },
-      {
-        "label": "Cranberry",
-        "hex": "#c70c66",
-        "hsl": [331.12, 0.89, 0.41, 1]
-      },
+      { "label": "Espresso", "hex": "#272427", "hsl": [300, 0.04, 0.15, 1] },
+      { "label": "Hibiscus", "hex": "#D642D6", "hsl": [300, 0.64, 0.55, 1] },
       {
         "label": "Riley Burgundy",
-        "hex": "#6e2447",
-        "hsl": [331.62, 0.51, 0.29, 1]
+        "hex": "#5A0E59",
+        "hsl": [300.79, 0.73, 0.2, 1]
       },
-      { "label": "Hibiscus", "hex": "#cf6492", "hsl": [334.21, 0.53, 0.6, 1] },
-      { "label": "Crimson", "hex": "#5c1c36", "hsl": [335.63, 0.53, 0.24, 1] },
-      {
-        "label": "Super Pink",
-        "hex": "#ea508e",
-        "hsl": [335.84, 0.79, 0.62, 1]
-      },
-      { "label": "Solidsteel", "hex": "#5f5a5c", "hsl": [336, 0.03, 0.36, 1] },
       {
         "label": "Bubblegum",
-        "hex": "#eda4c1",
-        "hsl": [336.16, 0.67, 0.79, 1]
+        "hex": "#F791F5",
+        "hsl": [301.18, 0.86, 0.77, 1]
       },
-      { "label": "Wine", "hex": "#711d3e", "hsl": [336.43, 0.59, 0.28, 1] },
-      { "label": "Rose", "hex": "#f389b1", "hsl": [337.36, 0.82, 0.75, 1] },
-      { "label": "Currant", "hex": "#9e003a", "hsl": [337.97, 1, 0.31, 1] },
+      { "label": "Rose", "hex": "#FF69F2", "hsl": [305.2, 1, 0.71, 1] },
+      {
+        "label": "Super Pink",
+        "hex": "#FA29DE",
+        "hsl": [308.04, 0.95, 0.57, 1]
+      },
       {
         "label": "Riley Hot Pink",
-        "hex": "#e96594",
-        "hsl": [338.64, 0.75, 0.65, 1]
+        "hex": "#F740D9",
+        "hsl": [309.84, 0.92, 0.61, 1]
       },
-      { "label": "Merlot", "hex": "#6a0024", "hsl": [339.62, 1, 0.21, 1] },
-      { "label": "Steel", "hex": "#605a5c", "hsl": [340, 0.03, 0.36, 1] },
-      { "label": "Romance", "hex": "#aa214d", "hsl": [340.73, 0.67, 0.4, 1] },
-      { "label": "Brick", "hex": "#93002d", "hsl": [341.63, 1, 0.29, 1] },
+      { "label": "Magenta.", "hex": "#C2009B", "hsl": [312.06, 1, 0.38, 1] },
+      { "label": "Crimson", "hex": "#480D3C", "hsl": [312.2, 0.69, 0.17, 1] },
       {
-        "label": "Tickled Pink",
-        "hex": "#f389a8",
-        "hsl": [342.45, 0.82, 0.75, 1]
+        "label": "Cranberry",
+        "hex": "#D202A5",
+        "hsl": [312.98, 0.98, 0.42, 1]
       },
-      {
-        "label": "Fruit Punch",
-        "hex": "#ed1651",
-        "hsl": [343.53, 0.86, 0.51, 1]
-      },
+      { "label": "Petal Pink", "hex": "#FFC4F2", "hsl": [313.22, 1, 0.88, 1] },
       {
         "label": "Piglet Pink",
-        "hex": "#ef8fa9",
-        "hsl": [343.75, 0.75, 0.75, 1]
+        "hex": "#FA75DC",
+        "hsl": [313.53, 0.93, 0.72, 1]
       },
+      { "label": "Wine", "hex": "#600A47", "hsl": [317.44, 0.81, 0.21, 1] },
       {
-        "label": "Riley Raspberry",
-        "hex": "#f04f78",
-        "hsl": [344.72, 0.84, 0.63, 1]
-      },
-      {
-        "label": "Jazzberry",
-        "hex": "#c71e49",
-        "hsl": [344.73, 0.74, 0.45, 1]
-      },
-      {
-        "label": "Strawberry",
-        "hex": "#c71e47",
-        "hsl": [345.44, 0.74, 0.45, 1]
+        "label": "Riley Baby Pink",
+        "hex": "#FFA3E3",
+        "hsl": [318.26, 1, 0.82, 1]
       },
       {
         "label": "Sugar Pink",
-        "hex": "#f26d8c",
-        "hsl": [346.02, 0.84, 0.69, 1]
+        "hex": "#F04AB8",
+        "hsl": [320.24, 0.85, 0.62, 1]
       },
+      { "label": "Peony", "hex": "#FF8FD9", "hsl": [320.36, 1, 0.78, 1] },
       {
-        "label": "Dahlia Red",
-        "hex": "#911f38",
-        "hsl": [346.84, 0.65, 0.35, 1]
+        "label": "Riley Raspberry",
+        "hex": "#FF29AD",
+        "hsl": [322.99, 1, 0.58, 1]
       },
-      { "label": "Redwood", "hex": "#b61537", "hsl": [347.33, 0.79, 0.4, 1] },
+      { "label": "Romance", "hex": "#A7045F", "hsl": [326.5, 0.95, 0.34, 1] },
+      { "label": "Frosting", "hex": "#FFCCE8", "hsl": [327.06, 1, 0.9, 1] },
+      { "label": "Petunia", "hex": "#FFABD9", "hsl": [327.14, 1, 0.84, 1] },
       {
-        "label": "Petal Pink",
-        "hex": "#f9ced7",
-        "hsl": [347.44, 0.78, 0.89, 1]
+        "label": "Pink Dogwood",
+        "hex": "#F7D6E8",
+        "hsl": [327.27, 0.67, 0.9, 1]
       },
-      { "label": "Barn Red", "hex": "#a22038", "hsl": [348.92, 0.67, 0.38, 1] },
-      { "label": "Peony", "hex": "#f6a4b2", "hsl": [349.76, 0.82, 0.8, 1] },
+      { "label": "Merlot", "hex": "#52042C", "hsl": [329.23, 0.91, 0.17, 1] },
+      { "label": "Currant", "hex": "#99004D", "hsl": [329.8, 1, 0.3, 1] },
+      { "label": "Blossom", "hex": "#FFB3D9", "hsl": [330, 1, 0.85, 1] },
+      { "label": "Tea Rose", "hex": "#F02E87", "hsl": [332.47, 0.87, 0.56, 1] },
       {
-        "label": "Riley Baby Pink",
-        "hex": "#f8b4bf",
-        "hsl": [350.29, 0.83, 0.84, 1]
+        "label": "Pretty In Pink",
+        "hex": "#FAA7CD",
+        "hsl": [332.53, 0.89, 0.82, 1]
       },
-      { "label": "Schoolhouse", "hex": "#ce1a35", "hsl": [351, 0.78, 0.45, 1] },
-      { "label": "Tea Rose", "hex": "#e35669", "hsl": [351.91, 0.72, 0.61, 1] },
-      { "label": "Cayenne", "hex": "#dd4055", "hsl": [351.97, 0.7, 0.56, 1] },
-      {
-        "label": "Cherry Tart",
-        "hex": "#a22533",
-        "hsl": [353.28, 0.63, 0.39, 1]
-      },
-      {
-        "label": "Tractor Red",
-        "hex": "#bc192a",
-        "hsl": [353.74, 0.77, 0.42, 1]
-      },
-      { "label": "Riley Red", "hex": "#cb3443", "hsl": [354.04, 0.59, 0.5, 1] },
-      { "label": "Guava", "hex": "#f05867", "hsl": [354.08, 0.84, 0.64, 1] },
-      { "label": "Tomato", "hex": "#cf2031", "hsl": [354.17, 0.73, 0.47, 1] },
-      { "label": "Marsala", "hex": "#b75e64", "hsl": [355.96, 0.38, 0.54, 1] },
-      { "label": "Petunia", "hex": "#fab9bd", "hsl": [356.31, 0.87, 0.85, 1] },
+      { "label": "Marsala", "hex": "#B64076", "hsl": [332.54, 0.48, 0.48, 1] },
       {
         "label": "Canyon Rose",
-        "hex": "#b76c70",
-        "hsl": [356.8, 0.34, 0.57, 1]
+        "hex": "#B3547D",
+        "hsl": [334.11, 0.38, 0.52, 1]
       },
-      { "label": "Mahogany", "hex": "#6d0d0f", "hsl": [358.75, 0.79, 0.24, 1] },
-      { "label": "Geranium", "hex": "#d93033", "hsl": [358.93, 0.69, 0.52, 1] },
+      { "label": "Brick", "hex": "#8A003A", "hsl": [334.78, 1, 0.27, 1] },
+      { "label": "Guava", "hex": "#FF2E85", "hsl": [335.02, 1, 0.59, 1] },
+      { "label": "Riley Coral", "hex": "#FF78B0", "hsl": [335.11, 1, 0.74, 1] },
+      { "label": "Grapefruit", "hex": "#FF8CBA", "hsl": [336, 1, 0.77, 1] },
+      { "label": "Fruit Punch", "hex": "#FF0063", "hsl": [336.71, 1, 0.5, 1] },
       {
-        "label": "Riley Coral",
-        "hex": "#f59394",
-        "hsl": [359.39, 0.83, 0.77, 1]
+        "label": "Dahlia Red",
+        "hex": "#880738",
+        "hsl": [337.21, 0.9, 0.28, 1]
       },
-      { "label": "Sunset", "hex": "#f04c4d", "hsl": [359.63, 0.85, 0.62, 1] }
+      { "label": "Jazzberry", "hex": "#CE004E", "hsl": [337.28, 1, 0.4, 1] },
+      { "label": "Lipstick", "hex": "#FF639E", "hsl": [337.31, 1, 0.69, 1] },
+      { "label": "Strawberry", "hex": "#CE004B", "hsl": [338.16, 1, 0.4, 1] },
+      { "label": "Cayenne", "hex": "#ED1B64", "hsl": [339.14, 0.85, 0.52, 1] },
+      {
+        "label": "Mellow Rose",
+        "hex": "#ED9EB8",
+        "hsl": [340.25, 0.69, 0.77, 1]
+      },
+      {
+        "label": "Peaches 'n Cream",
+        "hex": "#FFC2D6",
+        "hsl": [340.33, 1, 0.88, 1]
+      },
+      { "label": "Barn Red", "hex": "#9F0232", "hsl": [341.66, 0.98, 0.32, 1] },
+      { "label": "Redwood", "hex": "#BB0239", "hsl": [342.16, 0.98, 0.37, 1] },
+      {
+        "label": "Riley Red",
+        "hex": "#D31244",
+        "hsl": [344.46, 0.84, 0.45, 1]
+      },
+      { "label": "Parfait", "hex": "#FF9CB5", "hsl": [344.85, 1, 0.81, 1] },
+      { "label": "Truffle", "hex": "#484445", "hsl": [345, 0.03, 0.27, 1] },
+      { "label": "Raisin", "hex": "#5D4C50", "hsl": [345.88, 0.1, 0.33, 1] },
+      {
+        "label": "Cherry Tart",
+        "hex": "#9B082A",
+        "hsl": [346.12, 0.9, 0.32, 1]
+      },
+      {
+        "label": "Schoolhouse",
+        "hex": "#D90230",
+        "hsl": [347.16, 0.98, 0.43, 1]
+      },
+      { "label": "Sunset", "hex": "#FF244F", "hsl": [348.22, 1, 0.57, 1] },
+      {
+        "label": "Tractor Red",
+        "hex": "#C20423",
+        "hsl": [350.21, 0.96, 0.39, 1]
+      },
+      {
+        "label": "Apricot Blush",
+        "hex": "#F5788C",
+        "hsl": [350.4, 0.86, 0.72, 1]
+      },
+      {
+        "label": "Champagne Pink",
+        "hex": "#FAEBED",
+        "hsl": [352, 0.6, 0.95, 1]
+      },
+      { "label": "Rouge", "hex": "#FA3B54", "hsl": [352.15, 0.95, 0.61, 1] },
+      { "label": "Ballerina", "hex": "#FAE3E6", "hsl": [352.17, 0.7, 0.94, 1] },
+      { "label": "Tomato", "hex": "#D7001B", "hsl": [352.47, 1, 0.42, 1] },
+      { "label": "Adobe 2", "hex": "#A52B3A", "hsl": [352.62, 0.59, 0.41, 1] },
+      { "label": "Salmon", "hex": "#FF6375", "hsl": [353.08, 1, 0.69, 1] },
+      {
+        "label": "Riley Brown",
+        "hex": "#593C3F",
+        "hsl": [353.79, 0.19, 0.29, 1]
+      },
+      { "label": "Geranium", "hex": "#E90C20", "hsl": [354.57, 0.9, 0.48, 1] },
+      {
+        "label": "Terracotta",
+        "hex": "#95262F",
+        "hsl": [355.14, 0.59, 0.37, 1]
+      },
+      {
+        "label": "Burnt Orange",
+        "hex": "#BC252C",
+        "hsl": [357.22, 0.67, 0.44, 1]
+      },
+      { "label": "Mahogany", "hex": "#5B0001", "hsl": [359.34, 1, 0.18, 1] }
     ]
   },
   "kona": {
