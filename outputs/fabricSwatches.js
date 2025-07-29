@@ -2409,7 +2409,7 @@ export const fabricSwatches = {
       lipstick: '#FF639E',
       lodgepole: '#509F52',
       lucky: '#37B90D',
-      'magenta.': '#C2009B',
+      magenta: '#C2009B',
       mahogany: '#5B0001',
       majesty: '#2D2DE3',
       maple: '#A7794D',
